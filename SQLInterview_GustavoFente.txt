@@ -1,0 +1,46 @@
+# Questions
+
+- Tell me about 'Developed Windows Applications to generate data file uploads for Accounting and Salesforce modules'
+- Tell me about Brands Mart 'Advertising Content Management system to upload the weekly set of images for the External Website's slideshow, banners and videos'
+- How do you learn? 
+- How do you get motivated for tasks you are not looking forward to? 
+
+create 
+function uf_functionA (
+    vlCost  decimal(18, 4),
+    vlPrice decimal(18, 4)
+    )
+returns decimal(18, 4)
+deterministic
+begin
+
+    /*  
+        TEST
+        select uf_functionA(75,100); -- returns ???
+    */
+
+    return 1 - vlCost / nullif(vlPrice, 0);
+
+end;
+
+#######################################################################
+
+create
+function uf_IAmBroken (
+    vlPattern        varchar(255),
+    vlStringToSearch varchar(4000)
+    )
+returns int(11)
+deterministic
+begin
+
+    /* 
+        TEST 
+        select uf_IAmBroken(':', 'hello:world:'); 
+    */
+
+    char_length(vlStringToSearch) - char_length(replace(vlStringToSearch, vlPattern, ''));
+
+end;
+
+#######################################################################

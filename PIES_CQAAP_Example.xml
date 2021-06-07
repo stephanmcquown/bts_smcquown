@@ -1,0 +1,605 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PIES xmlns="www.aftermarket.org">
+  <Header>
+    <PIESVersion>6.1.2</PIESVersion>
+    <BlanketEffectiveDate>2020-07-01</BlanketEffectiveDate>
+    <ParentAAIAID>DMHM</ParentAAIAID>
+    <BrandOwnerAAIAID>DMJN</BrandOwnerAAIAID>
+    <TechnicalContact>Thomas Willey</TechnicalContact>
+    <ContactEmail>twilley@nationaloak.com</ContactEmail>
+  </Header>
+  <Items>
+    <Item MaintenanceType="A">
+      <HazardousMaterialCode>N</HazardousMaterialCode>
+      <ItemLevelGTIN GTINQualifier="UP">781311068513</ItemLevelGTIN>
+      <PartNumber>6851</PartNumber>
+      <BrandAAIAID>FBGS</BrandAAIAID>
+      <BrandLabel>GEN-NEX</BrandLabel>
+      <QuantityPerApplication UOM="EA" Qualifier="NOR">1</QuantityPerApplication>
+      <ItemEffectiveDate>2020-07-01</ItemEffectiveDate>
+      <AvailableDate>2020-07-01</AvailableDate>
+      <MinimumOrderQuantity UOM="EA">1</MinimumOrderQuantity>
+      <PartTerminologyID>17758</PartTerminologyID>
+      <Descriptions>
+        <Description MaintenanceType="A" DescriptionCode="DES" LanguageCode="EN">GEN-NEX ALL PURPOSE COVERALL - S</Description>
+        <Description MaintenanceType="A" DescriptionCode="SHO" LanguageCode="EN">GEN-NEXCOVERALL S</Description>
+      </Descriptions>
+      <Prices>
+        <Pricing MaintenanceType="A" PriceType="RET">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">6.94</Price>
+        </Pricing>
+        <Pricing MaintenanceType="A" PriceType="ZZ1">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">4.62</Price>
+        </Pricing>
+      </Prices>
+      <ExtendedInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="EMS" LanguageCode="EN">1</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="REM" LanguageCode="EN">N</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="CTO" LanguageCode="EN">CN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="HTS" LanguageCode="EN">6210100000</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIF" LanguageCode="EN">2</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIS" LanguageCode="EN">AVAILABLE TO ORDER</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFP" LanguageCode="EN">48x40</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFU" LanguageCode="EN">IN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLC" LanguageCode="EN">42</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLM" LanguageCode="EN">7</ExtendedProductInformation>
+      </ExtendedInformation>
+      <ProductAttributes>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_22" RecordNumber="1" LanguageCode="EN">1</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_12" RecordNumber="2" LanguageCode="EN">EA</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_31" RecordNumber="4" LanguageCode="EN">N3639A</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_32" RecordNumber="5" LanguageCode="EN">GEX</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_4" RecordNumber="6" LanguageCode="EN">100</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_119" RecordNumber="7" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_120" RecordNumber="8" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_121" RecordNumber="9" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_122" RecordNumber="10" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_123" RecordNumber="11" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_124" RecordNumber="12" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_125" RecordNumber="13" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_126" RecordNumber="14" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_127" RecordNumber="15" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_128" RecordNumber="16" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_129" RecordNumber="17" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_130" RecordNumber="18" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_131" RecordNumber="19" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_132" RecordNumber="20" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_133" RecordNumber="21" LanguageCode="EN">Y</ProductAttribute>
+      </ProductAttributes>
+      <Packages>
+        <Package MaintenanceType="A">
+          <PackageLevelGTIN>00781311068513</PackageLevelGTIN>
+          <PackageBarCodeCharacters>00781311068513</PackageBarCodeCharacters>
+          <PackageUOM>EA</PackageUOM>
+          <QuantityofEaches>1</QuantityofEaches>
+          <Dimensions UOM="IN">
+            <Height>15.50</Height>
+            <Width>1.00</Width>
+            <Length>10.00</Length>
+          </Dimensions>
+          <Weights UOM="PG">
+            <Weight>0.40</Weight>
+          </Weights>
+        </Package>
+      </Packages>
+      <DigitalAssets>
+        <DigitalFileInformation MaintenanceType="A">
+          <FileName>90003_sas6851.jpg</FileName>
+          <AssetType>P04</AssetType>
+          <Representation>A</Representation>
+          <OrientationView>FRO</OrientationView>
+        </DigitalFileInformation>
+      </DigitalAssets>
+    </Item>
+    <Item MaintenanceType="A">
+      <HazardousMaterialCode>N</HazardousMaterialCode>
+      <ItemLevelGTIN GTINQualifier="UP">781311068520</ItemLevelGTIN>
+      <PartNumber>6852</PartNumber>
+      <BrandAAIAID>FBGS</BrandAAIAID>
+      <BrandLabel>GEN-NEX</BrandLabel>
+      <QuantityPerApplication UOM="EA" Qualifier="NOR">1</QuantityPerApplication>
+      <ItemEffectiveDate>2020-07-01</ItemEffectiveDate>
+      <AvailableDate>2020-07-01</AvailableDate>
+      <MinimumOrderQuantity UOM="EA">1</MinimumOrderQuantity>
+      <PartTerminologyID>17758</PartTerminologyID>
+      <Descriptions>
+        <Description MaintenanceType="A" DescriptionCode="DES" LanguageCode="EN">GEN-NEX ALL PURPOSE COVERALL - M</Description>
+        <Description MaintenanceType="A" DescriptionCode="SHO" LanguageCode="EN">GEN-NEXCOVERALL M</Description>
+      </Descriptions>
+      <Prices>
+        <Pricing MaintenanceType="A" PriceType="RET">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">6.94</Price>
+        </Pricing>
+        <Pricing MaintenanceType="A" PriceType="ZZ1">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">4.19</Price>
+        </Pricing>
+      </Prices>
+      <ExtendedInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="EMS" LanguageCode="EN">1</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="REM" LanguageCode="EN">N</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="CTO" LanguageCode="EN">CN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="HTS" LanguageCode="EN">6210100000</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIF" LanguageCode="EN">2</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIS" LanguageCode="EN">AVAILABLE TO ORDER</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFP" LanguageCode="EN">48x40</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFU" LanguageCode="EN">IN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLC" LanguageCode="EN">42</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLM" LanguageCode="EN">7</ExtendedProductInformation>
+      </ExtendedInformation>
+      <ProductAttributes>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_22" RecordNumber="1" LanguageCode="EN">1</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_12" RecordNumber="2" LanguageCode="EN">EA</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_31" RecordNumber="4" LanguageCode="EN">N3639A</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_32" RecordNumber="5" LanguageCode="EN">GEX</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_4" RecordNumber="6" LanguageCode="EN">100</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_119" RecordNumber="7" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_120" RecordNumber="8" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_121" RecordNumber="9" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_122" RecordNumber="10" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_123" RecordNumber="11" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_124" RecordNumber="12" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_125" RecordNumber="13" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_126" RecordNumber="14" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_127" RecordNumber="15" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_128" RecordNumber="16" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_129" RecordNumber="17" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_130" RecordNumber="18" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_131" RecordNumber="19" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_132" RecordNumber="20" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_133" RecordNumber="21" LanguageCode="EN">Y</ProductAttribute>
+      </ProductAttributes>
+      <Packages>
+        <Package MaintenanceType="A">
+          <PackageLevelGTIN>00781311068520</PackageLevelGTIN>
+          <PackageBarCodeCharacters>00781311068520</PackageBarCodeCharacters>
+          <PackageUOM>EA</PackageUOM>
+          <QuantityofEaches>1</QuantityofEaches>
+          <Dimensions UOM="IN">
+            <Height>15.50</Height>
+            <Width>1.00</Width>
+            <Length>10.00</Length>
+          </Dimensions>
+          <Weights UOM="PG">
+            <Weight>0.40</Weight>
+          </Weights>
+        </Package>
+      </Packages>
+      <DigitalAssets>
+        <DigitalFileInformation MaintenanceType="A">
+          <FileName>90003_sas6852.jpg</FileName>
+          <AssetType>P04</AssetType>
+          <Representation>A</Representation>
+          <OrientationView>FRO</OrientationView>
+        </DigitalFileInformation>
+      </DigitalAssets>
+    </Item>
+    <Item MaintenanceType="A">
+      <HazardousMaterialCode>N</HazardousMaterialCode>
+      <ItemLevelGTIN GTINQualifier="UP">781311068537</ItemLevelGTIN>
+      <PartNumber>6853</PartNumber>
+      <BrandAAIAID>FBGS</BrandAAIAID>
+      <BrandLabel>GEN-NEX</BrandLabel>
+      <QuantityPerApplication UOM="EA" Qualifier="NOR">1</QuantityPerApplication>
+      <ItemEffectiveDate>2020-07-01</ItemEffectiveDate>
+      <AvailableDate>2020-07-01</AvailableDate>
+      <MinimumOrderQuantity UOM="EA">1</MinimumOrderQuantity>
+      <PartTerminologyID>17758</PartTerminologyID>
+      <Descriptions>
+        <Description MaintenanceType="A" DescriptionCode="DES" LanguageCode="EN">GEN-NEX ALL PURPOSE COVERALL - L</Description>
+        <Description MaintenanceType="A" DescriptionCode="SHO" LanguageCode="EN">GEN-NEXCOVERALL L</Description>
+      </Descriptions>
+      <Prices>
+        <Pricing MaintenanceType="A" PriceType="RET">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">6.94</Price>
+        </Pricing>
+        <Pricing MaintenanceType="A" PriceType="ZZ1">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">4.19</Price>
+        </Pricing>
+      </Prices>
+      <ExtendedInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="EMS" LanguageCode="EN">1</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="REM" LanguageCode="EN">N</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="CTO" LanguageCode="EN">CN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="HTS" LanguageCode="EN">6210100000</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIF" LanguageCode="EN">2</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIS" LanguageCode="EN">AVAILABLE TO ORDER</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFP" LanguageCode="EN">48x40</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFU" LanguageCode="EN">IN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLC" LanguageCode="EN">42</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLM" LanguageCode="EN">7</ExtendedProductInformation>
+      </ExtendedInformation>
+      <ProductAttributes>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_22" RecordNumber="1" LanguageCode="EN">1</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_12" RecordNumber="2" LanguageCode="EN">EA</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_31" RecordNumber="4" LanguageCode="EN">N3639A</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_32" RecordNumber="5" LanguageCode="EN">GEX</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_4" RecordNumber="6" LanguageCode="EN">100</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_119" RecordNumber="7" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_120" RecordNumber="8" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_121" RecordNumber="9" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_122" RecordNumber="10" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_123" RecordNumber="11" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_124" RecordNumber="12" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_125" RecordNumber="13" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_126" RecordNumber="14" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_127" RecordNumber="15" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_128" RecordNumber="16" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_129" RecordNumber="17" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_130" RecordNumber="18" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_131" RecordNumber="19" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_132" RecordNumber="20" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_133" RecordNumber="21" LanguageCode="EN">Y</ProductAttribute>
+      </ProductAttributes>
+      <Packages>
+        <Package MaintenanceType="A">
+          <PackageLevelGTIN>00781311068537</PackageLevelGTIN>
+          <PackageBarCodeCharacters>00781311068537</PackageBarCodeCharacters>
+          <PackageUOM>EA</PackageUOM>
+          <QuantityofEaches>1</QuantityofEaches>
+          <Dimensions UOM="IN">
+            <Height>15.50</Height>
+            <Width>1.00</Width>
+            <Length>10.00</Length>
+          </Dimensions>
+          <Weights UOM="PG">
+            <Weight>0.50</Weight>
+          </Weights>
+        </Package>
+      </Packages>
+      <DigitalAssets>
+        <DigitalFileInformation MaintenanceType="A">
+          <FileName>90003_sas6853.jpg</FileName>
+          <AssetType>P04</AssetType>
+          <Representation>A</Representation>
+          <OrientationView>FRO</OrientationView>
+        </DigitalFileInformation>
+      </DigitalAssets>
+    </Item>
+    <Item MaintenanceType="A">
+      <HazardousMaterialCode>N</HazardousMaterialCode>
+      <ItemLevelGTIN GTINQualifier="UP">781311068544</ItemLevelGTIN>
+      <PartNumber>6854</PartNumber>
+      <BrandAAIAID>FBGS</BrandAAIAID>
+      <BrandLabel>GEN-NEX</BrandLabel>
+      <QuantityPerApplication UOM="EA" Qualifier="NOR">1</QuantityPerApplication>
+      <ItemEffectiveDate>2020-07-01</ItemEffectiveDate>
+      <AvailableDate>2020-07-01</AvailableDate>
+      <MinimumOrderQuantity UOM="EA">1</MinimumOrderQuantity>
+      <PartTerminologyID>17758</PartTerminologyID>
+      <Descriptions>
+        <Description MaintenanceType="A" DescriptionCode="DES" LanguageCode="EN">GEN-NEX ALL PURPOSE COVERALL - XL</Description>
+        <Description MaintenanceType="A" DescriptionCode="SHO" LanguageCode="EN">GEN-NEXCOVERALL XL</Description>
+      </Descriptions>
+      <Prices>
+        <Pricing MaintenanceType="A" PriceType="RET">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">6.94</Price>
+        </Pricing>
+        <Pricing MaintenanceType="A" PriceType="ZZ1">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">4.19</Price>
+        </Pricing>
+      </Prices>
+      <ExtendedInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="EMS" LanguageCode="EN">1</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="REM" LanguageCode="EN">N</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="CTO" LanguageCode="EN">CN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="HTS" LanguageCode="EN">6210100000</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIF" LanguageCode="EN">2</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIS" LanguageCode="EN">AVAILABLE TO ORDER</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFP" LanguageCode="EN">48x40</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFU" LanguageCode="EN">IN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLC" LanguageCode="EN">42</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLM" LanguageCode="EN">7</ExtendedProductInformation>
+      </ExtendedInformation>
+      <ProductAttributes>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_22" RecordNumber="1" LanguageCode="EN">1</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_12" RecordNumber="2" LanguageCode="EN">EA</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_31" RecordNumber="4" LanguageCode="EN">N3639A</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_32" RecordNumber="5" LanguageCode="EN">GEX</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_4" RecordNumber="6" LanguageCode="EN">100</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_119" RecordNumber="7" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_120" RecordNumber="8" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_121" RecordNumber="9" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_122" RecordNumber="10" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_123" RecordNumber="11" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_124" RecordNumber="12" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_125" RecordNumber="13" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_126" RecordNumber="14" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_127" RecordNumber="15" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_128" RecordNumber="16" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_129" RecordNumber="17" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_130" RecordNumber="18" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_131" RecordNumber="19" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_132" RecordNumber="20" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_133" RecordNumber="21" LanguageCode="EN">Y</ProductAttribute>
+      </ProductAttributes>
+      <Packages>
+        <Package MaintenanceType="A">
+          <PackageLevelGTIN>00781311068544</PackageLevelGTIN>
+          <PackageBarCodeCharacters>00781311068544</PackageBarCodeCharacters>
+          <PackageUOM>EA</PackageUOM>
+          <QuantityofEaches>1</QuantityofEaches>
+          <Dimensions UOM="IN">
+            <Height>15.50</Height>
+            <Width>1.00</Width>
+            <Length>10.00</Length>
+          </Dimensions>
+          <Weights UOM="PG">
+            <Weight>0.50</Weight>
+          </Weights>
+        </Package>
+      </Packages>
+      <DigitalAssets>
+        <DigitalFileInformation MaintenanceType="A">
+          <FileName>90003_sas6854.jpg</FileName>
+          <AssetType>P04</AssetType>
+          <Representation>A</Representation>
+          <OrientationView>FRO</OrientationView>
+        </DigitalFileInformation>
+      </DigitalAssets>
+    </Item>
+    <Item MaintenanceType="A">
+      <HazardousMaterialCode>N</HazardousMaterialCode>
+      <ItemLevelGTIN GTINQualifier="UP">781311068551</ItemLevelGTIN>
+      <PartNumber>6855</PartNumber>
+      <BrandAAIAID>FBGS</BrandAAIAID>
+      <BrandLabel>GEN-NEX</BrandLabel>
+      <QuantityPerApplication UOM="EA" Qualifier="NOR">1</QuantityPerApplication>
+      <ItemEffectiveDate>2020-07-01</ItemEffectiveDate>
+      <AvailableDate>2020-07-01</AvailableDate>
+      <MinimumOrderQuantity UOM="EA">1</MinimumOrderQuantity>
+      <PartTerminologyID>17758</PartTerminologyID>
+      <Descriptions>
+        <Description MaintenanceType="A" DescriptionCode="DES" LanguageCode="EN">GEN-NEX ALL PURPOSE COVERALL - XXL</Description>
+        <Description MaintenanceType="A" DescriptionCode="SHO" LanguageCode="EN">GEN-NEXCOVERALL 2X</Description>
+      </Descriptions>
+      <Prices>
+        <Pricing MaintenanceType="A" PriceType="RET">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">6.94</Price>
+        </Pricing>
+        <Pricing MaintenanceType="A" PriceType="ZZ1">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">4.19</Price>
+        </Pricing>
+      </Prices>
+      <ExtendedInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="EMS" LanguageCode="EN">1</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="REM" LanguageCode="EN">N</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="CTO" LanguageCode="EN">CN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="HTS" LanguageCode="EN">6210100000</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIF" LanguageCode="EN">2</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIS" LanguageCode="EN">AVAILABLE TO ORDER</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFP" LanguageCode="EN">48x40</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFU" LanguageCode="EN">IN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLC" LanguageCode="EN">42</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLM" LanguageCode="EN">7</ExtendedProductInformation>
+      </ExtendedInformation>
+      <ProductAttributes>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_22" RecordNumber="1" LanguageCode="EN">1</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_12" RecordNumber="2" LanguageCode="EN">EA</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_31" RecordNumber="4" LanguageCode="EN">N3639A</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_32" RecordNumber="5" LanguageCode="EN">GEX</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_4" RecordNumber="6" LanguageCode="EN">100</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_119" RecordNumber="7" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_120" RecordNumber="8" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_121" RecordNumber="9" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_122" RecordNumber="10" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_123" RecordNumber="11" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_124" RecordNumber="12" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_125" RecordNumber="13" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_126" RecordNumber="14" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_127" RecordNumber="15" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_128" RecordNumber="16" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_129" RecordNumber="17" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_130" RecordNumber="18" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_131" RecordNumber="19" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_132" RecordNumber="20" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_133" RecordNumber="21" LanguageCode="EN">Y</ProductAttribute>
+      </ProductAttributes>
+      <Packages>
+        <Package MaintenanceType="A">
+          <PackageLevelGTIN>00781311068551</PackageLevelGTIN>
+          <PackageBarCodeCharacters>00781311068551</PackageBarCodeCharacters>
+          <PackageUOM>EA</PackageUOM>
+          <QuantityofEaches>1</QuantityofEaches>
+          <Dimensions UOM="IN">
+            <Height>15.50</Height>
+            <Width>1.00</Width>
+            <Length>10.00</Length>
+          </Dimensions>
+          <Weights UOM="PG">
+            <Weight>0.50</Weight>
+          </Weights>
+        </Package>
+      </Packages>
+      <DigitalAssets>
+        <DigitalFileInformation MaintenanceType="A">
+          <FileName>90003_sas6855.jpg</FileName>
+          <AssetType>P04</AssetType>
+          <Representation>A</Representation>
+          <OrientationView>FRO</OrientationView>
+        </DigitalFileInformation>
+      </DigitalAssets>
+    </Item>
+    <Item MaintenanceType="A">
+      <HazardousMaterialCode>N</HazardousMaterialCode>
+      <ItemLevelGTIN GTINQualifier="UP">781311068568</ItemLevelGTIN>
+      <PartNumber>6856</PartNumber>
+      <BrandAAIAID>FBGS</BrandAAIAID>
+      <BrandLabel>GEN-NEX</BrandLabel>
+      <QuantityPerApplication UOM="EA" Qualifier="NOR">1</QuantityPerApplication>
+      <ItemEffectiveDate>2020-07-01</ItemEffectiveDate>
+      <AvailableDate>2020-07-01</AvailableDate>
+      <MinimumOrderQuantity UOM="EA">1</MinimumOrderQuantity>
+      <PartTerminologyID>17758</PartTerminologyID>
+      <Descriptions>
+        <Description MaintenanceType="A" DescriptionCode="DES" LanguageCode="EN">GEN-NEX ALL PURPOSE COVERALL - XXXL</Description>
+        <Description MaintenanceType="A" DescriptionCode="SHO" LanguageCode="EN">GEN-NEXCOVERALL 3X</Description>
+      </Descriptions>
+      <Prices>
+        <Pricing MaintenanceType="A" PriceType="RET">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">7.37</Price>
+        </Pricing>
+        <Pricing MaintenanceType="A" PriceType="ZZ1">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">4.39</Price>
+        </Pricing>
+      </Prices>
+      <ExtendedInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="EMS" LanguageCode="EN">1</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="REM" LanguageCode="EN">N</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="CTO" LanguageCode="EN">CN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="HTS" LanguageCode="EN">6210100000</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIF" LanguageCode="EN">2</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIS" LanguageCode="EN">AVAILABLE TO ORDER</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFP" LanguageCode="EN">48x40</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFU" LanguageCode="EN">IN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLC" LanguageCode="EN">42</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLM" LanguageCode="EN">7</ExtendedProductInformation>
+      </ExtendedInformation>
+      <ProductAttributes>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_22" RecordNumber="1" LanguageCode="EN">1</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_12" RecordNumber="2" LanguageCode="EN">EA</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_31" RecordNumber="4" LanguageCode="EN">N3639A</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_32" RecordNumber="5" LanguageCode="EN">GEX</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_4" RecordNumber="6" LanguageCode="EN">100</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_119" RecordNumber="7" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_120" RecordNumber="8" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_121" RecordNumber="9" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_122" RecordNumber="10" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_123" RecordNumber="11" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_124" RecordNumber="12" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_125" RecordNumber="13" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_126" RecordNumber="14" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_127" RecordNumber="15" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_128" RecordNumber="16" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_129" RecordNumber="17" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_130" RecordNumber="18" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_131" RecordNumber="19" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_132" RecordNumber="20" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_133" RecordNumber="21" LanguageCode="EN">Y</ProductAttribute>
+      </ProductAttributes>
+      <Packages>
+        <Package MaintenanceType="A">
+          <PackageLevelGTIN>00781311068568</PackageLevelGTIN>
+          <PackageBarCodeCharacters>00781311068568</PackageBarCodeCharacters>
+          <PackageUOM>EA</PackageUOM>
+          <QuantityofEaches>1</QuantityofEaches>
+          <Dimensions UOM="IN">
+            <Height>15.50</Height>
+            <Width>1.00</Width>
+            <Length>10.00</Length>
+          </Dimensions>
+          <Weights UOM="PG">
+            <Weight>0.60</Weight>
+          </Weights>
+        </Package>
+      </Packages>
+      <DigitalAssets>
+        <DigitalFileInformation MaintenanceType="A">
+          <FileName>90003_sas6856.jpg</FileName>
+          <AssetType>P04</AssetType>
+          <Representation>A</Representation>
+          <OrientationView>FRO</OrientationView>
+        </DigitalFileInformation>
+      </DigitalAssets>
+    </Item>
+    <Item MaintenanceType="A">
+      <HazardousMaterialCode>N</HazardousMaterialCode>
+      <ItemLevelGTIN GTINQualifier="UP">781311068933</ItemLevelGTIN>
+      <PartNumber>6893</PartNumber>
+      <BrandAAIAID>FBGS</BrandAAIAID>
+      <BrandLabel>GEN-NEX</BrandLabel>
+      <QuantityPerApplication UOM="EA" Qualifier="NOR">1</QuantityPerApplication>
+      <ItemEffectiveDate>2020-07-01</ItemEffectiveDate>
+      <AvailableDate>2020-07-01</AvailableDate>
+      <MinimumOrderQuantity UOM="EA">1</MinimumOrderQuantity>
+      <PartTerminologyID>17758</PartTerminologyID>
+      <Descriptions>
+        <Description MaintenanceType="A" DescriptionCode="DES" LanguageCode="EN">GEN-NEX® HOODED ALL PURPOSE COVERALL - L</Description>
+        <Description MaintenanceType="A" DescriptionCode="SHO" LanguageCode="EN">GEN-NEX CVRALL HOOD</Description>
+      </Descriptions>
+      <Prices>
+        <Pricing MaintenanceType="A" PriceType="RET">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">7.66</Price>
+        </Pricing>
+        <Pricing MaintenanceType="A" PriceType="ZZ1">
+          <CurrencyCode>USD</CurrencyCode>
+          <Price UOM="PE">5.09</Price>
+        </Pricing>
+      </Prices>
+      <ExtendedInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="EMS" LanguageCode="EN">1</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="REM" LanguageCode="EN">N</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="CTO" LanguageCode="EN">CN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="HTS" LanguageCode="EN">6210100000</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIF" LanguageCode="EN">2</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="LIS" LanguageCode="EN">AVAILABLE TO ORDER</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFP" LanguageCode="EN">48x40</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PFU" LanguageCode="EN">IN</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLC" LanguageCode="EN">42</ExtendedProductInformation>
+        <ExtendedProductInformation MaintenanceType="A" EXPICode="PLM" LanguageCode="EN">7</ExtendedProductInformation>
+      </ExtendedInformation>
+      <ProductAttributes>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_22" RecordNumber="1" LanguageCode="EN">1</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_12" RecordNumber="2" LanguageCode="EN">EA</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_31" RecordNumber="4" LanguageCode="EN">N3639A</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_32" RecordNumber="5" LanguageCode="EN">GEX</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_4" RecordNumber="6" LanguageCode="EN">100</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_119" RecordNumber="7" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_120" RecordNumber="8" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_121" RecordNumber="9" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_122" RecordNumber="10" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_123" RecordNumber="11" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_124" RecordNumber="12" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_125" RecordNumber="13" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_126" RecordNumber="14" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_127" RecordNumber="15" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_128" RecordNumber="16" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_129" RecordNumber="17" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_130" RecordNumber="18" LanguageCode="EN">Y</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_131" RecordNumber="19" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_132" RecordNumber="20" LanguageCode="EN">N</ProductAttribute>
+        <ProductAttribute MaintenanceType="A" AttributeID="AAP_UDA_133" RecordNumber="21" LanguageCode="EN">Y</ProductAttribute>
+      </ProductAttributes>
+      <Packages>
+        <Package MaintenanceType="A">
+          <PackageLevelGTIN>00781311068933</PackageLevelGTIN>
+          <PackageBarCodeCharacters>00781311068933</PackageBarCodeCharacters>
+          <PackageUOM>EA</PackageUOM>
+          <QuantityofEaches>1</QuantityofEaches>
+          <Dimensions UOM="IN">
+            <Height>15.50</Height>
+            <Width>1.00</Width>
+            <Length>10.00</Length>
+          </Dimensions>
+          <Weights UOM="PG">
+            <Weight>0.50</Weight>
+          </Weights>
+        </Package>
+      </Packages>
+      <DigitalAssets>
+        <DigitalFileInformation MaintenanceType="A">
+          <FileName>90003_sas6893.jpg</FileName>
+          <AssetType>P04</AssetType>
+          <Representation>A</Representation>
+          <OrientationView>FRO</OrientationView>
+        </DigitalFileInformation>
+      </DigitalAssets>
+    </Item>
+  </Items>
+  <Trailer>
+    <ItemCount>7</ItemCount>
+    <TransactionDate>2020-07-01</TransactionDate>
+  </Trailer>
+</PIES>

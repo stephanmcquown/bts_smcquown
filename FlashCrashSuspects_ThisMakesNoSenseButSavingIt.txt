@@ -1,0 +1,286 @@
+
+
+
+
+select IDR,
+        PLPart,
+        Coalesce(QtyShipped, 0) as QtyShipped,
+        Coalesce(QtyPicked, 0) as QtyPicked, 
+        ORDER_OPEN_VC,
+        ENTRY_SEQ,
+        UOM,
+        PRICE,
+        TRANS_TYPE, INVOICE_NO,
+        EDI_ORDER_ID,
+        PickDateTime,
+        COUNTERPERSON,
+        SHIPPER_TRACKING_NO, 
+  SHIPPER,
+        SHIP_INST,
+        SHIP_VIA, FREIGHT, FREIGHT_CALCULATED, 
+        PO_REF, SHIPTO,
+        AMOUNT, BILLTO_NO, LOCATION, PICK_MEETS_FRT_MIN, FRT_CHG_OR_REASON_CODE,
+        FRT_CHG_OR_FF_REASON,
+        CustomerName, City_Customer, Zip_Customer,
+        Who,
+        City_ZipTable, State_ZipTable,
+        HAZ_MAT_CODE,
+        API_FREIGHT_CALC,
+        DescriptionPart
+    from
+    (
+        select (
+            select cast(k.pick_pr_date + k.pick_pr_time as datetime) as PickDatetime
+            from nod_pm.order_open_pick_pr_date k
+            where k.idr = a.idr
+                and k.order_open_vc = 1
+            ) as PickDatetime,
+
+            a.IDR, a.TRANS_TYPE, a.INVOICE_NO, a.EDI_ORDER_ID,
+            a.COUNTERPERSON,
+              case when ifNull(a.SHIPPER, '') = '' and a.SHIP_VIA = 'OT' then 'NODZ' else ucase(a.SHIPPER) end as SHIPPER, 
+         a.SHIP_INST,
+            a.SHIP_VIA, a.FREIGHT, 
+   case when a.SHIP_VIA = 'PD' and coalesce(m.API_FREIGHT_CALC, 'N') = 'N' then 'Y' else 'N' end as FREIGHT_CALCULATED,
+            a.PO_REF, a.SHIPTO,
+            a.AMOUNT, a.BILLTO_NO, a.LOCATION, 
+            case when a.PICK_MEETS_FRT_MIN is null then 'N' else a.PICK_MEETS_FRT_MIN end as PICK_MEETS_FRT_MIN, 
+            ucase(a.FRT_CHG_OR_REASON_CODE) as FRT_CHG_OR_REASON_CODE,
+            a.FRT_CHG_OR_FF_REASON,
+            b.PARTNO as PLPart,
+            round(b.QTY_SHIP,0) as QtyShipped,
+            round(coalesce(i.QTY_PICKED,0),0) as QtyPicked,
+            b.order_open_vc,
+            b.ENTRY_SEQ,
+            b.PRICE,
+            b.UM as UOM,
+            c.NAME as CustomerName, c.SHIP_CITY as City_Customer, Coalesce(c.SHIP_ZIP, '00000') as Zip_Customer,
+            d.NAME as Who,
+            f.CITY as City_ZipTable, f.STATE as State_ZipTable,
+            m.API_FREIGHT_CALC,
+            case when j.HAZ_MAT_CODE is null then '' else j.HAZ_MAT_CODE end as HAZ_MAT_CODE,
+            h.RSV_DESC AS DescriptionPart,
+            
+            -- 2017-01-02 Tracking numbers can be multiple
+            -- a.shipper_tracking_no,
+            (
+                select group_concat(SHIPPER_TRACKING_NO order by SHIPPER_TRACKING_NO separator '|')
+                from nod_pm.order_shipper os
+                where os.order_no = a.idr
+            ) as SHIPPER_TRACKING_NO
+            
+        from nod_pm.ORDER_OPEN a
+        inner join nod_pm.ORDER_OPEN_PARTNO b
+        on b.IDR = a.IDR
+        inner join nod_pm.CUSTOMER c
+        ON c.ID = a.SHIPTO
+        inner join nod_pm.SALESPERSON d
+        on d.ID = a.COUNTERPERSON
+        left outer join nod_pm.ZIP f
+        on f.SQL_ID = c.SHIP_ZIP
+        left outer join (
+            select PART_NO, UNIT_MEASURE, HAZ_MAT_CODE
+            from nod_pm.inv_loc_nod
+            where LOCATION = 99
+        ) g  on g.PART_NO = b.PARTNO and g.UNIT_MEASURE = b.UM
+        left outer join (
+            select ID, ucase(ID) as HAZ_MAT_CODE
+            from nod_pm.haz_mat_code
+        ) j  on j.ID = g.HAZ_MAT_CODE
+        left outer join nod_pm.INVENTORY h on h.ID = b.PARTNO
+        left outer join (
+            select order_open_vc, sum(binloc_qty) as QTY_PICKED
+            from nod_pm.order_open_partno_binloc
+            where binloc = concat('D_',  NAME_CONST('paramOrder_ID',_latin1'15-17989149' COLLATE 'latin1_swedish_ci'), '_1')
+            group by order_open_vc
+        ) i on i.order_open_vc = b.order_open_vc
+        left outer join (
+            select ORDER_NO, API_FREIGHT_CALC
+            from order_shipper
+            group by ORDER_NO, API_FREIGHT_CALC
+         ) m on m.ORDER_NO = a.IDR
+        where a.TRANS_TYPE =  NAME_CONST('paramTransType',_latin1'DI' COLLATE 'latin1_swedish_ci')
+            and a.IDR =  NAME_CONST('paramOrder_ID',_latin1'15-17989149' COLLATE 'latin1_swedish_ci')
+    ) k
+    -- where PickDatetime >= current_date()-5
+    order by ENTRY_SEQ
+    
+    
+    
+    
+    
+    SELECT kcu.constraint_name
+     , kcu.table_name
+     , kcu.column_name
+     , kcu.referenced_table_name
+     , kcu.referenced_column_name
+FROM information_schema.key_column_usage AS kcu
+WHERE kcu.constraint_schema = kcu.table_schema AND kcu.table_schema = 'nod_pm'
+ORDER BY kcu.table_name, kcu.constraint_name, kcu.ordinal_position
+
+
+
+select * from nod_pm.NOD_PIES_PartsBaseFields
+
+
+
+select IDR,
+        PLPart,
+        Coalesce(QtyShipped, 0) as QtyShipped,
+        Coalesce(QtyPicked, 0) as QtyPicked, 
+        ORDER_OPEN_VC,
+        ENTRY_SEQ,
+        UOM,
+        PRICE,
+        TRANS_TYPE, INVOICE_NO,
+        EDI_ORDER_ID,
+        PickDateTime,
+        COUNTERPERSON,
+        SHIPPER_TRACKING_NO, 
+  SHIPPER,
+        SHIP_INST,
+        SHIP_VIA, FREIGHT, FREIGHT_CALCULATED, 
+        PO_REF, SHIPTO,
+        AMOUNT, BILLTO_NO, LOCATION, PICK_MEETS_FRT_MIN, FRT_CHG_OR_REASON_CODE,
+        FRT_CHG_OR_FF_REASON,
+        CustomerName, City_Customer, Zip_Customer,
+        Who,
+        City_ZipTable, State_ZipTable,
+        HAZ_MAT_CODE,
+        API_FREIGHT_CALC,
+        DescriptionPart
+    from
+    (
+        select (
+            select cast(k.pick_pr_date + k.pick_pr_time as datetime) as PickDatetime
+            from nod_pm.order_open_pick_pr_date k
+            where k.idr = a.idr
+                and k.order_open_vc = 1
+            ) as PickDatetime,
+
+            a.IDR, a.TRANS_TYPE, a.INVOICE_NO, a.EDI_ORDER_ID,
+            a.COUNTERPERSON,
+              case when ifNull(a.SHIPPER, '') = '' and a.SHIP_VIA = 'OT' then 'NODZ' else ucase(a.SHIPPER) end as SHIPPER, 
+         a.SHIP_INST,
+            a.SHIP_VIA, a.FREIGHT, 
+   case when a.SHIP_VIA = 'PD' and coalesce(m.API_FREIGHT_CALC, 'N') = 'N' then 'Y' else 'N' end as FREIGHT_CALCULATED,
+            a.PO_REF, a.SHIPTO,
+            a.AMOUNT, a.BILLTO_NO, a.LOCATION, 
+            case when a.PICK_MEETS_FRT_MIN is null then 'N' else a.PICK_MEETS_FRT_MIN end as PICK_MEETS_FRT_MIN, 
+            ucase(a.FRT_CHG_OR_REASON_CODE) as FRT_CHG_OR_REASON_CODE,
+            a.FRT_CHG_OR_FF_REASON,
+            b.PARTNO as PLPart,
+            round(b.QTY_SHIP,0) as QtyShipped,
+            round(coalesce(i.QTY_PICKED,0),0) as QtyPicked,
+            b.order_open_vc,
+            b.ENTRY_SEQ,
+            b.PRICE,
+            b.UM as UOM,
+            c.NAME as CustomerName, c.SHIP_CITY as City_Customer, Coalesce(c.SHIP_ZIP, '00000') as Zip_Customer,
+            d.NAME as Who,
+            f.CITY as City_ZipTable, f.STATE as State_ZipTable,
+            m.API_FREIGHT_CALC,
+            case when j.HAZ_MAT_CODE is null then '' else j.HAZ_MAT_CODE end as HAZ_MAT_CODE,
+            h.RSV_DESC AS DescriptionPart,
+            
+            -- 2017-01-02 Tracking numbers can be multiple
+            -- a.shipper_tracking_no,
+            (
+                select group_concat(SHIPPER_TRACKING_NO order by SHIPPER_TRACKING_NO separator '|')
+                from nod_pm.order_shipper os
+                where os.order_no = a.idr
+            ) as SHIPPER_TRACKING_NO
+            
+        from nod_pm.ORDER_OPEN a
+        inner join nod_pm.ORDER_OPEN_PARTNO b
+        on b.IDR = a.IDR
+        inner join nod_pm.CUSTOMER c
+        ON c.ID = a.SHIPTO
+        inner join nod_pm.SALESPERSON d
+        on d.ID = a.COUNTERPERSON
+        left outer join nod_pm.ZIP f
+        on f.SQL_ID = c.SHIP_ZIP
+        left outer join (
+            select PART_NO, UNIT_MEASURE, HAZ_MAT_CODE
+            from nod_pm.inv_loc_nod
+            where LOCATION = 99
+        ) g  on g.PART_NO = b.PARTNO and g.UNIT_MEASURE = b.UM
+        left outer join (
+            select ID, ucase(ID) as HAZ_MAT_CODE
+            from nod_pm.haz_mat_code
+        ) j  on j.ID = g.HAZ_MAT_CODE
+        left outer join nod_pm.INVENTORY h on h.ID = b.PARTNO
+        left outer join (
+            select order_open_vc, sum(binloc_qty) as QTY_PICKED
+            from nod_pm.order_open_partno_binloc
+            where binloc = concat('D_',  NAME_CONST('paramOrder_ID',_latin1'22-17988702' COLLATE 'latin1_swedish_ci'), '_1')
+            group by order_open_vc
+        ) i on i.order_open_vc = b.order_open_vc
+        left outer join (
+            select ORDER_NO, API_FREIGHT_CALC
+            from order_shipper
+            group by ORDER_NO, API_FREIGHT_CALC
+         ) m on m.ORDER_NO = a.IDR
+        where a.TRANS_TYPE =  NAME_CONST('paramTransType',_latin1'DI' COLLATE 'latin1_swedish_ci')
+            and a.IDR =  NAME_CONST('paramOrder_ID',_latin1'22-17988702' COLLATE 'latin1_swedish_ci')
+    ) k
+    -- where PickDatetime >= current_date()-5
+    order by ENTRY_SEQ
+
+
+
+
+select `ROW_ID`,
+       `Productline_ID`,
+       `PartNumber`,
+       `UOM`,
+       `MFR_ID`,
+       `PartNumber_MFR`,
+       `Weight`,
+       `DescriptionInvoice`,
+       `DescriptionMarketing`,
+       `DescriptionBullets`,
+       `ImageURL_Front`,
+       `MSDSURL`,
+       `PriceList`,
+       `PriceJobber`,
+       `PartCategory_ID1`,
+       `PartCategory_ID2`,
+       `PartCategory_ID3`,
+       `PartCategory_ID4`,
+       `SOAR2Category1`,
+       `PartStatus`,
+       `ImageURL_Front_Exists`,
+       `MSDSURL_Exists`,
+       `FreightExclude`,
+       `ScoreGeneral`,
+       `ScorePrecise`,
+       `DateUpdated`,
+       `DateGenerated`,
+       `ExcludedFromWeb`,
+       `KeyWords`,
+       `HasHazmatCode`,
+       `ShowHazardousLogo`,
+       `Prop65WarningMessage`
+from `nod_dw_tmpecommerce_partinfo_parts`
+
+
+CREATE DEFINER=`sqlserver`@`%` PROCEDURE `sp_NOD_Import_CustomerPaymentTypes`(
+)
+begin
+
+    select a.id as PaymentType_ID,
+        a.cust_no as Perfection_ID,
+        a.payment_type as PaymentType,
+        a.auto_pay_group as AutoPayGroup,
+        
+        case when a.conf_flag = 'E' then 'email'
+            when a.conf_flag = 'EC' then 'email with cover page'
+            when a.conf_flag = 'F' then 'fax'
+            when a.conf_flag = 'EC' then 'fax with cover page'
+            when coalesce(a.conf_flag, '') = '' then null
+            else a.conf_flag end as ConfirmationType,
+            
+        MySQLDateUpdated as DateUpdatedPOS
+    from cust_payment_type a;
+end

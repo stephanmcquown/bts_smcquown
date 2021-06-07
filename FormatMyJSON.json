@@ -1,0 +1,97 @@
+{
+    "upc": "",
+    "brand": "",
+    "media": {
+        "docs": [
+            {
+                "name": "ht-7000.g01-htqp@-english-sds-us-08oct2020.pdf",
+                "path": "MFRHIT/SDS",
+                "type": "SDS"
+            },
+            {
+                "name": "ht-7000.g01-htqp@-spanish-(mexico)-sds-us-08oct2020.pdf",
+                "path": "MFRHIT/SDS_Spanish",
+                "type": "SDS_Spanish"
+            },
+            {
+                "name": "tds_hit_7000.pdf",
+                "path": "MFRHIT/TDS",
+                "type": "TDS"
+            }
+        ],
+        "urls": [
+            {
+                "path": "",
+                "type": "mfr url"
+            },
+            {
+                "path": "",
+                "type": "videourl"
+            }
+        ],
+        "images": [
+            {
+                "name": "ht-7000-1.jpg",
+                "path": "MFRHIT/Images",
+                "type": "productimage"
+            },
+            {
+                "name": "hit700-2.jpg",
+                "path": "MFRHIT/Images",
+                "type": "alternateimage1"
+            },
+            {
+                "name": "hit7000-13.jpg",
+                "path": "MFRHIT/Images",
+                "type": "alternateimage2"
+            }
+        ]
+    },
+    "mfr_id": "MFRHIT",
+    "weight": "9.0000",
+    "includes": "",
+    "item type": "Standard",
+    "plpartuom": {
+        "uom": "GL",
+        "partnumber": "7000-1",
+        "productline_id": "HIT"
+    },
+    "pricelist": "55.01",
+    "vendor_id": "USC",
+    "attributes": {},
+    "partstatus": "A",
+    "trade mark": "",
+    "application": "",
+    "dateupdated": "2021-05-13 23:43:19",
+    "pricejobber": "33.01",
+    "product name": "",
+    "productgroup": "",
+    "scoregeneral": "3",
+    "scoreprecise": "5.00",
+    "dategenerated": "2021-06-03 11:46:18",
+    "hashazmatcode": "1",
+    "shippingrules": "",
+    "featurebullets": "",
+    "freightexclude": "0",
+    "soar2category1": "Aftermarket CPH",
+    "partcategory_id1": "Coatings & Paint Systems",
+    "partcategory_id2": "Aftermarket Clears, Primers, Hardeners",
+    "partcategory_id3": "Clears",
+    "partcategory_id4": "",
+    "titledescription": "4.4 VOC Multi-Purpose Urethane Clearcoat",
+    "manufacturer name": "",
+    "marketingkeywords": ",11562057,7000,HIT.7000-1,HIT7000-1,HT-7000-1,HT-7000.G01",
+    "showhazardouslogo": "0",
+    "standard/approvals": "",
+    "prop65warningmessage": "<a href=\"http://www.p65warnings.ca.gov\"><b>WARNING:</b> Cancer & Reproductive Harm</a>",
+    "upsellitempartnumber": "",
+    "marketing description": "",
+    "relateditempartnumber": "",
+    "configurableattributes": [
+        ""
+    ],
+    "productgroupparentname": "",
+    "alternate part number-1": "",
+    "manufacturer part number": "",
+    "standard packaging information": ""
+}

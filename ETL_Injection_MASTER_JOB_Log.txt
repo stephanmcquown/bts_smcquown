@@ -1,0 +1,91 @@
+2020/04/13 08:49:54 - ETL Injection Basic MASTER JOB - Starting entry [SQL - Log Begin]
+2020/04/13 08:49:54 - ETL Injection Basic MASTER JOB - Starting entry [ETL Pumps List]
+2020/04/13 08:49:55 - ETL Pumps List - Loading transformation from repository [ETL Pumps List] in directory [/public/injection]
+2020/04/13 08:49:55 - ETL Pumps List - Using run configuration [Pentaho local]
+2020/04/13 08:49:55 - ETL Pumps List - Using legacy execution engine
+2020/04/13 08:49:55 - TI - ETL Pumps.0 - Finished reading query, closing connection.
+2020/04/13 08:49:55 - TI - ETL Pumps.0 - Finished processing (I=89, O=0, R=0, W=89, U=0, E=0)
+2020/04/13 08:49:55 - Copy rows to result.0 - Finished processing (I=0, O=0, R=89, W=89, U=0, E=0)
+2020/04/13 08:49:55 - ETL Injection Basic MASTER JOB - Starting entry [ETL Injection Basic Job]
+2020/04/13 08:49:55 - ETL Injection Basic Job - Starting entry [Write To Log]
+2020/04/13 08:49:55 -  - ********** Opening ETL transformation for AllBinLocations / 1.
+2020/04/13 08:49:55 - ETL Injection Basic Job - Starting entry [Template_ETLInjection_Basic]
+2020/04/13 08:49:55 - Template_ETLInjection_Basic - Loading transformation from repository [Template_ETLInjection_Basic] in directory [/public/injection]
+2020/04/13 08:49:55 - Template_ETLInjection_Basic - Using run configuration [Pentaho local]
+2020/04/13 08:49:55 - Template_ETLInjection_Basic - Using legacy execution engine
+2020/04/13 08:49:56 - ETL Metadata Injection.0 - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : Can't run transformation due to plugin missing
+2020/04/13 08:49:56 - ETL Metadata Injection.0 - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : Error initializing step [ETL Metadata Injection]
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : Step [ETL Metadata Injection.0] failed to initialize!
+2020/04/13 08:49:56 - TI - SAM_OutputKeyFields_Stream.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SAM_OutputKeyFields_Table.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SAM_OutputUpdateFields_Stream.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SAM_OutputUpdateFields_Table.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SV_New_Select.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SV_Existing_Select.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SV_New_Remove.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SV_Existing_Remove.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SV_New_Meta.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SV_Existing_Meta.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - MR_CompareFields.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - MR_KeyFields.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SR_New.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - SR_Existing.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - TI - ETLPumps.0 - Finished reading query, closing connection.
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : Unable to prepare for execution of the transformation
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : org.pentaho.di.core.exception.KettleException: 
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - We failed to initialize at least one step.  Execution can not begin!
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 	at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:1162)
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 	at org.pentaho.di.trans.Trans.execute(Trans.java:632)
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 	at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1151)
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 	at org.pentaho.di.job.Job.execute(Job.java:743)
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 	at org.pentaho.di.job.Job.execute(Job.java:884)
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 	at org.pentaho.di.job.Job.execute(Job.java:884)
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 	at org.pentaho.di.job.Job.execute(Job.java:628)
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 	at org.pentaho.di.job.entries.job.JobEntryJobRunner.run(JobEntryJobRunner.java:69)
+2020/04/13 08:49:56 - Template_ETLInjection_Basic - 	at java.lang.Thread.run(Unknown Source)
+2020/04/13 08:49:56 - ETL Injection Basic Job - Finished job entry [Template_ETLInjection_Basic] (result=[false])
+2020/04/13 08:49:56 - ETL Injection Basic Job - Finished job entry [Write To Log] (result=[false])
+2020/04/13 08:49:56 - ETL Injection Basic MASTER JOB - Starting entry [ETL Injection Basic MASTER JOB POST Import]
+2020/04/13 08:49:56 - ETL Injection Basic MASTER JOB POST Import - Starting entry [SQL - Log Begin]
+2020/04/13 08:49:56 - ETL Injection Basic MASTER JOB POST Import - Starting entry [RTVsUnposted_snapshot]
+2020/04/13 08:49:56 - ETL Injection Basic MASTER JOB POST Import - Starting entry [SQL - Log Success1]
+2020/04/13 08:49:56 - ETL Injection Basic MASTER JOB POST Import - Starting entry [SalesNoDiscounts_snapshot]
+2020/04/13 08:49:58 - ETL Injection Basic MASTER JOB POST Import - Starting entry [SQL - Log Success2]
+2020/04/13 08:49:58 - ETL Injection Basic MASTER JOB POST Import - Starting entry [InventoryHistoricalSales_snapshot]
+2020/04/13 08:50:27 - ETL Injection Basic MASTER JOB POST Import - Starting entry [SQL - Log Success3]
+2020/04/13 08:50:27 - ETL Injection Basic MASTER JOB POST Import - Starting entry [ReceiversByWeek_snapshot]
+2020/04/13 08:50:28 - ETL Injection Basic MASTER JOB POST Import - Starting entry [SQL - Log Success4]
+2020/04/13 08:50:28 - ETL Injection Basic MASTER JOB POST Import - Starting entry [SupplyChain_HistoryImports]
+2020/04/13 08:50:28 - SupplyChain_HistoryImports - Running on platform : Windows Server 2016
+2020/04/13 08:50:28 - SupplyChain_HistoryImports - Executing command : cmd.exe /C "C:\pentaho71\pentaho-server\tomcat\temp\kettle_59ed7d65-7d85-11ea-ae9b-f51d4d8613b6shell.bat"
+2020/04/13 08:50:28 - SupplyChain_HistoryImports - (stdout) 
+2020/04/13 08:50:28 - SupplyChain_HistoryImports - (stdout) C:\ServiceFolder\Scripts\Python\General>SupplyChain_HistoryImports.py
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Starting entry [SQL - Log Success5]
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Starting entry [Dum FlowA]
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Starting entry [SQL - Log End]
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Starting entry [Success]
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [Success] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [SQL - Log End] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [Dum FlowA] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [SQL - Log Success5] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [SupplyChain_HistoryImports] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [SQL - Log Success4] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [ReceiversByWeek_snapshot] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [SQL - Log Success3] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [InventoryHistoricalSales_snapshot] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [SQL - Log Success2] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [SalesNoDiscounts_snapshot] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [SQL - Log Success1] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [RTVsUnposted_snapshot] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB POST Import - Finished job entry [SQL - Log Begin] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB - Starting entry [SQL - Log End]
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB - Starting entry [Success]
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB - Finished job entry [Success] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB - Finished job entry [SQL - Log End] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB - Finished job entry [ETL Injection Basic MASTER JOB POST Import] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB - Finished job entry [ETL Injection Basic Job] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB - Finished job entry [ETL Pumps List] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB - Finished job entry [SQL - Log Begin] (result=[true])
+2020/04/13 08:50:40 - ETL Injection Basic MASTER JOB - Job execution finished

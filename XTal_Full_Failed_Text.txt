@@ -1,0 +1,18 @@
+Title:	Customer Sales by Product Line and Part Data File External Martin Auto Ver
+Type:	Microsoft Excel
+Status	Failed
+External Destination:	Mail the instance to: "[pteresa@martinautocolor.com]" and carbon copy the instance to: "[janderson@nationaloak.com]" with a subject of: "Customer Sales by Product Line and Part Data File External Martin Auto Ver" .
+Created By:	SAPadmin
+Server Used:	NODRPT2016.AdaptiveJobServer
+PID:	7896
+Folder Path:	NOD Department Reports/Sales/
+Remote Instance:	No
+Creation Time:	6/30/2020 6:36 AM
+Expiry:	6/30/2030 6:36 AM
+Start Time:	6/30/2020 6:36 AM
+End Time:	6/30/2020 6:36 AM
+Printer:	None
+Parameters:	Mar 26, 2020; Apr 25, 2020; null; null; null; null; null; null; null; null; null; null; null; False; null; null; IEP
+Scheduled Locales:	
+Successful Instance Locales:	
+Error Message:	write error. [CrystalEnterprise.Smtp]: [Error sending mail message to SMTP server. Return code: [552].]

@@ -1,0 +1,112 @@
+2021/02/16 07:16:07 - ETL Injection Basic Job - Starting entry [Write To Log] 
+2021/02/16 07:16:07 - - ********** Opening ETL transformation for DepositDocs / 22. 
+2021/02/16 07:16:07 - ETL Injection Basic Job - Starting entry [Template_ETLInjection_Basic] 
+2021/02/16 07:16:07 - Template_ETLInjection_Basic - Loading transformation from repository [Template_ETLInjection_Basic] in directory [/public/intraday] 
+2021/02/16 07:16:07 - Template_ETLInjection_Basic - Using run configuration [Pentaho local] 
+2021/02/16 07:16:07 - Template_ETLInjection_Basic - Using legacy execution engine 
+2021/02/16 07:16:07 - Template_ETLInjection_Basic - Dispatching started for transformation [Template_ETLInjection_Basic] 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : Unable to prepare for execution of the transformation 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : org.pentaho.di.core.exception.KettleTransException: 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - There was an error calculating the change data capture date range, it probably involved log table trans_logs. 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - Lock wait timeout exceeded; try restarting transaction 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.trans.Trans.calculateBatchIdAndDateRange(Trans.java:2251) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:990) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.trans.Trans.execute(Trans.java:632) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1151) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.Job.execute(Job.java:743) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.Job.execute(Job.java:884) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.Job.execute(Job.java:884) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.Job.execute(Job.java:628) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.entries.job.JobEntryJobRunner.run(JobEntryJobRunner.java:69) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at java.lang.Thread.run(Unknown Source) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - Caused by: org.pentaho.di.core.exception.KettleDatabaseException: 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - Lock wait timeout exceeded; try restarting transaction 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.core.database.BaseDatabaseMeta.getNextBatchIdUsingAutoIncSQL(BaseDatabaseMeta.java:1977) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.core.database.BaseDatabaseMeta.getNextBatchId(BaseDatabaseMeta.java:2032) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.core.database.DatabaseMeta.getNextBatchId(DatabaseMeta.java:2946) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.trans.Trans.calculateBatchIdAndDateRange(Trans.java:2082) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - ... 9 more 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at sun.reflect.GeneratedConstructorAccessor601.newInstance(Unknown Source) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at java.lang.reflect.Constructor.newInstance(Unknown Source) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.Util.handleNewInstance(Util.java:425) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.Util.getInstance(Util.java:408) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:951) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3970) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3906) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2524) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2677) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2549) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1861) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2073) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2009) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5098) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1994) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.core.database.BaseDatabaseMeta.getNextBatchIdUsingAutoIncSQL(BaseDatabaseMeta.java:1966) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - ... 12 more 
+2021/02/16 07:17:06 - ETL Injection Basic Job - Finished job entry [Template_ETLInjection_Basic] (result=[false]) 
+2021/02/16 07:17:06 - ETL Injection Basic Job - Finished job entry [Write To Log] (result=[false]) 
+2021/02/16 07:16:07 - Template_ETLInjection_Basic - Loading transformation from repository [Template_ETLInjection_Basic] in directory [/public/intraday] 
+2021/02/16 07:16:07 - Template_ETLInjection_Basic - Using run configuration [Pentaho local] 
+2021/02/16 07:16:07 - Template_ETLInjection_Basic - Using legacy execution engine 
+2021/02/16 07:16:07 - Template_ETLInjection_Basic - Dispatching started for transformation [Template_ETLInjection_Basic] 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : Unable to prepare for execution of the transformation 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : org.pentaho.di.core.exception.KettleTransException: 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - There was an error calculating the change data capture date range, it probably involved log table trans_logs. 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - Lock wait timeout exceeded; try restarting transaction 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.trans.Trans.calculateBatchIdAndDateRange(Trans.java:2251) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:990) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.trans.Trans.execute(Trans.java:632) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1151) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.Job.execute(Job.java:743) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.Job.execute(Job.java:884) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.Job.execute(Job.java:884) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.Job.execute(Job.java:628) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.job.entries.job.JobEntryJobRunner.run(JobEntryJobRunner.java:69) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at java.lang.Thread.run(Unknown Source) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - Caused by: org.pentaho.di.core.exception.KettleDatabaseException: 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - Lock wait timeout exceeded; try restarting transaction 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.core.database.BaseDatabaseMeta.getNextBatchIdUsingAutoIncSQL(BaseDatabaseMeta.java:1977) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.core.database.BaseDatabaseMeta.getNextBatchId(BaseDatabaseMeta.java:2032) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.core.database.DatabaseMeta.getNextBatchId(DatabaseMeta.java:2946) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.trans.Trans.calculateBatchIdAndDateRange(Trans.java:2082) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - ... 9 more 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Lock wait timeout exceeded; try restarting transaction 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at sun.reflect.GeneratedConstructorAccessor601.newInstance(Unknown Source) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at java.lang.reflect.Constructor.newInstance(Unknown Source) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.Util.handleNewInstance(Util.java:425) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.Util.getInstance(Util.java:408) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:951) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3970) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3906) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2524) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2677) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2549) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1861) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2073) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2009) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5098) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1994) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - at org.pentaho.di.core.database.BaseDatabaseMeta.getNextBatchIdUsingAutoIncSQL(BaseDatabaseMeta.java:1966) 
+2021/02/16 07:17:06 - Template_ETLInjection_Basic - ... 12 more 
+2021/02/16 07:16:07 - - ********** Opening ETL transformation for DepositDocs / 22. 
+2021/02/16 07:15:22 - ETL Pumps List Intraday - Loading transformation from repository [ETL Pumps List Intraday] in directory [/public/intraday] 
+2021/02/16 07:15:23 - ETL Pumps List Intraday - Using run configuration [Pentaho local] 
+2021/02/16 07:15:23 - ETL Pumps List Intraday - Using legacy execution engine 
+2021/02/16 07:16:02 - TI - ETL Pumps.0 - Finished reading query, closing connection. 
+2021/02/16 07:16:02 - TI - ETL Pumps.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0) 
+2021/02/16 07:16:02 - Copy rows to result.0 - Finished processing (I=0, O=0, R=3, W=3, U=0, E=0) null

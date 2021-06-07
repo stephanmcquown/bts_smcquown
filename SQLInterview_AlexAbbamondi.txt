@@ -1,0 +1,55 @@
+# Questions
+
+- Explain the Associates Degree in pursuit, don't you already have a bachelors and I would think that precludes getting another associated degree
+- MySQL
+  - Stored procedure vs view
+  - What is a temporary table
+  - Function vs stored procedure 
+  - What is dynamic SQL
+- 5 + 2 * 10
+- How do you learn: videos, code along, documentation online, Stack O
+- Like vs Love project: look at the likes positively
+- Right vs Deadline: Right BUT recognizes deadline important and would communicate through dev process; possibly modularize code to get subsystems up and working
+- 
+
+
+
+
+create 
+function uf_functionA (
+    vlCost  decimal(18, 4),
+    vlPrice decimal(18, 4)
+    )
+returns decimal(18, 4)
+deterministic
+begin
+    /*  
+        TEST
+        select uf_functionA(75,100); -- returns 
+    */
+
+    return 1 - vlCost / nullif(vlPrice, 0);
+
+end;
+
+#######################################################################
+
+create
+function uf_IAmBroken (
+    vlPattern        varchar(255),
+    vlStringToSearch varchar(4000)
+    )
+returns int(11)
+deterministic
+begin
+
+    /* 
+        TEST 
+        select uf_IAmBroken(':', 'hello:world:'); 
+    */
+
+    char_length(vlStringToSearch) - char_length(replace(vlStringToSearch, vlPattern, ''));
+
+end;
+
+#######################################################################

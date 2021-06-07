@@ -1,0 +1,89 @@
+    <div class="row"> 
+        <div class="col-md-12">
+            <form class="form-inline" style="background-color: #efefef; padding: 1em 1em 1em 2em">            
+                <div class="form-group">    
+                        <div class="col-sm-4">
+                            <label for="ddWarehouse">Warehouse</label>        
+                        </div>
+                        <div class="col-sm-8">                
+                            <select class="form-control rounded" name="ddWarehouse" id="ddWarehouse">
+                                    {% if whse == None %}    
+                                        <option></option>
+                                    {% else %}
+                                        <option>{{ whse }}</option>
+                                    {% endif %}
+                                    {% for row in warehouses %}                                    
+                                        <option>{{ row.0 }}</option>
+                                    {% endfor %}                                
+                            </select>             
+                        </div>            
+                </div>
+                <div class="form-group">    
+                    <div>
+                        <label for="dpDtStart">Date Start</label>     
+                    </div>
+                    <div class="col-sm-8">
+                        <input class="form-control rounded" type="date" id="dpDtStart" name="dpDtStart" value="{{ dt_start }}">   
+                    </div>
+                </div>
+                <div class="form-group">    
+                    <div>
+                        <label for="dpDtStart">Date End</label>     
+                    </div>
+                    <div class="col-sm-8">
+                        <input class="form-control rounded" type="date" id="dpDtStart" name="dpDtStart" value="{{ dt_end }}">   
+                    </div>
+                </div>       
+                <div class="form-group"> 
+                    <button class="btn btn-primary" type="button" id="btnFilter">Get Data</button>
+                </div>            
+                {% csrf_token %}
+            <form>
+        </div>
+    </div>
+
+
+    <div class="row"> 
+        <div class="col-md-12">
+            <form class="form-inline" style="background-color: #efefef; padding: 1em 1em 1em 2em">   
+                <div class="form-group">
+                    <div class="col-sm-4">
+                        <label for="ddWarehouse">Warehouse</label>        
+                    </div>
+                    <div class="col-sm-8"> 
+                        <select class="form-control rounded" name="ddWarehouse" id="ddWarehouse">
+                                {% if whse == None %}    
+                                    <option></option>
+                                {% else %}
+                                    <option>{{ whse }}</option>
+                                {% endif %}
+                                {% for row in warehouses %}                                    
+                                    <option>{{ row.0 }}</option>
+                                {% endfor %}                                
+                        </select>       
+                    <div>
+                </div>
+                <div class="form-group">
+                    <div>     
+                        <label for="dpDtStart">Start Date</label>   
+                    </div>
+                    <div class="col-sm-8">
+                        <input class="form-control rounded" type="date" id="dpDtStart" name="dpDtStart" value="{{ dt_start }}">   
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div>     
+                        <label for=-"dpDtEnd">End Date</label> 
+                    </div>
+                    <div class="col-sm-8"> 
+                        <input class="form-control rounded" type="date" id="dpDtEnd" name="dpDtEnd" value="{{ dt_end }}">                         
+                    </div>                        
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-primary" type="button" id="btnFilter">Filter</button>
+                </div>
+                {% csrf_token %}
+            </form>
+        </div>
+    </div>
+ 

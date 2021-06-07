@@ -1,0 +1,11 @@
+
+select 
+    si_scheduleinfo.si_name, 
+    si_scheduleinfo.si_destinations 
+from ci_infoobjects 
+where 
+    si_instance = 1 
+    and si_recurring = 1 
+    and si_scheduleinfo.si_destinations like '%rwedin%' 
+    
+    

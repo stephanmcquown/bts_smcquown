@@ -1,0 +1,37 @@
+1. Order Confirmation for CSR keyed orders (email, fax, other?), something like "Your order has been received"
+2. Order Processing "Your order is being picked and packed" excluding EOMS order bc it already does this?
+3. Order Shipped with tracking information "Your order is ready for shipment, here is your tracking information" (tracking number for 3rd party shippers, "Our Truck" or "Will Call" for NOD) 
+
+The 3 types of confirmation emails that customers will receive include:
+1.	Order Confirmation/Receipt: “Thank you, your order has been received.”
+1.1.	For Order Sources where there is no human interaction and no confirmation of stock/product availability (Email, Fax)
+1.2.	Magento, EOMS already have this functionality.
+1.3.	Need way for CSRs to trigger when an email/fax has been received for processing (DO WE NEED THIS?)
+1.4.	If the “Order Processing” email is created, then do we need the “Order Confirmation” notification?  They are one in the same with orders placed online since orders placed via Magento are automatically finalized
+2.	Order Processing: “Your order is currently being picked and packed.  Here is your order summary.”
+2.1.	For all orders sources except API (Do we want to remove these feature from EOMS and run through this new process? Otherwise, we will not want to include EOMS orders with this process as it will cause duplicate notifications).  This is sent when the order is ready to be picked and sent to WMS.
+2.2.	The trigger for this, is that an Order # has been created in Perfection and read to pick (“P” entered in Perfection to Print/Finalize the order) Can we include quotes?
+2.2.1.	Separate API call similar to current Order API, just for “Orders Processing” will be sent to Magento in batches every x minutes (60?) to trigger the email
+2.3.	On a regular basis (batches every x minutes/hours) Magento will pull all order numbers with this and trigger “Send Email”
+2.3.1.	Email template will be built in Magento and can be edited by NOD admin as needed (for marketing purposes)
+2.3.2.	We will want to include a summary of the order similar to what is currently being generated in Magento for Order Confirmation email (preferred) OR a link to their “My Orders” page to view details NOTE: this will trigger several emails when an order is being shipped out of multiple warehouses.  Are we okay with this?
+3.	Shipping Confirmation: “Your order is packed and ready to ship.  Here is your tracking information.”
+3.1.	For all order sources except API (same question as above).  This is sent when the order is Finalized by WMS and a tracking number and shipping method has been assigned to the order. Do we use ShipStation or other shipping program that can send information directly to Magento?  At what point is the order invoiced?  Do we need to include this information in these notification or create a new notification for “Your invoice is ready”?
+3.1.1.	Separate API call similar to current Order API, just for “Orders Shipped” will be sent to Magento in batches every x minutes (60?) to trigger the email.  This call must include the Tracking number and the shipping method.
+3.2.	On a regular basis (in batches every x minutes/hours) Magento will pull all shipments with these flags and trigger “Send Tracking Information”
+3.2.1.	Email template will be built in Magento and can be edited by NOD admin as needed (for marketing purposes)
+3.2.2.	We do not need the full summary of the order but should at least have link to their order on the “My Orders” page.  The email MUST include the Tracking number and shipping method. 
+
+Who will receive the confirmation emails?
+4.	Simple User: Not associated with a Company Account
+4.1.	In order to receive these confirmation emails, the account must have a username, password and valid email associated with their profile.
+4.2.	Will need attributes associated with Customer to mark the email preferences
+4.2.1.	Receive Order Confirmation (Y/N)
+4.2.2.	Receive Order Processing Notification (Y/N)
+4.2.3.	Receive Shipping Confirmation (Y/N)
+4.3.	When the order information comes from perfection, the process will check if there is a valid email associated with that Perfection ID and ensure the notification is set to “Y” (“Y” to just the Shipping Confirmation is the default)
+5.	Company Users: Associated with a Company Account
+5.1.	Basic required information from a Simple User is also required for the Company Users (valid email, new attributes) 
+5.2.	Each user within the Company account is associated with a specific Perfection ID (can be 1 or multiple).  When the order information comes from perfection, the process will identify any users that are associated with that Perfection ID, and ensure the notification is set to “Y” 
+5.3.	Company Users will need a way to determine which order confirmation email to receive based on all associated locations (Eventually we may want to allow them to customize each selection based on location but can wait for a later phase).
+5.4.	If a user does NOT have permissions to “Check Out” then they will not be able to receive these emails.  All of these email attributes will be set to “N” and they will not be able to change it.  

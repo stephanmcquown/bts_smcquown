@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SDLC_notes.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="sdlc---5-steps">SDLC - 5 Steps</h1>
+<ol>
+<li>Requirements: What will be made</li>
+<li>Design: How it will be made</li>
+<li>Implementation: Building, making it</li>
+<li>Verification: Testing it</li>
+<li>Maintenance: Fixing and extending (new features)</li>
+</ol>
+<h2 id="wrspm-models-world-requirements-specifications-program-machine">WRSPM Models (World Requirements Specifications Program Machine)</h2>
+<ul>
+<li>World: Assumptions used to define sys environment; develop system</li>
+<li>Requirements: Define problem in terms of user; what does user want product to do</li>
+<li>Specifications: Technical requirements; links <em>World</em> and <em>Requirements</em></li>
+<li>Program: Logic and code itself</li>
+<li>Machine: Hardware specifications</li>
+</ul>
+<p>How elements are catagorized ?</p>
+<table>
+<thead>
+<tr>
+<th>Environment</th>
+<th>Interface</th>
+<th>System</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>World <br> Requirements</td>
+<td>Specifications</td>
+<td>Program <br> Machine</td>
+</tr>
+</tbody>
+</table>
+<h3 id="wrspm-variables">WRSPM Variables</h3>
+<ul>
+<li>Environment Hidden (EH): Elements of environments hidden to system IE ATM card (machine does not know what card looks like being used)</li>
+<li>Environment Visible (EV): Elements of environments visible to system IE ATM cards magstripe</li>
+<li>System Visible (SV): Elements of system visible to environment; IE buttons, screen, UI</li>
+<li>System Hidden (SH): Elements of system hidden from environment; IE software running ATM</li>
+</ul>
+<hr>
+<h2 id="requirements">Requirements</h2>
+<ul>
+<li>What software <em><strong>should</strong></em> do</li>
+<li>Non-technical user needs <em><strong>no programming jargon</strong></em> IE layman's terms</li>
+<li>Two broad categories
+<ul>
+<li><em>Functional</em>: What system should do, IE features <strong>how responds to input</strong></li>
+<li><em>Non-Functional</em>: What goals should be met IE user expectations (biz constraints EG how fast should it work, security)
+<ul>
+<li>Product Requirements: Something product must do; how product must integrate w the world</li>
+<li>Organizational Requirements: Company policies and procedures, EG must be developed with Scrum Methodology</li>
+<li>External Requirements: External laws, regs; EG must use SSL encryption due to law XYZ</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="specifications">Specifications</h3>
+<ul>
+<li>Technical definition of what is needed to meet requirements <strong>NOT HOW</strong></li>
+<li>IE MySQL database with C# controller and HTML CSS front end</li>
+</ul>
+<hr>
+<h2 id="design">Design</h2>
+<h3 id="architecture">Architecture</h3>
+<ul>
+<li>breaking larger systems to smaller focussed systems
+<ul>
+<li>benefits
+<ul>
+<li>flexibility</li>
+<li>division of labor (can work on small bits of project) == faster dev</li>
+<li>helps determine where to buy vs build components</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>EG</p>
+<p>Say you have a website.  One could put all the code in ONE document.  This is cumbersome to debug.  Instead, one could split this into a front end and back end.  By simple consequence of that architecture change, one has 1/2 the code to debug when their is a problem.  The work can occur concurrently.</p>
+<p>NOTES</p>
+<ul>
+<li>Think big; large sections of the app</li>
+<li>Organize into major areas.  Often, this splits into UI, middle, backend (MVC)</li>
+</ul>
+<h3 id="architecture-patterns">Architecture Patterns</h3>
+<p>No one size fits all, approx 5 - 6 popular patters</p>
+<ul>
+<li><strong>Pipe and Filter</strong>
+<ul>
+<li>Use &quot;filters&quot; and channel data between &quot;pipes&quot;</li>
+<li>Must be able to re-arrange order of &quot;filters&quot; and retain functionality</li>
+<li>Input type and output type must be same</li>
+<li>Can have differnt number of arguments vs reutrn (ie 3,5,7 and return 5 only BUT is same data type...maybe a &quot;median&quot; filter in this scenario)</li>
+<li>Can daisy chain multiple filters, CHAIN is the PIPE</li>
+</ul>
+</li>
+<li><strong>Client Server</strong>
+<ul>
+<li>Central server w &quot;Clients&quot; IE other machines that ask the server for info</li>
+<li>Named for bc Server runs software and Client runs software</li>
+<li>Server returns information back out</li>
+<li>IE the internet (Webserver is server and Browser is client), online games</li>
+</ul>
+</li>
+<li><strong>Master Slave</strong>
+<ul>
+<li>Commands only go downstream.  The master is often called the &quot;Controller&quot;</li>
+<li>Example is database replication; replicated DBs DO NOT do anything but take instruction from the controller</li>
+</ul>
+</li>
+<li><strong>Layered Pattern</strong>
+<ul>
+<li>Layers only communicate w/in each other</li>
+<li>EG Model View Controller (MVC)
+<ul>
+<li>Model == database</li>
+<li>Controller == routes data to and from view</li>
+<li>View == what the user sees, the UI (HTML JavaScript, React etcetera)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="software-architecture-process">Software Architecture Process</h3>
+<ul>
+<li>Control how program
+<ul>
+<li>Decomposed</li>
+<li>Interacts w self</li>
+<li>Interacts w outside world</li>
+</ul>
+</li>
+<li>Model how control structure of system will behave</li>
+<li>Break project into
+<ul>
+<li><u>Subsystem</u>: Independent system which holds independent value; HAS BUSINESS VALUE - CAN BE USED IN OTHER SYSTEMS OR <strong>SOLD AS STANDALONE</strong></li>
+<li><u>Module</u>: Cannot function alone; component of subsystem</li>
+</ul>
+</li>
+</ul>
+<h3 id="software-design---design-is-not-coding-and-coding-is-not-design">Software Design - design is not coding and coding is not design</h3>
+<ul>
+<li><u>Activity</u>: Working to design the software</li>
+</ul>
+<h4 id="stages-of-design">Stages of Design</h4>
+<ol>
+<li>Break larger problem into smaller problems</li>
+<li>Understand each problem</li>
+<li>Identify potential solutions
+<ol>
+<li><mark> Often will refer to requirements doc here</mark><strong>BRAINSTORM here, come up w as many options</strong></li>
+</ol>
+</li>
+<li>Describe solution abstactions</li>
+<li>Design docs that ARE NOT technical</li>
+<li>Often use graphs / models to show how areas of software hang together</li>
+<li>Repeat until everything is abstracted</li>
+<li>Component design</li>
+<li>Data structure design</li>
+<li>Algorithm design</li>
+</ol>
+<p>A note on 6 - 8, often is forgone in Agile etcetera because these components often change when we realize the code does not work</p>
+<h3 id="modularity">Modularity</h3>
+<p>Goal is to balance; have loose coupling and strong cohesion</p>
+<ul>
+<li><u>Coupling</u>: How well modules work together; strength of connections between modules / subsystems <strong>aim to be loose</strong>
+<ul>
+<li>Tight: Changes in one module require changes in other modules; think global variables / data
+<ul>
+<li>Content: Module A depends on B AND B cannot have it's inner workings changed w/out breaking A</li>
+<li>Common: Several modules access AND MANIPULATE same global data; causes race conditions and dirty reads; a bug propogates from on module to ALL the modules</li>
+<li>External: Several moduels have access to same MODULE BUT EXTERNAL so we do not have control to the workings of the EXTERNAL module</li>
+</ul>
+</li>
+<li>Medium:
+<ul>
+<li>Control: passed data CHANGES INTERNAL LOGIC of other module AND changes in module B can screw up module A; usually relies on flags to affect behaviour in subordinate modules</li>
+<li>Data-Structure: Multiple modules share same data structure.  IF data structure changes, it breaks all the downstream modules.  A get / set module between the data structure can help with this</li>
+</ul>
+</li>
+<li>Loose: Modules communicate only necessary information; modules become modular
+<ul>
+<li>Data: Modules PASS data to share</li>
+<li>Message: Messages / commands are passed between modules</li>
+<li>None</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><u>Cohesion</u>: Single purpose / designed goal
+<ul>
+<li>Weak: many modules w little purpose, randomly grouped
+<ul>
+<li>Coincidental: linked bc in same file; EG single file program, mishmash controller, spaghetti</li>
+<li>Temporal: linked bc events happen at same time</li>
+<li>Logical: linked by same general category</li>
+</ul>
+</li>
+<li>Medium: focused task BUT
+<ul>
+<li>Procedural: order of execution passes from one command to next BUT has multi-UNRELATED purposes;
+<ul>
+<li>EG update database, print PO ...two tasks are sequential but functionally different goals</li>
+</ul>
+</li>
+<li>Communicational: support same input / output data BUT operationally / functionally different</li>
+<li>Sequential: output for first mod is input for next; NOT CONFUSE W PROCEDURAL</li>
+</ul>
+</li>
+<li>Strong:
+<ul>
+<li>Functional: activities for ONE problem-related task (one only); EG GetPayment</li>
+<li>Object: activities modify ONE object; EG Contains GetUserName SetUserPass (all user related and all attributes of user)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Goals
+<ol>
+<li>Abstraction: Remove complexity (EG Machine Language &gt; Assembly Language &gt; Java...we can use Java bc of )</li>
+<li>Decomposability: Can take apart</li>
+<li>Composability: Can put back together</li>
+<li>Understandablility: Smaller blocks more understandable than larger code blocks</li>
+<li>Continuity: Change one place and changes everywhere in project</li>
+<li>Protectability: One road leads to Rome, not all</li>
+</ol>
+</li>
+<li><u>Information Hiding</u>: Hide complexity using &quot;Black Box&quot;; in [black box] out; PentaSLOW does this
+<ul>
+<li>Methods (Functions)</li>
+<li>Libraries</li>
+<li>Classes</li>
+</ul>
+</li>
+<li><u> Data Encapsulation </u>: Hide details from user; provide tools to manipulate data via controlled channels
+<ol>
+<li>Getters and Setters - Setters can have biz logic in them, Getters can have authentications  to prevent unallowed gets</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h2 id="implementation">Implementation</h2>
+<ul>
+<li>Most of time spent</li>
+<li>Follow style guide for code (how to indent, etc)</li>
+<li>Code written for ppl not computers ERR on the side of read-able / comprehensible</li>
+<li>Modules should be easy to understand</li>
+<li>Shorter code != better code</li>
+<li>Break up actions into methods</li>
+</ul>
+<h3 id="buy-vs-build">Buy vs Build</h3>
+<ul>
+<li>May be able to save time and money buy purchasing; IE MS Office, spend $100 OR build?  Build would be crazy</li>
+</ul>
+<h3 id="deployment">Deployment</h3>
+<ul>
+<li>Deployment: mix between testing and implementation
+<ul>
+<li>Should be built w ability to retreat (HOW CAN WE REVERT)</li>
+</ul>
+</li>
+</ul>
+<p><u>Deployment Planing</u></p>
+<ul>
+<li>Dependent on size of change; bigger == more planning</li>
+<li>Areas
+<ul>
+<li>Database activity (changing how it works?)</li>
+<li>3rd part software integration</li>
+<li>Run time changes</li>
+<li>Training (both user and biz side): site used to work a certain way and NOW IT DOES NOT</li>
+<li>Downtime</li>
+<li>Backups</li>
+<li>Network</li>
+<li>Memory</li>
+</ul>
+</li>
+<li><strong>MUST HAVE PLAN TO ROLLBACK</strong></li>
+</ul>
+<p><u> Deployment Rollback </u></p>
+<ul>
+<li>IF errors generally you rollback</li>
+<li>Look for point of no return</li>
+<li>Every step of process, determine if rollback better option</li>
+</ul>
+<hr>
+<h2 id="verification">Verification</h2>
+<h3 id="testing">Testing</h3>
+<p><u> Testing </u>: Process of finding errors BUT cannot ensure absence of them (for all but govt security)</p>
+<ul>
+<li>We can test
+<ul>
+<li>Code</li>
+<li>Implementation</li>
+<li>(other) Testing</li>
+</ul>
+</li>
+</ul>
+<p><u>Test Data</u>: Inputs that test the system <br>
+<u>Test Cases</u>: How we operate the system w given data <br>
+<u>Oracle</u>: The set &quot;good&quot; outcomes; what out should be from givens <br></p>
+<p><strong>Bugs vs Features</strong></p>
+<p><u>Bug</u>: error OR deviation from expected behavior</p>
+<ul>
+<li><u>Failure</u>: Code deviates from expected behavior</li>
+<li><u>Error</u>: Part of code that causes failure</li>
+<li><u>Fault</u>: What outcome actually was</li>
+</ul>
+<p><strong>Verification and Validation</strong></p>
+<ul>
+<li><u>Verification</u>: Does software work vs specs</li>
+<li><u>Validation</u>: Building what user NEEDS / WANTS; the right thing IE can build to spec BUT not what customer wants</li>
+</ul>
+<p><strong>Testing Techniques</strong></p>
+<ul>
+<li><u>Unit Testing</u>: Test smallest unit of software (typically a module)
+<ul>
+<li>Isolate and test w dummy vals</li>
+</ul>
+</li>
+<li><u>Integration Testing</u>: Test communication / architecture of program; how modules hang together
+<ul>
+<li><u>Incremental Testing</u>: Test module by module (one at a time)
+<ul>
+<li>Top-Down Testing: typically proceeds through MAIN and then downstream
+<ul>
+<li><u> Stub</u>: Template of module CONTAINS funtions BUT RETURNS DUMMY VALUES BACK; can test the function calls w/out having to have the functions fully coded</li>
+</ul>
+</li>
+<li><u>Bottom-Up Testing</u>: Start with low-level modules (buillding blocks that MAIN calls)
+<ul>
+<li><u>Driver</u>: Template with execution controls THIS basically contains procedural logic; the temporal flow</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><u> Non-incremental </u> TESTS whole thing</li>
+</ul>
+</li>
+<li><u> Back to Back </u>: Compare known good to new version (make sure V2 out == V1 out)
+<ul>
+<li>Use to test old (existing) functionality</li>
+</ul>
+</li>
+</ul>
+<h3 id="test-planning">Test Planning</h3>
+<p><strong>Who should test ?</strong></p>
+<ol>
+<li>Developer
+<ul>
+<li>Can do technical tests DOES system work</li>
+<li>Tends to test lightly; have blind spots due to providing expected inputs and events</li>
+</ul>
+</li>
+<li>Tester
+<ul>
+<li>Goals: test everything; break program (find all failure modes)</li>
+<li>Typically held responsible for bugs</li>
+</ul>
+</li>
+<li>User
+<ul>
+<li>Knows how they will use the system</li>
+<li>Simply try to use (does not try to break OR go light)</li>
+</ul>
+</li>
+</ol>
+<p><strong>Automatic vs Manual</strong></p>
+<ul>
+<li>Manual: individual goes and PERFORMS test (IE enter data on site and submit)</li>
+<li>Automatic: Create software to run testing (software to test THE modules program etc)</li>
+</ul>
+<p><strong>Black-Box Testing</strong></p>
+<ul>
+<li><u>Black Box Testing </u>: no technical aspects checked; uses input <strong>BLACK BOX</strong>output (input and output require oracles)</li>
+<li><u>Boundary values </u>: High and low values input, if outs pass, everything inbetween assumed good</li>
+<li><u>Cause Effect Graphing</u>: Inputs generate graphs of effect</li>
+<li><u>Pair-Wise Testing</u>: Params tested in all combinations to test all scenarios</li>
+<li><u>State-Based Testing</u>: Uses a state machine I DO NOT UNDERSTAND THIS</li>
+</ul>
+<p><strong>White-Box Testing</strong></p>
+<ul>
+<li>Technical aspects checked (memory leaks, variable are used right)</li>
+<li><u>Control Flow</u>: tests procedural logic, can you reach every if (all parts of procedural logic)</li>
+<li><u>Data Flow</u>: tests variable declarations, uses, and typing</li>
+</ul>
+<p><strong>Testing Problems</strong></p>
+<ul>
+<li>Complete (exhaustive) testing is impossible</li>
+<li>More bugs found, more time it takes to find remaining bugs (idea of low hanging fruit, increased marginal costs of improvement)</li>
+<li>Can never guarantee bug free program, even Windows cannot do this</li>
+<li>For given test MORE bugs found portend MORE bugs exists (IE a high defect rate in the sample means the whole is likely highly defective)</li>
+</ul>
+<hr>
+<h1 id="software-development-models">Software Development Models</h1>
+<ul>
+<li>Two classes
+<ul>
+<li>Predictive (linear): Has predictable end value (been done before for this to be known)</li>
+<li>Adaptive (flexible): No clear process (likely to change over time)</li>
+</ul>
+</li>
+</ul>
+<h2 id="waterfall-model">Waterfall Model</h2>
+<ul>
+<li>Step through process from top to bottom (typically the SDLC steps) <em>predictive</em>
+<ul>
+<li>Efficient and simple</li>
+<li>Exponential expense when problems come up in test ESPECIALLY late in process; have to go back to beginning!</li>
+</ul>
+</li>
+</ul>
+<h2 id="v-model">V-Model</h2>
+<ul>
+<li>Uses <strong>Verification</strong> at each step</li>
+<li>Enables finding bugs SOONER and thereby lowers exponential expense of bugs</li>
+</ul>
+<ol>
+<li>Requirements : Acceptance Testing</li>
+<li>Design : System Testing</li>
+<li>Architecture : Integration Testing</li>
+<li>Module : Unit Testing</li>
+<li>Implentation</li>
+</ol>
+<h2 id="sashimi-model">Sashimi Model</h2>
+<ul>
+<li>Do a little of each phase concurrently as proceeding through project</li>
+<li>Works best when each phase has different programmers working on it (requirements, design, implementation, etc)</li>
+<li>Can result in error and redesign, and errors more prevelant bc requirements still being defined as other phases worked on</li>
+</ul>
+<h2 id="incremental-model">Incremental Model</h2>
+<ul>
+<li>Build steps over time, assembly line method, do not have working software until final step</li>
+<li>Each major components (back-end, front-end) are put through whole SDLC as we build to end product</li>
+<li>Allows sending components for verification, so is iterative in a sense, and allows inclusion of OTHER models in components (V, Waterfall)</li>
+</ul>
+<h2 id="iterative-model">Iterative Model</h2>
+<ul>
+<li>Build operable prototypes and adjust; prototype should be able to do what final product will do (but will be poor quality, iteration will improve the quality)</li>
+</ul>
+<h2 id="unified-process-framework">Unified Process Framework</h2>
+<ul>
+<li>Has elements of both iterative and incremental</li>
+<li><strong>Phases</strong>
+<ul>
+<li><u>Inception</u>: Primarly feasibility (schedule, cost), biz modeling
+<ul>
+<li><strong>DELIVERABLE</strong> life cycle goals</li>
+</ul>
+</li>
+<li><u>Elaboration</u>: Requirements, analysis &amp; design; address known risks, verify and validate system architecture
+<ul>
+<li>Develop <strong>proof of concept</strong> core code to test; does it do what we think?</li>
+<li><strong>DELIVERABLE</strong> system architecture plans and prototype</li>
+</ul>
+</li>
+<li><u>Contruction</u>: Implementation (building the thing) LONGEST PHASE
+<ul>
+<li>Features delivered in short iterations EACH delivering workable release of software</li>
+<li><strong>DELIVERABLE</strong> continual improving of software</li>
+</ul>
+</li>
+<li><u>Transition</u>: Software deployed to end users who provide verification and make final refinement
+<ul>
+<li><strong>DELIVERABLE</strong> Final Product</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Pros</strong>
+<ul>
+<li>Adaptive</li>
+<li>Quality + reuse focuses</li>
+<li>Good risk management</li>
+<li>Flexible to include other models</li>
+</ul>
+</li>
+<li><strong>Cons</strong>
+<ul>
+<li>Complicated</li>
+<li>Lots of overhead (hurts small projects)</li>
+<li>Lots of staff (need more programmers, managers, testers)</li>
+</ul>
+</li>
+</ul>
+<h2 id="spiral-model">Spiral Model</h2>
+<p>A risk oriented model, often used w experimental ideas</p>
+<p><strong>4 Quadrants</strong> iterate around these quads EXPANDING scope and depth w each iteration</p>
+<ol>
+<li>Determine Objectives Alternatives <strong>THE PLAN</strong></li>
+<li>Identify and Resolve Risk</li>
+<li>Development and Tests <strong>CODE</strong> but starts as prototype</li>
+<li>Plan Next Iteration <strong>HOW ARE WE GOING TO DEVELOP</strong></li>
+</ol>
+<p><strong>Pros</strong></p>
+<ul>
+<li>Very adaptive</li>
+<li>Risk focused</li>
+<li>Options for go/no-go</li>
+</ul>
+<p><strong>Cons</strong></p>
+<ul>
+<li>Complicated</li>
+<li>Costs more to manage</li>
+<li>Needs constant stakeholder engagement</li>
+</ul>
+<hr>
+<h2 id="agile">Agile</h2>
+<p><u>Ideas</u> we use to develop models with (<u><strong>THERE IS NO</strong></u> &quot;Agile Model&quot;)</p>
+<h3 id="precepts">Precepts</h3>
+<ul>
+<li>Lots of unexpected problems arise</li>
+<li>Software is complicated and cannot be 100% predicted</li>
+<li>At end, software often did not meet original requirements</li>
+<li>Market moves, and products can be outdated by time they are finished</li>
+</ul>
+<h3 id="agile-manifesto">Agile Manifesto</h3>
+<ol>
+<li>Individuals and interactions over process and tools</li>
+<li>Working software over comprehensive documentation</li>
+<li>Customer collaboration over contract negotiation</li>
+<li>Responding to change over following plan</li>
+</ol>
+<h3 id="uscrumu"><u>Scrum</u></h3>
+<p>1 - 4 week &quot;sprints&quot; that involve plan build learn repeat; ITERATE to finished product<br>
+<strong>Roles</strong><br>
+Product Owner - Stakeholders (execs, customers, users); help prioritize <em>next steps</em><br>
+Scrum Master - Leads team to adhere to Scrum tenets<br>
+Team - People building software (engineers, designers, basic coders)</p>
+<h4 id="flow">Flow</h4>
+<ol>
+<li>Product Backlog - list of to ideas, requirements <strong>no priority set yet</strong></li>
+<li>Sprint Planning Meeting - <strong>prioritization</strong> of <em>Product Backlog</em></li>
+<li>Sprint Backlog - set of ideas we are working on <strong>set deadline</strong>; OBJECTIVES</li>
+<li>Sprint Review - demo sprint and review with stakeholders, start setting next backlog</li>
+<li>Sprint Retrospective - review with software team to improve internal processes</li>
+</ol>
+<h4 id="implementation">Implementation</h4>
+<p>Daily Scrum meeting:</p>
+<ul>
+<li>What <strong>was done</strong></li>
+<li>What we plan <strong>to do</strong></li>
+<li>What <strong>roadblocks</strong> exist (and <strong>dealing with</strong>)</li>
+<li>Track schedule</li>
+</ul>
+<h3 id="ukanbanu"><u>Kanban</u></h3>
+<p>Japanese methodology of continuous improvement<br>
+Project <u>workflow</u> broken into 5 segments.  Work being done in each segment is quantified as &quot;cards&quot;.  Try to equalize &quot;cards&quot; in each segment</p>
+<ol>
+<li>Backlog</li>
+<li>Analyze</li>
+<li>Develop</li>
+<li>Test</li>
+<li>Release</li>
+</ol>
+<h3 id="kanban-properties">Kanban Properties</h3>
+<ul>
+<li>Visualize workflow (put on wall, MAKE VISUAL)</li>
+<li>Limit WIP</li>
+<li>Manage flow</li>
+<li>Make process policies explicit <strong>DOCUMENTATION</strong> no grey</li>
+<li>Improve colloboratively (have group meetings on how we improve process)</li>
+</ul>
+<h3 id="kanban-principles">Kanban Principles</h3>
+<ul>
+<li>Start with what you know</li>
+<li>Agree to persue incremental evolution</li>
+<li>Respect current process, roles, responsibilities, titles</li>
+<li>Encourage acts of leadership <strong>at all levels</strong></li>
+</ul>
+<h3 id="lean-startup">Lean Startup</h3>
+<p>Experimental way of building products<br>
+You build a simple product, see if it succeeds, refine
+Have idea of GO and NO GO</p>
+<ol>
+<li>Learn (assumption)</li>
+<li>Build (experiment)</li>
+<li>Measure (metric)</li>
+</ol>
+<h2 id="scrum-in-depth">Scrum In Depth</h2>
+<p>The 3-5-3: 3 artifacts, 5 events, 3 goals.  This is the essence of Scrum.  Also can add 3 pilars and 5 values</p>
+<h3 id="values">Values</h3>
+<ol>
+<li>Roles (3): the people
+<ul>
+<li>Dev Team</li>
+<li>Product Owner</li>
+<li>Scrum Master</li>
+</ul>
+</li>
+<li>Artifacts (3):
+<ul>
+<li>Sprint Backlog</li>
+<li>Product Increment</li>
+<li>Product Backlog</li>
+</ul>
+</li>
+<li>Events (5): ideas around implementation
+<ul>
+<li>Sprint Planning</li>
+<li>Daily Scrum</li>
+<li>The Sprint</li>
+<li>Sprint Review</li>
+<li>Sprint Retrospective</li>
+</ul>
+</li>
+<li>Values (5): core tenants to adhere to
+<ul>
+<li>Focus: <u>Focus on work and goals of team</u></li>
+<li>Respect: Respect each other as capable of job and responsibilities</li>
+<li>Commitment: Commit to achieving goals of team</li>
+<li>Courage: Do right thing work on tough problems</li>
+<li>Openness: Open transparaent about work and challenges AND communication</li>
+</ul>
+</li>
+<li>Pilars (3): based on <em><strong>empiricism</strong></em> - <strong>knowledge come from experience, progress based on reality</strong>
+<ul>
+<li>Transparency: See what is going on in order to adapt</li>
+<li>Inspection: Look at what needs to be done / improved</li>
+<li>Adaption: Make changes based on knowledge gained, define next steps / improvements</li>
+</ul>
+</li>
+</ol>
+<h3 id="roles">Roles</h3>
+<ul>
+<li><strong>Product Owner</strong>: responsible for maximize value and managing product; owns goals and trajectory; ensures commitments are met
+<ul>
+<li>Communication with MGMT / outside people / stake holders</li>
+<li>Takes vision of stake holders and makes <em>Product Backlog</em> (next steps for sprints)</li>
+<li>Ensures value of team and provides feedback to all <em>Roles</em> in org</li>
+</ul>
+</li>
+<li><strong>Scrum Master</strong>: responsible to impelement and maintain Scrum framework;  grease in the wheels
+<ul>
+<li>Facilitates meetings IE <em>Daily Standup</em> DOES NOT RUN IT</li>
+<li>Educate dev team on their job and goals</li>
+<li>Encourages collaboration, mitigate disputes, disciplines</li>
+<li>Removes blocks for team</li>
+<li>Keeps team happy w high morale</li>
+</ul>
+</li>
+<li><strong>Dev Team</strong>: the people who do the coding; typically 3 - 9 members
+<ul>
+<li>Ideally they are all FULL STACK developers, even extending to design work</li>
+<li>Work w <em>Product Owner</em> to create and refine the vision (user stories)</li>
+<li>Organizes to complement strengths IE person X focuses on back end, person Y focuses on controller, person Z does view</li>
+<li>Researches, designs, and prototypes user stories</li>
+<li>Develop and maintain iterations (take product backlog and convert into sprint)</li>
+</ul>
+</li>
+</ul>
+<h3 id="implementation">Implementation</h3>
+<ul>
+<li><strong>Product Backlog</strong>: prioritized set of work created from visoin and it's requirements; updated AFTER EVERY SPRINT REVIEW
+<ul>
+<li>Many tools avail: Excel, Clubhouse</li>
+<li>Priorities broken into very high, high medium, low</li>
+<li>Has estimated hours or delivery dates</li>
+<li>Has who is responsible</li>
+</ul>
+</li>
+<li><strong>Sprint Planning Meeting</strong>: Sets expectations, structure, creates sprint backlog, no additonal features can be added from <em>product backlog</em>
+<ul>
+<li>2-4 hour meeting on day sprint begins, cannot go over time</li>
+<li>Take product backlog and turns to sprint backlog</li>
+<li><em>Scrum master</em>: secures conference room, keeps meeting moving and on topic, ensures meeting aligns w <em>sprint goal</em></li>
+<li><em>Product owner</em>: product backlog is ready, can explain what stakeholder visions (user stories) mean; can clarify backlog items, explain criteria ACTIONAL ITEMS w specificity</li>
+<li><em>Dev team</em>: determine tasks that work to goal, how much can be accomplished
+<ul>
+<li>WHOLE dev team needs to be present at planning meeting</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Sprint Goal</strong>: Two line summary of to do</li>
+<li><strong>Sprint</strong>: of 1 - 4 weeks; includes daily stand ups
+<ul>
+<li>Planning <em>done</em> in sprint</li>
+<li>Take product backlog with direction from <strong>Product Owner</strong> and <strong>Dev Team</strong> input AND DERIVE <strong>GOAL</strong>
+<ul>
+<li>This begets the <strong>Sprint Backlog</strong>, a subset of the Product Backlog that drives to the goal</li>
+<li>What did you do yesterday, what are you doing today, what are your impediments</li>
+<li>DOES NOT GO INTO DETAIL</li>
+</ul>
+</li>
+<li>Sprint Review: Show working product; based on feedback you do new sprint; have retrospective on sprint to improve point forward sprint</li>
+</ul>
+</li>
+<li><strong>Daily Scrum (standup)</strong>: 15 minutes collaborative meeting, focuses on sprint goal, occurs inside scrum loop
+<ul>
+<li>Scrum Master keeps meeting going and timebound; notes blockers and schedules time to remove blockers; randomly calls dev team members to speak - team communicates between themselves; ensure people are engaged and know what others are talking about</li>
+<li>Dev Team reviews 3 questions per person
+<ul>
+<li><mark>What done yesterday?</mark></li>
+<li><mark>What doing today?</mark></li>
+<li><mark>What is in way?</mark></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Sprint Review</strong>: Review the product, plan next phases, organize priorities
+<ul>
+<li>Go over sprint results</li>
+<li>Discuss demo work, get feedback</li>
+<li>Update status of project</li>
+<li>Collaborate on Plan Ahead</li>
+</ul>
+</li>
+<li><strong>Sprint Retrospective</strong>: Open 2 - 4 hour meeting w all roles (product owner, etc) coming together to discuss how to get better; popular method is the &quot;start stop continue&quot;, list things submitted anonymously that should be &quot;stopped&quot; &quot;continued&quot; or &quot;started&quot;; all this w goal of improving!</li>
+</ul>
+
+</body>
+</html>

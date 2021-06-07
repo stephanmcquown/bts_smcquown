@@ -1,0 +1,359 @@
+On Monday's Buddy updates Excel Project Doc BEFORE the Monday Afternoon Mtg MONDAY AM; Send to Me, Sarah, Ron
+On Friday's Buddy sends a timesheet
+
+
+Pinging nodweb9902.nodnet.pvt [192.168.99.172] with 32 bytes of data:
+Reply from 192.168.99.172: bytes=32 time=26ms TTL=127
+Reply from 192.168.99.172: bytes=32 time=25ms TTL=127
+Reply from 192.168.99.172: bytes=32 time=32ms TTL=127
+Reply from 192.168.99.172: bytes=32 time=26ms TTL=127
+
+
+
+
+prg (programs) - stand alone programs that DO not have a UI; an assembly of scripts
+
+# TEST 
+
+Example usage w expected result
+
+# WORLD 
+
+Purpose and biz environment here
+
+# REQUIREMENTS 
+
+Needed features and prerequisites here
+
+# PROGRAM 
+
+Logic summary here 
+
+# LEGAL
+
+Copyright (c) 2015-202X National Oak Distributors, Inc.  
+
+## Developers
+
+Bulleted list of who wrote the code here
+
+## History
+
+Major version history here
+
+
+ALL lower case separated by underscores
+prefix {1,} & server {0,1} & descriptive name {1}
+prefix {1,} & server {0,1} & action verb {0,1} & descriptive name {1}  
+prefix {1,} & functional area {0,} & action verb {0,1} & descriptive name {1}  
+database files 
+stand alone programs that DO not have a UI; an assembly of scripts
+finished standalone programs that have a UI; can be compiled or interpreted; an assembly of scripts and / or programs
+stand alone blocks of code that are intended to be executed by installed software (ie .bat, .sh, .py, .sql, etcetera)
+raw work, does not function as stand alone script; typically works in progress
+
+19292
+
+*@6iwbnthabj9
+
+curl -X GET --header 'Accept: application/json' --header 'api-key: IQ-10155-00' --header 'X-NatOak-Key: IQ-10155-00' 'https://natoakeomsapi.azurewebsites.net/v1/Part/FIB.112'
+https://natoakeomsapi.azurewebsites.net/v1/Part/FIB.112
+
+
+
+
+mysqldump --all-databases --no-data --lock-tables=0 -p PASSWORD > $saveAsPath/$schemaFile
+mysqldump --all-databases --no-data --events --no-create-info --no-create-db --skip-opt --lock-tables=0 -p PASSWORD > $saveAsPath/$eventsFile
+mysqldump --all-databases --no-data --routines --no-create-info --no-create-db --skip-opt --lock-tables=0 -p PASSWORD > $saveAsPath/$routinesFile
+mysqldump --all-databases --no-data --triggers --no-create-info --no-create-db --skip-opt --lock-tables=0 -p PASSWORD > $saveAsPath/$triggersFile
+
+
+
+2021/04/21 15:30:04 - Ballistix export to MySQL - Starting entry [Ballistix_Organizations_Merge]
+2021/04/21 15:30:04 - Ballistix_Organizations_Merge - Loading transformation from repository [Ballistix_Organizations_Merge] in directory [/public/ballistix]
+2021/04/21 15:30:04 - Ballistix_Organizations_Merge - Using run configuration [Pentaho local]
+2021/04/21 15:30:04 - Ballistix_Organizations_Merge - Using legacy execution engine
+2021/04/21 15:30:05 - TI - Existing.0 - linenr 50000
+2021/04/21 15:30:05 - SV - Cast Data Existing.0 - linenr 50000
+2021/04/21 15:30:05 - SR - Existing.0 - Linenr 50000
+2021/04/21 15:30:05 - TI - Existing.0 - linenr 100000
+2021/04/21 15:30:05 - SV - Cast Data Existing.0 - linenr 100000
+2021/04/21 15:30:05 - SR - Existing.0 - Linenr 100000
+2021/04/21 15:30:05 - TI - Existing.0 - Finished reading query, closing connection.
+2021/04/21 15:30:05 - TI - Existing.0 - Finished processing (I=120047, O=0, R=0, W=120047, U=0, E=0)
+2021/04/21 15:30:05 - SV - Cast Data Existing.0 - Finished processing (I=0, O=0, R=120047, W=120047, U=0, E=0)
+2021/04/21 15:30:06 - TI - New.0 - linenr 50000
+2021/04/21 15:30:06 - SV - Cast Data New.0 - linenr 50000
+2021/04/21 15:30:06 - SR - New.0 - Linenr 50000
+2021/04/21 15:30:06 - TI - New.0 - linenr 100000
+2021/04/21 15:30:06 - SV - Cast Data New.0 - linenr 100000
+2021/04/21 15:30:06 - SR - New.0 - Linenr 100000
+2021/04/21 15:30:06 - TI - New.0 - Finished reading query, closing connection.
+2021/04/21 15:30:06 - SV - Cast Data New.0 - Finished processing (I=0, O=0, R=120047, W=120047, U=0, E=0)
+2021/04/21 15:30:06 - TI - New.0 - Finished processing (I=120047, O=0, R=0, W=120047, U=0, E=0)
+2021/04/21 15:30:07 - MR - data.0 - linenr 50000
+2021/04/21 15:30:07 - MR - data.0 - linenr 100000
+2021/04/21 15:30:07 - FR - Identical.0 - linenr 50000
+2021/04/21 15:30:07 - MR - data.0 - linenr 150000
+2021/04/21 15:30:07 - MR - data.0 - linenr 200000
+2021/04/21 15:30:07 - FR - Identical.0 - linenr 100000
+2021/04/21 15:30:07 - SR - New.0 - Finished processing (I=0, O=0, R=120047, W=120047, U=0, E=0)
+2021/04/21 15:30:07 - SR - Existing.0 - Finished processing (I=0, O=0, R=120047, W=120047, U=0, E=0)
+2021/04/21 15:30:07 - MR - data.0 - Finished processing (I=0, O=0, R=240094, W=120047, U=0, E=0)
+2021/04/21 15:30:07 - FR - Identical.0 - Finished processing (I=0, O=0, R=120047, W=0, U=0, E=0)
+2021/04/21 15:30:07 - Ballistix export to MySQL - Starting entry [Ballistix_Contacts_Merge]
+2021/04/21 15:30:07 - Ballistix_Contacts_Merge - Loading transformation from repository [Ballistix_Contacts_Merge] in directory [/public/ballistix]
+2021/04/21 15:30:08 - Ballistix_Contacts_Merge - Using run configuration [Pentaho local]
+2021/04/21 15:30:08 - Ballistix_Contacts_Merge - Using legacy execution engine
+2021/04/21 15:30:09 - TI - Existing.0 - linenr 50000
+2021/04/21 15:30:09 - Select Values Existing.0 - linenr 50000
+2021/04/21 15:30:09 - SR - Existing.0 - Linenr 50000
+2021/04/21 15:30:09 - TI - Existing.0 - linenr 100000
+2021/04/21 15:30:09 - Select Values Existing.0 - linenr 100000
+2021/04/21 15:30:09 - SR - Existing.0 - Linenr 100000
+2021/04/21 15:30:09 - TI - Existing.0 - linenr 150000
+2021/04/21 15:30:09 - Select Values Existing.0 - linenr 150000
+2021/04/21 15:30:09 - SR - Existing.0 - Linenr 150000
+2021/04/21 15:30:09 - TI - Existing.0 - linenr 200000
+2021/04/21 15:30:09 - Select Values Existing.0 - linenr 200000
+2021/04/21 15:30:09 - SR - Existing.0 - Linenr 200000
+2021/04/21 15:30:10 - TI - Existing.0 - linenr 250000
+2021/04/21 15:30:10 - Select Values Existing.0 - linenr 250000
+2021/04/21 15:30:10 - SR - Existing.0 - Linenr 250000
+2021/04/21 15:30:10 - TI - Existing.0 - Finished reading query, closing connection.
+2021/04/21 15:30:10 - TI - Existing.0 - Finished processing (I=265185, O=0, R=0, W=265185, U=0, E=0)
+2021/04/21 15:30:10 - Select Values Existing.0 - Finished processing (I=0, O=0, R=265185, W=265185, U=0, E=0)
+2021/04/21 15:30:10 - TI - New.0 - linenr 50000
+2021/04/21 15:30:10 - SR - New.0 - Linenr 50000
+2021/04/21 15:30:11 - TI - New.0 - linenr 100000
+2021/04/21 15:30:11 - SR - New.0 - Linenr 100000
+2021/04/21 15:30:12 - TI - New.0 - linenr 150000
+2021/04/21 15:30:12 - SR - New.0 - Linenr 150000
+2021/04/21 15:30:13 - TI - New.0 - linenr 200000
+2021/04/21 15:30:13 - SR - New.0 - Linenr 200000
+2021/04/21 15:30:14 - TI - New.0 - linenr 250000
+2021/04/21 15:30:14 - SR - New.0 - Linenr 250000
+2021/04/21 15:30:14 - TI - New.0 - Finished reading query, closing connection.
+2021/04/21 15:30:14 - TI - New.0 - Finished processing (I=265185, O=0, R=0, W=265185, U=0, E=0)
+2021/04/21 15:30:14 - MR - data.0 - linenr 50000
+2021/04/21 15:30:14 - MR - data.0 - linenr 100000
+2021/04/21 15:30:14 - FR - Identical.0 - linenr 50000
+2021/04/21 15:30:14 - MR - data.0 - linenr 150000
+2021/04/21 15:30:14 - MR - data.0 - linenr 200000
+2021/04/21 15:30:14 - FR - Identical.0 - linenr 100000
+2021/04/21 15:30:14 - MR - data.0 - linenr 250000
+2021/04/21 15:30:14 - MR - data.0 - linenr 300000
+2021/04/21 15:30:15 - FR - Identical.0 - linenr 150000
+2021/04/21 15:30:15 - MR - data.0 - linenr 350000
+2021/04/21 15:30:15 - MR - data.0 - linenr 400000
+2021/04/21 15:30:15 - FR - Identical.0 - linenr 200000
+2021/04/21 15:30:15 - MR - data.0 - linenr 450000
+2021/04/21 15:30:15 - MR - data.0 - linenr 500000
+2021/04/21 15:30:15 - FR - Identical.0 - linenr 250000
+2021/04/21 15:30:15 - SR - Existing.0 - Finished processing (I=0, O=0, R=265185, W=265185, U=0, E=0)
+2021/04/21 15:30:15 - SR - New.0 - Finished processing (I=0, O=0, R=265185, W=265185, U=0, E=0)
+2021/04/21 15:30:15 - MR - data.0 - Finished processing (I=0, O=0, R=530370, W=265185, U=0, E=0)
+2021/04/21 15:30:15 - FR - Identical.0 - Finished processing (I=0, O=0, R=265185, W=0, U=0, E=0)
+2021/04/21 15:30:15 - Ballistix export to MySQL - Starting entry [Ballistix_Opportunities_Merge]
+2021/04/21 15:30:15 - Ballistix_Opportunities_Merge - Loading transformation from repository [Ballistix_Opportunities_Merge] in directory [/public/ballistix]
+2021/04/21 15:30:15 - Ballistix_Opportunities_Merge - Using run configuration [Pentaho local]
+2021/04/21 15:30:15 - Ballistix_Opportunities_Merge - Using legacy execution engine
+2021/04/21 15:30:16 - TI - Existing.0 - linenr 50000
+2021/04/21 15:30:16 - Select values.0 - linenr 50000
+2021/04/21 15:30:16 - SR - Existing.0 - Linenr 50000
+2021/04/21 15:30:16 - TI - Existing.0 - Finished reading query, closing connection.
+2021/04/21 15:30:16 - TI - Existing.0 - Finished processing (I=71453, O=0, R=0, W=71453, U=0, E=0)
+2021/04/21 15:30:16 - Select values.0 - Finished processing (I=0, O=0, R=71453, W=71453, U=0, E=0)
+2021/04/21 15:30:17 - TI - New.0 - linenr 50000
+2021/04/21 15:30:17 - SR - New.0 - Linenr 50000
+2021/04/21 15:30:17 - TI - New.0 - Finished reading query, closing connection.
+2021/04/21 15:30:17 - TI - New.0 - Finished processing (I=71453, O=0, R=0, W=71453, U=0, E=0)
+2021/04/21 15:30:17 - MR - data.0 - linenr 50000
+2021/04/21 15:30:17 - MR - data.0 - linenr 100000
+2021/04/21 15:30:17 - FR - Identical.0 - linenr 50000
+2021/04/21 15:30:17 - SR - New.0 - Finished processing (I=0, O=0, R=71453, W=71453, U=0, E=0)
+2021/04/21 15:30:17 - SR - Existing.0 - Finished processing (I=0, O=0, R=71453, W=71453, U=0, E=0)
+2021/04/21 15:30:18 - MR - data.0 - Finished processing (I=0, O=0, R=142906, W=71453, U=0, E=0)
+2021/04/21 15:30:18 - FR - Identical.0 - Finished processing (I=0, O=0, R=71453, W=7, U=0, E=0)
+2021/04/21 15:30:18 - DUM - Results.0 - Finished processing (I=0, O=0, R=7, W=7, U=0, E=0)
+2021/04/21 15:30:18 - SAM - Sync.0 - Finished processing (I=0, O=0, R=7, W=7, U=7, E=0)
+2021/04/21 15:30:18 - Ballistix export to MySQL - Starting entry [Ballistix_Calendar_Merge_PRIMARY]
+2021/04/21 15:30:18 - Ballistix_Calendar_Merge_PRIMARY - Loading transformation from repository [Ballistix_Calendar_Merge_PRIMARY] in directory [/public/ballistix]
+2021/04/21 15:30:18 - Ballistix_Calendar_Merge_PRIMARY - Using run configuration [Pentaho local]
+2021/04/21 15:30:18 - Ballistix_Calendar_Merge_PRIMARY - Using legacy execution engine
+2021/04/21 15:30:19 - TI - Existing.0 - linenr 50000
+2021/04/21 15:30:19 - Select values.0 - linenr 50000
+2021/04/21 15:30:19 - SR - Existing.0 - Linenr 50000
+2021/04/21 15:30:19 - TI - Existing.0 - linenr 100000
+2021/04/21 15:30:19 - Select values.0 - linenr 100000
+2021/04/21 15:30:19 - SR - Existing.0 - Linenr 100000
+2021/04/21 15:30:19 - TI - Existing.0 - linenr 150000
+2021/04/21 15:30:19 - Select values.0 - linenr 150000
+2021/04/21 15:30:19 - SR - Existing.0 - Linenr 150000
+2021/04/21 15:30:19 - TI - Existing.0 - linenr 200000
+2021/04/21 15:30:19 - Select values.0 - linenr 200000
+2021/04/21 15:30:19 - SR - Existing.0 - Linenr 200000
+2021/04/21 15:30:20 - TI - Existing.0 - linenr 250000
+2021/04/21 15:30:20 - Select values.0 - linenr 250000
+2021/04/21 15:30:20 - SR - Existing.0 - Linenr 250000
+2021/04/21 15:30:20 - TI - New.0 - linenr 50000
+2021/04/21 15:30:20 - SV - New.0 - linenr 50000
+2021/04/21 15:30:20 - SR - New.0 - Linenr 50000
+2021/04/21 15:30:20 - TI - Existing.0 - Finished reading query, closing connection.
+2021/04/21 15:30:20 - TI - Existing.0 - Finished processing (I=278646, O=0, R=0, W=278646, U=0, E=0)
+2021/04/21 15:30:20 - Select values.0 - Finished processing (I=0, O=0, R=278646, W=278646, U=0, E=0)
+2021/04/21 15:30:21 - TI - New.0 - linenr 100000
+2021/04/21 15:30:21 - SV - New.0 - linenr 100000
+2021/04/21 15:30:21 - SR - New.0 - Linenr 100000
+2021/04/21 15:30:22 - TI - New.0 - linenr 150000
+2021/04/21 15:30:22 - SV - New.0 - linenr 150000
+2021/04/21 15:30:22 - SR - New.0 - Linenr 150000
+2021/04/21 15:30:23 - TI - New.0 - linenr 200000
+2021/04/21 15:30:23 - SV - New.0 - linenr 200000
+2021/04/21 15:30:23 - SR - New.0 - Linenr 200000
+2021/04/21 15:30:24 - TI - New.0 - linenr 250000
+2021/04/21 15:30:24 - SV - New.0 - linenr 250000
+2021/04/21 15:30:24 - SR - New.0 - Linenr 250000
+2021/04/21 15:30:25 - TI - New.0 - Finished reading query, closing connection.
+2021/04/21 15:30:25 - SV - New.0 - Finished processing (I=0, O=0, R=278655, W=278655, U=0, E=0)
+2021/04/21 15:30:25 - TI - New.0 - Finished processing (I=278655, O=0, R=0, W=278655, U=0, E=0)
+2021/04/21 15:30:25 - MR - data.0 - linenr 50000
+2021/04/21 15:30:30 - MR - data.0 - linenr 100000
+2021/04/21 15:30:33 - FR - Identical.0 - linenr 50000
+2021/04/21 15:30:38 - DUM - Results.0 - Linenr 50000
+2021/04/21 15:30:39 - MR - data.0 - linenr 150000
+2021/04/21 15:30:47 - MR - data.0 - linenr 200000
+2021/04/21 15:30:50 - FR - Identical.0 - linenr 100000
+2021/04/21 15:30:55 - MR - data.0 - linenr 250000
+2021/04/21 15:30:55 - DUM - Results.0 - Linenr 100000
+2021/04/21 15:31:02 - MR - data.0 - linenr 300000
+2021/04/21 15:31:06 - FR - Identical.0 - linenr 150000
+2021/04/21 15:31:12 - MR - data.0 - linenr 350000
+2021/04/21 15:31:14 - DUM - Results.0 - Linenr 150000
+2021/04/21 15:31:19 - MR - data.0 - linenr 400000
+2021/04/21 15:31:21 - FR - Identical.0 - linenr 200000
+2021/04/21 15:31:26 - MR - data.0 - linenr 450000
+2021/04/21 15:31:31 - DUM - Results.0 - Linenr 200000
+2021/04/21 15:31:34 - MR - data.0 - linenr 500000
+2021/04/21 15:31:37 - FR - Identical.0 - linenr 250000
+2021/04/21 15:31:39 - SR - Existing.0 - Finished processing (I=0, O=0, R=278646, W=278646, U=0, E=0)
+2021/04/21 15:31:39 - SR - New.0 - Finished processing (I=0, O=0, R=278655, W=278655, U=0, E=0)
+2021/04/21 15:31:41 - MR - data.0 - linenr 550000
+2021/04/21 15:31:42 - MR - data.0 - Finished processing (I=0, O=0, R=557301, W=278655, U=0, E=0)
+2021/04/21 15:31:45 - FR - Identical.0 - Finished processing (I=0, O=0, R=278655, W=250196, U=0, E=0)
+2021/04/21 15:31:48 - DUM - Results.0 - Linenr 250000
+2021/04/21 15:31:48 - DUM - Results.0 - Finished processing (I=0, O=0, R=250196, W=250196, U=0, E=0)
+2021/04/21 15:31:52 - SAM - Sync.0 - Finished processing (I=0, O=9, R=250196, W=250196, U=250187, E=0)
+2021/04/21 15:31:53 - Ballistix export to MySQL - Starting entry [Ballistix_Calendar_Merge__SUB_01]
+2021/04/21 15:31:53 - Ballistix_Calendar_Merge__SUB_01 - Loading transformation from repository [Ballistix_Calendar_Merge_SUB_01] in directory [/public/ballistix]
+2021/04/21 15:31:53 - Ballistix_Calendar_Merge__SUB_01 - Using run configuration [Pentaho local]
+2021/04/21 15:31:53 - Ballistix_Calendar_Merge__SUB_01 - Using legacy execution engine
+2021/04/21 15:31:53 - TI - Existing.0 - linenr 50000
+2021/04/21 15:31:53 - Sort Rows - Existing.0 - Linenr 50000
+2021/04/21 15:31:53 - TI - Existing.0 - linenr 100000
+2021/04/21 15:31:53 - Sort Rows - Existing.0 - Linenr 100000
+2021/04/21 15:31:53 - TI - Existing.0 - linenr 150000
+2021/04/21 15:31:53 - Sort Rows - Existing.0 - Linenr 150000
+2021/04/21 15:31:53 - TI - Existing.0 - linenr 200000
+2021/04/21 15:31:53 - Sort Rows - Existing.0 - Linenr 200000
+2021/04/21 15:31:53 - TI - Existing.0 - linenr 250000
+2021/04/21 15:31:53 - Sort Rows - Existing.0 - Linenr 250000
+2021/04/21 15:31:53 - TI - Existing.0 - Finished reading query, closing connection.
+2021/04/21 15:31:53 - TI - Existing.0 - Finished processing (I=278655, O=0, R=0, W=278655, U=0, E=0)
+2021/04/21 15:31:54 - TI - New.0 - linenr 50000
+2021/04/21 15:31:54 - Sort Rows - New.0 - Linenr 50000
+2021/04/21 15:31:54 - TI - New.0 - linenr 100000
+2021/04/21 15:31:54 - Sort Rows - New.0 - Linenr 100000
+2021/04/21 15:31:55 - TI - New.0 - linenr 150000
+2021/04/21 15:31:55 - Sort Rows - New.0 - Linenr 150000
+2021/04/21 15:31:55 - TI - New.0 - linenr 200000
+2021/04/21 15:31:55 - Sort Rows - New.0 - Linenr 200000
+2021/04/21 15:31:56 - TI - New.0 - linenr 250000
+2021/04/21 15:31:56 - Sort Rows - New.0 - Linenr 250000
+2021/04/21 15:31:56 - TI - New.0 - Finished reading query, closing connection.
+2021/04/21 15:31:56 - TI - New.0 - Finished processing (I=254881, O=0, R=0, W=254881, U=0, E=0)
+2021/04/21 15:32:00 - Merge Rows (diff).0 - linenr 100000
+2021/04/21 15:32:03 - Filter Rows.0 - linenr 50000
+2021/04/21 15:32:09 - Dummy (Results).0 - Linenr 50000
+2021/04/21 15:32:16 - Merge Rows (diff).0 - linenr 200000
+2021/04/21 15:32:19 - Filter Rows.0 - linenr 100000
+2021/04/21 15:32:23 - Dummy (Results).0 - Linenr 100000
+2021/04/21 15:32:23 - Merge Rows (diff).0 - linenr 250000
+2021/04/21 15:32:32 - Filter Rows.0 - linenr 150000
+2021/04/21 15:32:35 - Dummy (Results).0 - Linenr 150000
+2021/04/21 15:32:37 - Merge Rows (diff).0 - linenr 350000
+2021/04/21 15:32:43 - Merge Rows (diff).0 - linenr 400000
+2021/04/21 15:32:44 - Filter Rows.0 - linenr 200000
+2021/04/21 15:32:47 - Dummy (Results).0 - Linenr 200000
+2021/04/21 15:32:50 - Merge Rows (diff).0 - linenr 450000
+2021/04/21 15:32:56 - Filter Rows.0 - linenr 250000
+2021/04/21 15:32:58 - Sort Rows - New.0 - Finished processing (I=0, O=0, R=254881, W=254881, U=0, E=0)
+2021/04/21 15:32:58 - Sort Rows - Existing.0 - Finished processing (I=0, O=0, R=278655, W=278655, U=0, E=0)
+2021/04/21 15:32:59 - Dummy (Results).0 - Linenr 250000
+2021/04/21 15:33:01 - Merge Rows (diff).0 - Finished processing (I=0, O=0, R=533536, W=278655, U=0, E=0)
+2021/04/21 15:33:05 - Filter Rows.0 - Finished processing (I=0, O=0, R=278655, W=273969, U=0, E=0)
+2021/04/21 15:33:09 - Dummy (Results).0 - Finished processing (I=0, O=0, R=273969, W=273969, U=0, E=0)
+2021/04/21 15:33:12 - SAM.0 - Finished processing (I=0, O=0, R=273969, W=273969, U=250195, E=0)
+2021/04/21 15:33:12 - Ballistix export to MySQL - Starting entry [Ballistix_Tickets_Merge]
+2021/04/21 15:33:12 - Ballistix_Tickets_Merge - Loading transformation from repository [Ballistix_Tickets_Merge] in directory [/public/ballistix]
+2021/04/21 15:33:12 - Ballistix_Tickets_Merge - Using run configuration [Pentaho local]
+2021/04/21 15:33:12 - Ballistix_Tickets_Merge - Using legacy execution engine
+2021/04/21 15:33:13 - JS - Interpret DateReceived.0 - Optimization level set to 9.
+2021/04/21 15:33:13 - TI - Existing.0 - linenr 50000
+2021/04/21 15:33:13 - SV - Change Existing.0 - linenr 50000
+2021/04/21 15:33:13 - SR - Existing.0 - Linenr 50000
+2021/04/21 15:33:13 - TI - Existing.0 - linenr 100000
+2021/04/21 15:33:13 - SV - Change Existing.0 - linenr 100000
+2021/04/21 15:33:13 - SR - Existing.0 - Linenr 100000
+2021/04/21 15:33:13 - TI - Existing.0 - Finished reading query, closing connection.
+2021/04/21 15:33:13 - TI - Existing.0 - Finished processing (I=114933, O=0, R=0, W=114933, U=0, E=0)
+2021/04/21 15:33:13 - SV - Change Existing.0 - Finished processing (I=0, O=0, R=114933, W=114933, U=0, E=0)
+2021/04/21 15:33:15 - TI - New.0 - linenr 50000
+2021/04/21 15:33:16 - JS - Interpret DateReceived.0 - linenr 50000
+2021/04/21 15:33:16 - SV - Change New.0 - linenr 50000
+2021/04/21 15:33:16 - SR - New.0 - Linenr 50000
+2021/04/21 15:33:18 - TI - New.0 - linenr 100000
+2021/04/21 15:33:18 - JS - Interpret DateReceived.0 - linenr 100000
+2021/04/21 15:33:18 - SV - Change New.0 - linenr 100000
+2021/04/21 15:33:18 - SR - New.0 - Linenr 100000
+2021/04/21 15:33:18 - TI - New.0 - Finished reading query, closing connection.
+2021/04/21 15:33:18 - TI - New.0 - Finished processing (I=114934, O=0, R=0, W=114934, U=0, E=0)
+2021/04/21 15:33:19 - JS - Interpret DateReceived.0 - Finished processing (I=0, O=0, R=114934, W=114934, U=0, E=0)
+2021/04/21 15:33:19 - SV - Change New.0 - Finished processing (I=0, O=0, R=114934, W=114934, U=0, E=0)
+2021/04/21 15:33:19 - MR - data.0 - linenr 50000
+2021/04/21 15:33:19 - MR - data.0 - linenr 100000
+2021/04/21 15:33:19 - FR - Identical.0 - linenr 50000
+2021/04/21 15:33:19 - MR - data.0 - linenr 150000
+2021/04/21 15:33:19 - MR - data.0 - linenr 200000
+2021/04/21 15:33:19 - FR - Identical.0 - linenr 100000
+2021/04/21 15:33:19 - SR - New.0 - Finished processing (I=0, O=0, R=114934, W=114934, U=0, E=0)
+2021/04/21 15:33:19 - SR - Existing.0 - Finished processing (I=0, O=0, R=114933, W=114933, U=0, E=0)
+2021/04/21 15:33:20 - MR - data.0 - Finished processing (I=0, O=0, R=229867, W=114934, U=0, E=0)
+2021/04/21 15:33:20 - FR - Identical.0 - Finished processing (I=0, O=0, R=114934, W=3, U=0, E=0)
+2021/04/21 15:33:20 - DUM - Results.0 - Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2021/04/21 15:33:20 - SAM - Sync.0 - Finished processing (I=0, O=1, R=3, W=3, U=2, E=0)
+2021/04/21 15:33:20 - Ballistix export to MySQL - Starting entry [Ballistix_Campaigns_Merge]
+2021/04/21 15:33:20 - Ballistix_Campaigns_Merge - Loading transformation from repository [Ballistix_Campaigns_Merge] in directory [/public/ballistix]
+2021/04/21 15:33:20 - Ballistix_Campaigns_Merge - Using run configuration [Pentaho local]
+2021/04/21 15:33:20 - Ballistix_Campaigns_Merge - Using legacy execution engine
+2021/04/21 15:33:20 - TI - Existing.0 - Finished reading query, closing connection.
+2021/04/21 15:33:20 - TI - Existing.0 - Finished processing (I=938, O=0, R=0, W=938, U=0, E=0)
+2021/04/21 15:33:20 - Select values.0 - Finished processing (I=0, O=0, R=938, W=938, U=0, E=0)
+2021/04/21 15:33:20 - SR - Existing.0 - Finished processing (I=0, O=0, R=938, W=938, U=0, E=0)
+2021/04/21 15:33:20 - TI - New.0 - Finished reading query, closing connection.
+2021/04/21 15:33:20 - SR - New.0 - Finished processing (I=0, O=0, R=938, W=938, U=0, E=0)
+2021/04/21 15:33:20 - TI - New.0 - Finished processing (I=938, O=0, R=0, W=938, U=0, E=0)
+2021/04/21 15:33:20 - MR - data.0 - Finished processing (I=0, O=0, R=1876, W=938, U=0, E=0)
+2021/04/21 15:33:20 - FR - Identical.0 - Finished processing (I=0, O=0, R=938, W=0, U=0, E=0)
+2021/04/21 15:33:21 - Ballistix export to MySQL - Starting entry [SQL - Log Success]
+2021/04/21 15:33:21 - Ballistix export to MySQL - Starting entry [Success]
+2021/04/21 15:33:21 - Ballistix export to MySQL - Finished job entry [Success] (result=[true])
+2021/04/21 15:33:21 - Ballistix export to MySQL - Finished job entry [SQL - Log Success] (result=[true])
+2021/04/21 15:33:21 - Ballistix export to MySQL - Finished job entry [Ballistix_Campaigns_Merge] (result=[true])
+2021/04/21 15:33:21 - Ballistix export to MySQL - Finished job entry [Ballistix_Tickets_Merge] (result=[true])
+2021/04/21 15:33:21 - Ballistix export to MySQL - Finished job entry [Ballistix_Calendar_Merge__SUB_01] (result=[true])
+2021/04/21 15:33:21 - Ballistix export to MySQL - Finished job entry [Ballistix_Calendar_Merge_PRIMARY] (result=[true])
+2021/04/21 15:33:21 - Ballistix export to MySQL - Finished job entry [Ballistix_Opportunities_Merge] (result=[true])
+2021/04/21 15:33:21 - Ballistix export to MySQL - Finished job entry [Ballistix_Contacts_Merge] (result=[true])
+2021/04/21 15:33:21 - Ballistix export to MySQL - Finished job entry [Ballistix_Organizations_Merge] (result=[true])
+2021/04/21 15:33:21 - Ballistix export to MySQL - Job execution finished

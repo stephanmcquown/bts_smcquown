@@ -1,0 +1,46 @@
+# Questions
+
+- Diff between table and view? 
+- Have you ever trouble shot dynamic SQL and how so? 
+- How do you learn? 
+- How do you get motivated for tasks you are not looking forward to? 
+
+
+
+create 
+function uf_functionA (
+    vlCost  decimal(18, 4),
+    vlPrice decimal(18, 4)
+    )
+returns decimal(18, 4)
+begin
+
+    /*  
+        TEST
+        select uf_functionA(75,100); -- returns ???
+    */
+
+    return 1 - vlCost / nullif(vlPrice, 0);
+
+end;
+
+#######################################################################
+
+create
+function uf_IAmBroken (
+    vlPattern        varchar(255),
+    vlStringToSearch varchar(4000)
+    )
+returns int(11)
+begin
+
+    /* 
+        TEST 
+        select uf_IAmBroken(':', 'hello:world:'); 
+    */
+
+    char_length(vlStringToSearch) - char_length(replace(vlStringToSearch, vlPattern, ''));
+
+end;
+
+#######################################################################

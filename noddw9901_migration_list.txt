@@ -1,0 +1,3 @@
+# NODDW9901 Migration List
+
+- Find what calls sp_Generate_Imaging_EmailCreditCollectionScans.  This gens a daily email I think.  This proc may need to be migrated.

@@ -1,0 +1,1804 @@
+
+2020/08/14 09:17:15 - TI - New.0 - linenr 50000
+2020/08/14 09:17:15 - SV - New.0 - linenr 50000
+2020/08/14 09:17:16 - SR - New.0 - Linenr 50000
+2020/08/14 09:17:16 - TI - New.0 - linenr 100000
+2020/08/14 09:17:16 - SV - New.0 - linenr 100000
+2020/08/14 09:17:16 - SR - New.0 - Linenr 100000
+2020/08/14 09:17:16 - TI - New.0 - linenr 150000
+2020/08/14 09:17:16 - SV - New.0 - linenr 150000
+2020/08/14 09:17:16 - SR - New.0 - Linenr 150000
+2020/08/14 09:17:16 - TI - New.0 - linenr 200000
+2020/08/14 09:17:16 - SV - New.0 - linenr 200000
+2020/08/14 09:17:16 - SR - New.0 - Linenr 200000
+2020/08/14 09:17:16 - TI - New.0 - linenr 250000
+2020/08/14 09:17:16 - SV - New.0 - linenr 250000
+2020/08/14 09:17:16 - SR - New.0 - Linenr 250000
+2020/08/14 09:17:16 - TI - New.0 - linenr 300000
+2020/08/14 09:17:16 - SV - New.0 - linenr 300000
+2020/08/14 09:17:16 - SR - New.0 - Linenr 300000
+2020/08/14 09:17:16 - TI - New.0 - linenr 350000
+2020/08/14 09:17:16 - SV - New.0 - linenr 350000
+2020/08/14 09:17:16 - SR - New.0 - Linenr 350000
+2020/08/14 09:17:16 - TI - New.0 - linenr 400000
+2020/08/14 09:17:16 - SV - New.0 - linenr 400000
+2020/08/14 09:17:16 - SR - New.0 - Linenr 400000
+2020/08/14 09:17:17 - TI - New.0 - linenr 450000
+2020/08/14 09:17:17 - SV - New.0 - linenr 450000
+2020/08/14 09:17:17 - SR - New.0 - Linenr 450000
+2020/08/14 09:17:17 - TI - New.0 - linenr 500000
+2020/08/14 09:17:17 - SV - New.0 - linenr 500000
+2020/08/14 09:17:17 - SR - New.0 - Linenr 500000
+2020/08/14 09:17:17 - TI - New.0 - linenr 550000
+2020/08/14 09:17:17 - SV - New.0 - linenr 550000
+2020/08/14 09:17:17 - SR - New.0 - Linenr 550000
+2020/08/14 09:17:17 - TI - New.0 - linenr 600000
+2020/08/14 09:17:17 - SV - New.0 - linenr 600000
+2020/08/14 09:17:17 - SR - New.0 - Linenr 600000
+2020/08/14 09:17:17 - TI - New.0 - linenr 650000
+2020/08/14 09:17:17 - SV - New.0 - linenr 650000
+2020/08/14 09:17:17 - SR - New.0 - Linenr 650000
+2020/08/14 09:17:17 - TI - New.0 - linenr 700000
+2020/08/14 09:17:17 - SV - New.0 - linenr 700000
+2020/08/14 09:17:17 - SR - New.0 - Linenr 700000
+2020/08/14 09:17:17 - TI - New.0 - linenr 750000
+2020/08/14 09:17:17 - SV - New.0 - linenr 750000
+2020/08/14 09:17:17 - SR - New.0 - Linenr 750000
+2020/08/14 09:17:17 - TI - New.0 - linenr 800000
+2020/08/14 09:17:17 - SV - New.0 - linenr 800000
+2020/08/14 09:17:17 - SR - New.0 - Linenr 800000
+2020/08/14 09:17:18 - TI - New.0 - linenr 850000
+2020/08/14 09:17:18 - SV - New.0 - linenr 850000
+2020/08/14 09:17:18 - SR - New.0 - Linenr 850000
+2020/08/14 09:17:18 - TI - New.0 - linenr 900000
+2020/08/14 09:17:18 - SV - New.0 - linenr 900000
+2020/08/14 09:17:18 - SR - New.0 - Linenr 900000
+2020/08/14 09:17:18 - TI - New.0 - linenr 950000
+2020/08/14 09:17:18 - SV - New.0 - linenr 950000
+2020/08/14 09:17:18 - SR - New.0 - Linenr 950000
+2020/08/14 09:17:18 - TI - New.0 - linenr 1000000
+2020/08/14 09:17:18 - SV - New.0 - linenr 1000000
+2020/08/14 09:17:18 - SR - New.0 - Linenr 1000000
+2020/08/14 09:17:18 - TI - New.0 - linenr 1050000
+2020/08/14 09:17:18 - SV - New.0 - linenr 1050000
+2020/08/14 09:17:18 - SR - New.0 - Linenr 1050000
+2020/08/14 09:17:18 - TI - New.0 - linenr 1100000
+2020/08/14 09:17:18 - SV - New.0 - linenr 1100000
+2020/08/14 09:17:18 - SR - New.0 - Linenr 1100000
+2020/08/14 09:17:18 - TI - New.0 - linenr 1150000
+2020/08/14 09:17:18 - SV - New.0 - linenr 1150000
+2020/08/14 09:17:19 - SR - New.0 - Linenr 1150000
+2020/08/14 09:17:19 - TI - New.0 - linenr 1200000
+2020/08/14 09:17:19 - SV - New.0 - linenr 1200000
+2020/08/14 09:17:19 - SR - New.0 - Linenr 1200000
+2020/08/14 09:17:19 - TI - New.0 - linenr 1250000
+2020/08/14 09:17:19 - SV - New.0 - linenr 1250000
+2020/08/14 09:17:19 - SR - New.0 - Linenr 1250000
+2020/08/14 09:17:19 - TI - New.0 - linenr 1300000
+2020/08/14 09:17:19 - SV - New.0 - linenr 1300000
+2020/08/14 09:17:19 - SR - New.0 - Linenr 1300000
+2020/08/14 09:17:19 - TI - New.0 - linenr 1350000
+2020/08/14 09:17:19 - SV - New.0 - linenr 1350000
+2020/08/14 09:17:19 - SR - New.0 - Linenr 1350000
+2020/08/14 09:17:19 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:17:19 - TI - New.0 - Finished processing (I=1368275, O=0, R=0, W=1368275, U=0, E=0)
+2020/08/14 09:17:19 - SV - New.0 - Finished processing (I=0, O=0, R=1368275, W=1368275, U=0, E=0)
+2020/08/14 09:17:20 - SR - New.0 - Opening 232 tmp-files...
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 50000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 100000
+2020/08/14 09:17:20 - FR - Identical.0 - linenr 50000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 150000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 200000
+2020/08/14 09:17:20 - FR - Identical.0 - linenr 100000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 250000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 300000
+2020/08/14 09:17:20 - FR - Identical.0 - linenr 150000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 350000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 400000
+2020/08/14 09:17:20 - FR - Identical.0 - linenr 200000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 450000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 500000
+2020/08/14 09:17:20 - FR - Identical.0 - linenr 250000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 550000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 600000
+2020/08/14 09:17:20 - FR - Identical.0 - linenr 300000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 650000
+2020/08/14 09:17:20 - MR - Merge.0 - linenr 700000
+2020/08/14 09:17:20 - FR - Identical.0 - linenr 350000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 750000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 800000
+2020/08/14 09:17:21 - FR - Identical.0 - linenr 400000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 850000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 900000
+2020/08/14 09:17:21 - FR - Identical.0 - linenr 450000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 950000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 1000000
+2020/08/14 09:17:21 - FR - Identical.0 - linenr 500000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 1050000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 1100000
+2020/08/14 09:17:21 - FR - Identical.0 - linenr 550000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 1150000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 1200000
+2020/08/14 09:17:21 - FR - Identical.0 - linenr 600000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 1250000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 1300000
+2020/08/14 09:17:21 - FR - Identical.0 - linenr 650000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 1350000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 1400000
+2020/08/14 09:17:21 - FR - Identical.0 - linenr 700000
+2020/08/14 09:17:21 - MR - Merge.0 - linenr 1450000
+2020/08/14 09:17:22 - FR - Identical.0 - linenr 750000
+2020/08/14 09:17:22 - FR - Identical.0 - linenr 800000
+2020/08/14 09:17:22 - FR - Identical.0 - linenr 850000
+2020/08/14 09:17:22 - FR - Identical.0 - linenr 900000
+2020/08/14 09:17:22 - FR - Identical.0 - linenr 950000
+2020/08/14 09:17:22 - FR - Identical.0 - linenr 1000000
+2020/08/14 09:17:22 - FR - Identical.0 - linenr 1050000
+2020/08/14 09:17:22 - FR - Identical.0 - linenr 1100000
+2020/08/14 09:17:22 - FR - Identical.0 - linenr 1150000
+2020/08/14 09:17:23 - FR - Identical.0 - linenr 1200000
+2020/08/14 09:17:23 - FR - Identical.0 - linenr 1250000
+2020/08/14 09:17:23 - FR - Identical.0 - linenr 1300000
+2020/08/14 09:17:23 - FR - Identical.0 - linenr 1350000
+2020/08/14 09:17:23 - SR - New.0 - Finished processing (I=0, O=0, R=1368275, W=1368275, U=0, E=0)
+2020/08/14 09:17:23 - SR - Existing.0 - Finished processing (I=0, O=0, R=1368272, W=1368272, U=0, E=0)
+2020/08/14 09:17:23 - MR - Merge.0 - Finished processing (I=0, O=0, R=2736547, W=1368275, U=0, E=0)
+2020/08/14 09:17:23 - FR - Identical.0 - Finished processing (I=0, O=0, R=1368275, W=3, U=0, E=0)
+2020/08/14 09:17:23 - DUM - Output.0 - Finished processing (I=0, O=0, R=3, W=3, U=0, E=0)
+2020/08/14 09:17:23 - SAM - Output.0 - Finished processing (I=0, O=3, R=3, W=3, U=0, E=0)
+2020/08/14 09:17:24 -  - ********** Opening ETL transformation for OpenOrderSpecialInstructions / 65.
+2020/08/14 09:17:24 - Template_ETLInjection_Basic - Loading transformation from repository [Template_ETLInjection_Basic] in directory [/public/sales_import]
+2020/08/14 09:17:27 - Template_ETLInjection_Basic - Using run configuration [Pentaho local]
+2020/08/14 09:17:27 - Template_ETLInjection_Basic - Using legacy execution engine
+2020/08/14 09:17:28 - TI - SAM_OutputKeyFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SV_New_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SAM_OutputUpdateFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SAM_OutputUpdateFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SAM_OutputKeyFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SV_New_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SV_Existing_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SV_Existing_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SV_New_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SV_Existing_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - MR_CompareFields.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SAM_OutputUpdateFields_Stream.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2020/08/14 09:17:28 - TI - SAM_OutputKeyFields_Stream.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:28 - TI - SR_New.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - MR_CompareFields.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2020/08/14 09:17:28 - TI - SAM_OutputUpdateFields_Table.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2020/08/14 09:17:28 - TI - SAM_OutputKeyFields_Table.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:28 - TI - SR_New.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:28 - TI - SV_Existing_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:28 - TI - SV_New_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:28 - TI - MR_KeyFields.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - MR_KeyFields.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:28 - TI - SR_Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - ETLPumps.0 - Finished reading query, closing connection.
+2020/08/14 09:17:28 - TI - SR_Existing.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:28 - TI - ETLPumps.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:31 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:17:31 - TI - Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:17:32 -  - ********** Opening ETL transformation for OrderSpecialInstructions / 66.
+2020/08/14 09:17:33 - Template_ETLInjection_Basic - Loading transformation from repository [Template_ETLInjection_Basic] in directory [/public/sales_import]
+2020/08/14 09:17:33 - Template_ETLInjection_Basic - Using run configuration [Pentaho local]
+2020/08/14 09:17:33 - Template_ETLInjection_Basic - Using legacy execution engine
+2020/08/14 09:17:33 - TI - SAM_OutputUpdateFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SAM_OutputKeyFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SAM_OutputKeyFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SV_New_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SAM_OutputUpdateFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SV_Existing_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SV_New_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SV_Existing_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SV_New_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SAM_OutputUpdateFields_Table.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2020/08/14 09:17:33 - TI - MR_CompareFields.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SV_Existing_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SAM_OutputKeyFields_Stream.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:33 - TI - MR_KeyFields.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SAM_OutputKeyFields_Table.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:33 - TI - SAM_OutputUpdateFields_Stream.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2020/08/14 09:17:33 - TI - SR_New.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SV_Existing_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:33 - TI - MR_CompareFields.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2020/08/14 09:17:33 - TI - SV_New_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:33 - TI - MR_KeyFields.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:33 - TI - SR_New.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:33 - TI - SR_Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - ETLPumps.0 - Finished reading query, closing connection.
+2020/08/14 09:17:33 - TI - SR_Existing.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:33 - TI - ETLPumps.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:36 - TI - Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:17:36 - TI - Existing.0 - Finished processing (I=785, O=0, R=0, W=785, U=0, E=0)
+2020/08/14 09:17:36 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:17:36 - TI - New.0 - Finished processing (I=785, O=0, R=0, W=785, U=0, E=0)
+2020/08/14 09:17:36 - SV - Existing.0 - Finished processing (I=0, O=0, R=785, W=785, U=0, E=0)
+2020/08/14 09:17:36 - SV - New.0 - Finished processing (I=0, O=0, R=785, W=785, U=0, E=0)
+2020/08/14 09:17:36 - SR - New.0 - Finished processing (I=0, O=0, R=785, W=785, U=0, E=0)
+2020/08/14 09:17:36 - SR - Existing.0 - Finished processing (I=0, O=0, R=785, W=785, U=0, E=0)
+2020/08/14 09:17:37 - MR - Merge.0 - Finished processing (I=0, O=0, R=1570, W=785, U=0, E=0)
+2020/08/14 09:17:37 - FR - Identical.0 - Finished processing (I=0, O=0, R=785, W=0, U=0, E=0)
+2020/08/14 09:17:38 -  - ********** Opening ETL transformation for OrderAltShipToAddresses / 71.
+2020/08/14 09:17:38 - Template_ETLInjection_Basic - Loading transformation from repository [Template_ETLInjection_Basic] in directory [/public/sales_import]
+2020/08/14 09:17:38 - Template_ETLInjection_Basic - Using run configuration [Pentaho local]
+2020/08/14 09:17:38 - Template_ETLInjection_Basic - Using legacy execution engine
+2020/08/14 09:17:39 - TI - SAM_OutputUpdateFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SV_New_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SAM_OutputKeyFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SAM_OutputKeyFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SAM_OutputUpdateFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SV_Existing_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SV_Existing_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SV_Existing_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SV_New_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SAM_OutputKeyFields_Stream.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:39 - TI - SV_New_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - MR_CompareFields.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SAM_OutputUpdateFields_Table.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:17:39 - TI - SV_New_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:39 - TI - SAM_OutputUpdateFields_Stream.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:17:39 - TI - MR_KeyFields.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SAM_OutputKeyFields_Table.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:39 - TI - MR_CompareFields.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:17:39 - TI - SV_Existing_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:39 - TI - MR_KeyFields.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:39 - TI - SR_Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - ETLPumps.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - SR_New.0 - Finished reading query, closing connection.
+2020/08/14 09:17:39 - TI - ETLPumps.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:39 - TI - SR_Existing.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:39 - TI - SR_New.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:42 - TI - New.0 - linenr 50000
+2020/08/14 09:17:42 - SV - New.0 - linenr 50000
+2020/08/14 09:17:42 - SR - New.0 - Linenr 50000
+2020/08/14 09:17:42 - TI - New.0 - linenr 100000
+2020/08/14 09:17:42 - SV - New.0 - linenr 100000
+2020/08/14 09:17:42 - SR - New.0 - Linenr 100000
+2020/08/14 09:17:43 - TI - New.0 - linenr 150000
+2020/08/14 09:17:43 - SV - New.0 - linenr 150000
+2020/08/14 09:17:43 - SR - New.0 - Linenr 150000
+2020/08/14 09:17:43 - TI - New.0 - linenr 200000
+2020/08/14 09:17:43 - SV - New.0 - linenr 200000
+2020/08/14 09:17:43 - SR - New.0 - Linenr 200000
+2020/08/14 09:17:43 - TI - Existing.0 - linenr 50000
+2020/08/14 09:17:43 - SV - Existing.0 - linenr 50000
+2020/08/14 09:17:43 - SR - Existing.0 - Linenr 50000
+2020/08/14 09:17:43 - TI - Existing.0 - linenr 100000
+2020/08/14 09:17:43 - SV - Existing.0 - linenr 100000
+2020/08/14 09:17:43 - SR - Existing.0 - Linenr 100000
+2020/08/14 09:17:43 - TI - Existing.0 - linenr 150000
+2020/08/14 09:17:43 - TI - New.0 - linenr 250000
+2020/08/14 09:17:43 - SV - Existing.0 - linenr 150000
+2020/08/14 09:17:43 - SV - New.0 - linenr 250000
+2020/08/14 09:17:43 - SR - New.0 - Linenr 250000
+2020/08/14 09:17:43 - SR - Existing.0 - Linenr 150000
+2020/08/14 09:17:43 - TI - Existing.0 - linenr 200000
+2020/08/14 09:17:43 - SV - Existing.0 - linenr 200000
+2020/08/14 09:17:43 - SR - Existing.0 - Linenr 200000
+2020/08/14 09:17:43 - TI - Existing.0 - linenr 250000
+2020/08/14 09:17:43 - SV - Existing.0 - linenr 250000
+2020/08/14 09:17:43 - SR - Existing.0 - Linenr 250000
+2020/08/14 09:17:43 - TI - Existing.0 - linenr 300000
+2020/08/14 09:17:43 - TI - New.0 - linenr 300000
+2020/08/14 09:17:43 - SV - New.0 - linenr 300000
+2020/08/14 09:17:43 - SR - New.0 - Linenr 300000
+2020/08/14 09:17:43 - SV - Existing.0 - linenr 300000
+2020/08/14 09:17:43 - SR - Existing.0 - Linenr 300000
+2020/08/14 09:17:43 - TI - Existing.0 - linenr 350000
+2020/08/14 09:17:43 - SV - Existing.0 - linenr 350000
+2020/08/14 09:17:43 - SR - Existing.0 - Linenr 350000
+2020/08/14 09:17:44 - TI - Existing.0 - linenr 400000
+2020/08/14 09:17:44 - SV - Existing.0 - linenr 400000
+2020/08/14 09:17:44 - SR - Existing.0 - Linenr 400000
+2020/08/14 09:17:44 - TI - New.0 - linenr 350000
+2020/08/14 09:17:44 - SV - New.0 - linenr 350000
+2020/08/14 09:17:44 - SR - New.0 - Linenr 350000
+2020/08/14 09:17:44 - TI - Existing.0 - linenr 450000
+2020/08/14 09:17:44 - SV - Existing.0 - linenr 450000
+2020/08/14 09:17:44 - TI - Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:17:44 - TI - Existing.0 - Finished processing (I=463959, O=0, R=0, W=463959, U=0, E=0)
+2020/08/14 09:17:44 - SR - Existing.0 - Linenr 450000
+2020/08/14 09:17:44 - SV - Existing.0 - Finished processing (I=0, O=0, R=463959, W=463959, U=0, E=0)
+2020/08/14 09:17:44 - SR - Existing.0 - Opening 93 tmp-files...
+2020/08/14 09:17:44 - TI - New.0 - linenr 400000
+2020/08/14 09:17:44 - SV - New.0 - linenr 400000
+2020/08/14 09:17:44 - SR - New.0 - Linenr 400000
+2020/08/14 09:17:44 - TI - New.0 - linenr 450000
+2020/08/14 09:17:44 - SV - New.0 - linenr 450000
+2020/08/14 09:17:44 - SR - New.0 - Linenr 450000
+2020/08/14 09:17:44 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:17:44 - TI - New.0 - Finished processing (I=463959, O=0, R=0, W=463959, U=0, E=0)
+2020/08/14 09:17:44 - SV - New.0 - Finished processing (I=0, O=0, R=463959, W=463959, U=0, E=0)
+2020/08/14 09:17:44 - SR - New.0 - Opening 93 tmp-files...
+2020/08/14 09:17:44 - MR - Merge.0 - linenr 50000
+2020/08/14 09:17:44 - MR - Merge.0 - linenr 100000
+2020/08/14 09:17:44 - FR - Identical.0 - linenr 50000
+2020/08/14 09:17:44 - MR - Merge.0 - linenr 150000
+2020/08/14 09:17:44 - MR - Merge.0 - linenr 200000
+2020/08/14 09:17:44 - FR - Identical.0 - linenr 100000
+2020/08/14 09:17:44 - MR - Merge.0 - linenr 250000
+2020/08/14 09:17:44 - MR - Merge.0 - linenr 300000
+2020/08/14 09:17:44 - FR - Identical.0 - linenr 150000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 350000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 400000
+2020/08/14 09:17:45 - FR - Identical.0 - linenr 200000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 450000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 500000
+2020/08/14 09:17:45 - FR - Identical.0 - linenr 250000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 550000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 600000
+2020/08/14 09:17:45 - FR - Identical.0 - linenr 300000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 650000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 700000
+2020/08/14 09:17:45 - FR - Identical.0 - linenr 350000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 750000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 800000
+2020/08/14 09:17:45 - FR - Identical.0 - linenr 400000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 850000
+2020/08/14 09:17:45 - MR - Merge.0 - linenr 900000
+2020/08/14 09:17:45 - FR - Identical.0 - linenr 450000
+2020/08/14 09:17:45 - SR - Existing.0 - Finished processing (I=0, O=0, R=463959, W=463959, U=0, E=0)
+2020/08/14 09:17:45 - SR - New.0 - Finished processing (I=0, O=0, R=463959, W=463959, U=0, E=0)
+2020/08/14 09:17:45 - MR - Merge.0 - Finished processing (I=0, O=0, R=927918, W=463959, U=0, E=0)
+2020/08/14 09:17:45 - FR - Identical.0 - Finished processing (I=0, O=0, R=463959, W=0, U=0, E=0)
+2020/08/14 09:17:46 -  - ********** Opening ETL transformation for OrderComments / 72.
+2020/08/14 09:17:46 - Template_ETLInjection_Basic - Loading transformation from repository [Template_ETLInjection_Basic] in directory [/public/sales_import]
+2020/08/14 09:17:46 - Template_ETLInjection_Basic - Using run configuration [Pentaho local]
+2020/08/14 09:17:46 - Template_ETLInjection_Basic - Using legacy execution engine
+2020/08/14 09:17:47 - pentaho_dilogs - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : Unable to write log record to log table [trans_logs]
+2020/08/14 09:17:47 - pentaho_dilogs - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2020/08/14 09:17:47 - pentaho_dilogs - Error inserting/updating row
+2020/08/14 09:17:47 - pentaho_dilogs - Deadlock found when trying to get lock; try restarting transaction
+2020/08/14 09:17:47 - pentaho_dilogs - 
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1319)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1243)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1231)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1219)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1182)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.writeLogRecord(Database.java:3362)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.trans.Trans.beginProcessing(Trans.java:2280)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:991)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.trans.Trans.execute(Trans.java:632)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.job.entries.trans.JobEntryTrans.execute(JobEntryTrans.java:1151)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.job.Job.execute(Job.java:743)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.job.Job.execute(Job.java:884)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.job.Job.execute(Job.java:884)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.job.Job.execute(Job.java:628)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.job.entries.job.JobEntryJobRunner.run(JobEntryJobRunner.java:69)
+2020/08/14 09:17:47 - pentaho_dilogs -  at java.lang.Thread.run(Unknown Source)
+2020/08/14 09:17:47 - pentaho_dilogs - Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Deadlock found when trying to get lock; try restarting transaction
+2020/08/14 09:17:47 - pentaho_dilogs -  at sun.reflect.GeneratedConstructorAccessor306.newInstance(Unknown Source)
+2020/08/14 09:17:47 - pentaho_dilogs -  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+2020/08/14 09:17:47 - pentaho_dilogs -  at java.lang.reflect.Constructor.newInstance(Unknown Source)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.Util.getInstance(Util.java:408)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:951)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3970)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3906)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2524)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2677)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2549)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1861)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2073)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2009)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5098)
+2020/08/14 09:17:47 - pentaho_dilogs -  at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1994)
+2020/08/14 09:17:47 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1286)
+2020/08/14 09:17:47 - pentaho_dilogs -  ... 15 more
+2020/08/14 09:17:47 - TI - SAM_OutputKeyFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SAM_OutputKeyFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SAM_OutputUpdateFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SV_New_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SV_Existing_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SAM_OutputUpdateFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SV_Existing_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SV_New_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SV_Existing_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SAM_OutputKeyFields_Table.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:47 - TI - SV_New_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SAM_OutputKeyFields_Stream.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:47 - TI - MR_CompareFields.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SV_Existing_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:47 - TI - SAM_OutputUpdateFields_Stream.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:17:47 - TI - MR_CompareFields.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:17:47 - TI - SAM_OutputUpdateFields_Table.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:17:47 - TI - SV_New_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:47 - TI - MR_KeyFields.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SR_New.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SR_Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - MR_KeyFields.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:47 - TI - ETLPumps.0 - Finished reading query, closing connection.
+2020/08/14 09:17:47 - TI - SR_New.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:47 - TI - SR_Existing.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:17:47 - TI - ETLPumps.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:17:50 - TI - New.0 - linenr 50000
+2020/08/14 09:17:50 - SV - New.0 - linenr 50000
+2020/08/14 09:17:50 - SR - New.0 - Linenr 50000
+2020/08/14 09:17:51 - TI - New.0 - linenr 100000
+2020/08/14 09:17:51 - SV - New.0 - linenr 100000
+2020/08/14 09:17:51 - SR - New.0 - Linenr 100000
+2020/08/14 09:17:51 - TI - New.0 - linenr 150000
+2020/08/14 09:17:51 - SV - New.0 - linenr 150000
+2020/08/14 09:17:51 - SR - New.0 - Linenr 150000
+2020/08/14 09:17:52 - TI - New.0 - linenr 200000
+2020/08/14 09:17:52 - SV - New.0 - linenr 200000
+2020/08/14 09:17:52 - SR - New.0 - Linenr 200000
+2020/08/14 09:17:52 - TI - New.0 - linenr 250000
+2020/08/14 09:17:52 - SV - New.0 - linenr 250000
+2020/08/14 09:17:52 - SR - New.0 - Linenr 250000
+2020/08/14 09:17:52 - TI - New.0 - linenr 300000
+2020/08/14 09:17:52 - SV - New.0 - linenr 300000
+2020/08/14 09:17:52 - SR - New.0 - Linenr 300000
+2020/08/14 09:17:53 - TI - New.0 - linenr 350000
+2020/08/14 09:17:53 - SV - New.0 - linenr 350000
+2020/08/14 09:17:53 - SR - New.0 - Linenr 350000
+2020/08/14 09:17:53 - TI - New.0 - linenr 400000
+2020/08/14 09:17:53 - SV - New.0 - linenr 400000
+2020/08/14 09:17:53 - SR - New.0 - Linenr 400000
+2020/08/14 09:17:53 - TI - New.0 - linenr 450000
+2020/08/14 09:17:53 - SV - New.0 - linenr 450000
+2020/08/14 09:17:53 - SR - New.0 - Linenr 450000
+2020/08/14 09:17:54 - TI - New.0 - linenr 500000
+2020/08/14 09:17:54 - SV - New.0 - linenr 500000
+2020/08/14 09:17:54 - SR - New.0 - Linenr 500000
+2020/08/14 09:17:54 - TI - New.0 - linenr 550000
+2020/08/14 09:17:54 - SV - New.0 - linenr 550000
+2020/08/14 09:17:54 - SR - New.0 - Linenr 550000
+2020/08/14 09:17:54 - TI - New.0 - linenr 600000
+2020/08/14 09:17:54 - SV - New.0 - linenr 600000
+2020/08/14 09:17:54 - SR - New.0 - Linenr 600000
+2020/08/14 09:17:54 - TI - Existing.0 - linenr 50000
+2020/08/14 09:17:54 - SV - Existing.0 - linenr 50000
+2020/08/14 09:17:54 - SR - Existing.0 - Linenr 50000
+2020/08/14 09:17:54 - TI - Existing.0 - linenr 100000
+2020/08/14 09:17:54 - SV - Existing.0 - linenr 100000
+2020/08/14 09:17:54 - SR - Existing.0 - Linenr 100000
+2020/08/14 09:17:54 - TI - Existing.0 - linenr 150000
+2020/08/14 09:17:54 - SV - Existing.0 - linenr 150000
+2020/08/14 09:17:54 - SR - Existing.0 - Linenr 150000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 200000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 200000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 200000
+2020/08/14 09:17:55 - TI - New.0 - linenr 650000
+2020/08/14 09:17:55 - SV - New.0 - linenr 650000
+2020/08/14 09:17:55 - SR - New.0 - Linenr 650000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 250000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 250000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 250000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 300000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 300000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 300000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 350000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 350000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 350000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 400000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 400000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 400000
+2020/08/14 09:17:55 - TI - New.0 - linenr 700000
+2020/08/14 09:17:55 - SV - New.0 - linenr 700000
+2020/08/14 09:17:55 - SR - New.0 - Linenr 700000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 450000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 450000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 450000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 500000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 500000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 500000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 550000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 550000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 550000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 600000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 600000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 600000
+2020/08/14 09:17:55 - TI - New.0 - linenr 750000
+2020/08/14 09:17:55 - SV - New.0 - linenr 750000
+2020/08/14 09:17:55 - SR - New.0 - Linenr 750000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 650000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 650000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 650000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 700000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 700000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 700000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 750000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 750000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 750000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 800000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 800000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 800000
+2020/08/14 09:17:55 - TI - New.0 - linenr 800000
+2020/08/14 09:17:55 - SV - New.0 - linenr 800000
+2020/08/14 09:17:55 - SR - New.0 - Linenr 800000
+2020/08/14 09:17:55 - TI - Existing.0 - linenr 850000
+2020/08/14 09:17:55 - SV - Existing.0 - linenr 850000
+2020/08/14 09:17:55 - SR - Existing.0 - Linenr 850000
+2020/08/14 09:17:56 - TI - Existing.0 - linenr 900000
+2020/08/14 09:17:56 - SV - Existing.0 - linenr 900000
+2020/08/14 09:17:56 - SR - Existing.0 - Linenr 900000
+2020/08/14 09:17:56 - TI - Existing.0 - linenr 950000
+2020/08/14 09:17:56 - SV - Existing.0 - linenr 950000
+2020/08/14 09:17:56 - SR - Existing.0 - Linenr 950000
+2020/08/14 09:17:56 - TI - Existing.0 - linenr 1000000
+2020/08/14 09:17:56 - SV - Existing.0 - linenr 1000000
+2020/08/14 09:17:56 - SR - Existing.0 - Linenr 1000000
+2020/08/14 09:17:56 - TI - New.0 - linenr 850000
+2020/08/14 09:17:56 - SV - New.0 - linenr 850000
+2020/08/14 09:17:56 - SR - New.0 - Linenr 850000
+2020/08/14 09:17:56 - TI - New.0 - linenr 900000
+2020/08/14 09:17:56 - SV - New.0 - linenr 900000
+2020/08/14 09:17:56 - SR - New.0 - Linenr 900000
+2020/08/14 09:17:56 - TI - New.0 - linenr 950000
+2020/08/14 09:17:56 - SV - New.0 - linenr 950000
+2020/08/14 09:17:56 - SR - New.0 - Linenr 950000
+2020/08/14 09:17:57 - TI - New.0 - linenr 1000000
+2020/08/14 09:17:57 - SV - New.0 - linenr 1000000
+2020/08/14 09:17:57 - SR - New.0 - Linenr 1000000
+2020/08/14 09:17:57 - TI - Existing.0 - linenr 1050000
+2020/08/14 09:17:57 - SV - Existing.0 - linenr 1050000
+2020/08/14 09:17:57 - SR - Existing.0 - Linenr 1050000
+2020/08/14 09:17:57 - TI - New.0 - linenr 1050000
+2020/08/14 09:17:57 - SV - New.0 - linenr 1050000
+2020/08/14 09:17:57 - SR - New.0 - Linenr 1050000
+2020/08/14 09:17:57 - TI - Existing.0 - linenr 1100000
+2020/08/14 09:17:57 - SV - Existing.0 - linenr 1100000
+2020/08/14 09:17:57 - SR - Existing.0 - Linenr 1100000
+2020/08/14 09:17:57 - TI - Existing.0 - linenr 1150000
+2020/08/14 09:17:57 - SV - Existing.0 - linenr 1150000
+2020/08/14 09:17:57 - SR - Existing.0 - Linenr 1150000
+2020/08/14 09:17:57 - TI - Existing.0 - linenr 1200000
+2020/08/14 09:17:57 - SV - Existing.0 - linenr 1200000
+2020/08/14 09:17:57 - SR - Existing.0 - Linenr 1200000
+2020/08/14 09:17:57 - TI - Existing.0 - linenr 1250000
+2020/08/14 09:17:57 - SV - Existing.0 - linenr 1250000
+2020/08/14 09:17:57 - SR - Existing.0 - Linenr 1250000
+2020/08/14 09:17:57 - TI - New.0 - linenr 1100000
+2020/08/14 09:17:57 - SV - New.0 - linenr 1100000
+2020/08/14 09:17:57 - SR - New.0 - Linenr 1100000
+2020/08/14 09:17:57 - TI - Existing.0 - linenr 1300000
+2020/08/14 09:17:57 - SV - Existing.0 - linenr 1300000
+2020/08/14 09:17:57 - SR - Existing.0 - Linenr 1300000
+2020/08/14 09:17:57 - TI - Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:17:57 - TI - Existing.0 - Finished processing (I=1302671, O=0, R=0, W=1302671, U=0, E=0)
+2020/08/14 09:17:57 - SV - Existing.0 - Finished processing (I=0, O=0, R=1302671, W=1302671, U=0, E=0)
+2020/08/14 09:17:57 - TI - New.0 - linenr 1150000
+2020/08/14 09:17:57 - SV - New.0 - linenr 1150000
+2020/08/14 09:17:57 - SR - New.0 - Linenr 1150000
+2020/08/14 09:17:58 - SR - Existing.0 - Opening 3 tmp-files...
+2020/08/14 09:17:58 - TI - New.0 - linenr 1200000
+2020/08/14 09:17:58 - SV - New.0 - linenr 1200000
+2020/08/14 09:17:58 - SR - New.0 - Linenr 1200000
+2020/08/14 09:17:58 - TI - New.0 - linenr 1250000
+2020/08/14 09:17:58 - SV - New.0 - linenr 1250000
+2020/08/14 09:17:58 - SR - New.0 - Linenr 1250000
+2020/08/14 09:17:58 - TI - New.0 - linenr 1300000
+2020/08/14 09:17:58 - SV - New.0 - linenr 1300000
+2020/08/14 09:17:58 - SR - New.0 - Linenr 1300000
+2020/08/14 09:17:58 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:17:58 - TI - New.0 - Finished processing (I=1302671, O=0, R=0, W=1302671, U=0, E=0)
+2020/08/14 09:17:58 - SV - New.0 - Finished processing (I=0, O=0, R=1302671, W=1302671, U=0, E=0)
+2020/08/14 09:17:59 - SR - New.0 - Opening 107 tmp-files...
+2020/08/14 09:17:59 - MR - Merge.0 - linenr 50000
+2020/08/14 09:17:59 - MR - Merge.0 - linenr 100000
+2020/08/14 09:17:59 - FR - Identical.0 - linenr 50000
+2020/08/14 09:17:59 - MR - Merge.0 - linenr 150000
+2020/08/14 09:17:59 - MR - Merge.0 - linenr 200000
+2020/08/14 09:17:59 - FR - Identical.0 - linenr 100000
+2020/08/14 09:17:59 - MR - Merge.0 - linenr 250000
+2020/08/14 09:17:59 - MR - Merge.0 - linenr 300000
+2020/08/14 09:17:59 - FR - Identical.0 - linenr 150000
+2020/08/14 09:17:59 - MR - Merge.0 - linenr 350000
+2020/08/14 09:17:59 - MR - Merge.0 - linenr 400000
+2020/08/14 09:17:59 - FR - Identical.0 - linenr 200000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 450000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 500000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 250000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 550000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 600000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 300000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 650000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 700000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 350000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 750000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 800000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 400000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 850000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 900000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 450000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 950000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1000000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 500000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1050000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1100000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 550000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1150000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1200000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 600000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1250000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1300000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 650000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1350000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1400000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 700000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1450000
+2020/08/14 09:18:00 - MR - Merge.0 - linenr 1500000
+2020/08/14 09:18:00 - FR - Identical.0 - linenr 750000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 1550000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 1600000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 800000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 1650000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 1700000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 850000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 1750000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 1800000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 900000
+2020/08/14 09:18:01 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:18:01 - PurRepository - Creating repository meta store interface
+2020/08/14 09:18:01 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 1850000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 1900000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 950000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 1950000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2000000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 1000000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2050000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2100000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 1050000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2150000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2200000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 1100000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2250000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2300000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 1150000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2350000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2400000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 1200000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2450000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2500000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 1250000
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2550000
+2020/08/14 09:18:01 - SR - Existing.0 - Finished processing (I=0, O=0, R=1302671, W=1302671, U=0, E=0)
+2020/08/14 09:18:01 - MR - Merge.0 - linenr 2600000
+2020/08/14 09:18:01 - FR - Identical.0 - linenr 1300000
+2020/08/14 09:18:01 - SR - New.0 - Finished processing (I=0, O=0, R=1302671, W=1302671, U=0, E=0)
+2020/08/14 09:18:02 - MR - Merge.0 - Finished processing (I=0, O=0, R=2605342, W=1302671, U=0, E=0)
+2020/08/14 09:18:02 - FR - Identical.0 - Finished processing (I=0, O=0, R=1302671, W=0, U=0, E=0)
+2020/08/14 09:18:03 -  - ********** Opening ETL transformation for OrderPickDates / 73.
+2020/08/14 09:18:03 - Template_ETLInjection_Basic - Loading transformation from repository [Template_ETLInjection_Basic] in directory [/public/sales_import]
+2020/08/14 09:18:03 - Template_ETLInjection_Basic - Using run configuration [Pentaho local]
+2020/08/14 09:18:03 - Template_ETLInjection_Basic - Using legacy execution engine
+2020/08/14 09:18:04 - TI - SAM_OutputKeyFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SAM_OutputUpdateFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SAM_OutputUpdateFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SV_Existing_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SV_New_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SAM_OutputKeyFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SV_New_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SV_Existing_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SAM_OutputKeyFields_Table.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:04 - TI - SAM_OutputUpdateFields_Stream.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2020/08/14 09:18:04 - TI - SV_Existing_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SAM_OutputUpdateFields_Table.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2020/08/14 09:18:04 - TI - SV_New_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SV_Existing_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:04 - TI - SAM_OutputKeyFields_Stream.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:04 - TI - SV_New_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:04 - TI - MR_KeyFields.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - MR_CompareFields.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SR_Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - ETLPumps.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - SR_New.0 - Finished reading query, closing connection.
+2020/08/14 09:18:04 - TI - MR_KeyFields.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:04 - TI - MR_CompareFields.0 - Finished processing (I=3, O=0, R=0, W=3, U=0, E=0)
+2020/08/14 09:18:04 - TI - SR_Existing.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:04 - TI - ETLPumps.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:04 - TI - SR_New.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:11 - pentaho_dilogs - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : Unable to write log record to log table [trans_logs]
+2020/08/14 09:18:11 - pentaho_dilogs - ERROR (version 7.1.0.16-160, build 1 from 2018-09-06 14.10.35 by buildguy) : org.pentaho.di.core.exception.KettleDatabaseException: 
+2020/08/14 09:18:11 - pentaho_dilogs - Error inserting/updating row
+2020/08/14 09:18:11 - pentaho_dilogs - Deadlock found when trying to get lock; try restarting transaction
+2020/08/14 09:18:11 - pentaho_dilogs - 
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1319)
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1243)
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1231)
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1219)
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1182)
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.writeLogRecord(Database.java:3362)
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.trans.Trans.beginProcessing(Trans.java:2280)
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.trans.Trans.prepareExecution(Trans.java:991)
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.trans.steps.metainject.MetaInject.processRow(MetaInject.java:150)
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.trans.step.RunThread.run(RunThread.java:62)
+2020/08/14 09:18:11 - pentaho_dilogs -  at java.lang.Thread.run(Unknown Source)
+2020/08/14 09:18:11 - pentaho_dilogs - Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Deadlock found when trying to get lock; try restarting transaction
+2020/08/14 09:18:11 - pentaho_dilogs -  at sun.reflect.GeneratedConstructorAccessor306.newInstance(Unknown Source)
+2020/08/14 09:18:11 - pentaho_dilogs -  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+2020/08/14 09:18:11 - pentaho_dilogs -  at java.lang.reflect.Constructor.newInstance(Unknown Source)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.Util.getInstance(Util.java:408)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:951)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3970)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3906)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2524)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2677)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2549)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1861)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2073)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.PreparedStatement.executeUpdateInternal(PreparedStatement.java:2009)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.PreparedStatement.executeLargeUpdate(PreparedStatement.java:5098)
+2020/08/14 09:18:11 - pentaho_dilogs -  at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1994)
+2020/08/14 09:18:11 - pentaho_dilogs -  at org.pentaho.di.core.database.Database.insertRow(Database.java:1286)
+2020/08/14 09:18:11 - pentaho_dilogs -  ... 10 more
+2020/08/14 09:18:16 - TI - Existing.0 - linenr 50000
+2020/08/14 09:18:16 - SV - Existing.0 - linenr 50000
+2020/08/14 09:18:16 - SR - Existing.0 - Linenr 50000
+2020/08/14 09:18:16 - TI - Existing.0 - linenr 100000
+2020/08/14 09:18:16 - SV - Existing.0 - linenr 100000
+2020/08/14 09:18:16 - SR - Existing.0 - Linenr 100000
+2020/08/14 09:18:16 - TI - Existing.0 - linenr 150000
+2020/08/14 09:18:16 - SV - Existing.0 - linenr 150000
+2020/08/14 09:18:16 - SR - Existing.0 - Linenr 150000
+2020/08/14 09:18:16 - TI - Existing.0 - linenr 200000
+2020/08/14 09:18:16 - SV - Existing.0 - linenr 200000
+2020/08/14 09:18:16 - SR - Existing.0 - Linenr 200000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 250000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 250000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 250000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 300000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 300000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 300000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 350000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 350000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 350000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 400000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 400000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 400000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 450000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 450000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 450000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 500000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 500000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 500000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 550000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 550000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 550000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 600000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 600000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 600000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 650000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 650000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 650000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 700000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 700000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 700000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 750000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 750000
+2020/08/14 09:18:17 - SR - Existing.0 - Linenr 750000
+2020/08/14 09:18:17 - TI - Existing.0 - linenr 800000
+2020/08/14 09:18:17 - SV - Existing.0 - linenr 800000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 800000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 850000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 850000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 850000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 900000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 900000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 900000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 950000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 950000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 950000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 1000000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 1000000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 1000000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 1050000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 1050000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 1050000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 1100000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 1100000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 1100000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 1150000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 1150000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 1150000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 1200000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 1200000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 1200000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 1250000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 1250000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 1250000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 1300000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 1300000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 1300000
+2020/08/14 09:18:18 - TI - Existing.0 - linenr 1350000
+2020/08/14 09:18:18 - SV - Existing.0 - linenr 1350000
+2020/08/14 09:18:18 - SR - Existing.0 - Linenr 1350000
+2020/08/14 09:18:19 - TI - Existing.0 - linenr 1400000
+2020/08/14 09:18:19 - SV - Existing.0 - linenr 1400000
+2020/08/14 09:18:19 - SR - Existing.0 - Linenr 1400000
+2020/08/14 09:18:19 - TI - Existing.0 - linenr 1450000
+2020/08/14 09:18:19 - SV - Existing.0 - linenr 1450000
+2020/08/14 09:18:19 - SR - Existing.0 - Linenr 1450000
+2020/08/14 09:18:19 - TI - Existing.0 - linenr 1500000
+2020/08/14 09:18:19 - SV - Existing.0 - linenr 1500000
+2020/08/14 09:18:19 - SR - Existing.0 - Linenr 1500000
+2020/08/14 09:18:19 - TI - Existing.0 - linenr 1550000
+2020/08/14 09:18:19 - SV - Existing.0 - linenr 1550000
+2020/08/14 09:18:19 - SR - Existing.0 - Linenr 1550000
+2020/08/14 09:18:19 - TI - Existing.0 - linenr 1600000
+2020/08/14 09:18:19 - SV - Existing.0 - linenr 1600000
+2020/08/14 09:18:19 - SR - Existing.0 - Linenr 1600000
+2020/08/14 09:18:19 - TI - Existing.0 - linenr 1650000
+2020/08/14 09:18:19 - SV - Existing.0 - linenr 1650000
+2020/08/14 09:18:19 - SR - Existing.0 - Linenr 1650000
+2020/08/14 09:18:19 - TI - Existing.0 - linenr 1700000
+2020/08/14 09:18:19 - SV - Existing.0 - linenr 1700000
+2020/08/14 09:18:19 - SR - Existing.0 - Linenr 1700000
+2020/08/14 09:18:19 - TI - Existing.0 - linenr 1750000
+2020/08/14 09:18:19 - SV - Existing.0 - linenr 1750000
+2020/08/14 09:18:19 - SR - Existing.0 - Linenr 1750000
+2020/08/14 09:18:19 - TI - Existing.0 - linenr 1800000
+2020/08/14 09:18:19 - SV - Existing.0 - linenr 1800000
+2020/08/14 09:18:19 - SR - Existing.0 - Linenr 1800000
+2020/08/14 09:18:19 - TI - Existing.0 - linenr 1850000
+2020/08/14 09:18:19 - SV - Existing.0 - linenr 1850000
+2020/08/14 09:18:19 - SR - Existing.0 - Linenr 1850000
+2020/08/14 09:18:19 - TI - Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:18:19 - TI - Existing.0 - Finished processing (I=1882781, O=0, R=0, W=1882781, U=0, E=0)
+2020/08/14 09:18:19 - SV - Existing.0 - Finished processing (I=0, O=0, R=1882781, W=1882781, U=0, E=0)
+2020/08/14 09:18:19 - SR - Existing.0 - Opening 377 tmp-files...
+2020/08/14 09:18:23 - TI - New.0 - linenr 50000
+2020/08/14 09:18:23 - SV - New.0 - linenr 50000
+2020/08/14 09:18:23 - SR - New.0 - Linenr 50000
+2020/08/14 09:18:23 - TI - New.0 - linenr 100000
+2020/08/14 09:18:23 - SV - New.0 - linenr 100000
+2020/08/14 09:18:23 - SR - New.0 - Linenr 100000
+2020/08/14 09:18:23 - TI - New.0 - linenr 150000
+2020/08/14 09:18:23 - SV - New.0 - linenr 150000
+2020/08/14 09:18:23 - SR - New.0 - Linenr 150000
+2020/08/14 09:18:23 - TI - New.0 - linenr 200000
+2020/08/14 09:18:23 - SV - New.0 - linenr 200000
+2020/08/14 09:18:23 - SR - New.0 - Linenr 200000
+2020/08/14 09:18:23 - TI - New.0 - linenr 250000
+2020/08/14 09:18:23 - SV - New.0 - linenr 250000
+2020/08/14 09:18:23 - SR - New.0 - Linenr 250000
+2020/08/14 09:18:23 - TI - New.0 - linenr 300000
+2020/08/14 09:18:23 - SV - New.0 - linenr 300000
+2020/08/14 09:18:23 - SR - New.0 - Linenr 300000
+2020/08/14 09:18:24 - TI - New.0 - linenr 350000
+2020/08/14 09:18:24 - SV - New.0 - linenr 350000
+2020/08/14 09:18:24 - SR - New.0 - Linenr 350000
+2020/08/14 09:18:24 - TI - New.0 - linenr 400000
+2020/08/14 09:18:24 - SV - New.0 - linenr 400000
+2020/08/14 09:18:24 - SR - New.0 - Linenr 400000
+2020/08/14 09:18:24 - TI - New.0 - linenr 450000
+2020/08/14 09:18:24 - SV - New.0 - linenr 450000
+2020/08/14 09:18:24 - SR - New.0 - Linenr 450000
+2020/08/14 09:18:24 - TI - New.0 - linenr 500000
+2020/08/14 09:18:24 - SV - New.0 - linenr 500000
+2020/08/14 09:18:24 - SR - New.0 - Linenr 500000
+2020/08/14 09:18:24 - TI - New.0 - linenr 550000
+2020/08/14 09:18:24 - SV - New.0 - linenr 550000
+2020/08/14 09:18:24 - SR - New.0 - Linenr 550000
+2020/08/14 09:18:24 - TI - New.0 - linenr 600000
+2020/08/14 09:18:24 - SV - New.0 - linenr 600000
+2020/08/14 09:18:24 - SR - New.0 - Linenr 600000
+2020/08/14 09:18:24 - TI - New.0 - linenr 650000
+2020/08/14 09:18:24 - SV - New.0 - linenr 650000
+2020/08/14 09:18:24 - SR - New.0 - Linenr 650000
+2020/08/14 09:18:24 - TI - New.0 - linenr 700000
+2020/08/14 09:18:24 - SV - New.0 - linenr 700000
+2020/08/14 09:18:24 - SR - New.0 - Linenr 700000
+2020/08/14 09:18:24 - TI - New.0 - linenr 750000
+2020/08/14 09:18:24 - SV - New.0 - linenr 750000
+2020/08/14 09:18:24 - SR - New.0 - Linenr 750000
+2020/08/14 09:18:24 - TI - New.0 - linenr 800000
+2020/08/14 09:18:24 - SV - New.0 - linenr 800000
+2020/08/14 09:18:24 - SR - New.0 - Linenr 800000
+2020/08/14 09:18:25 - TI - New.0 - linenr 850000
+2020/08/14 09:18:25 - SV - New.0 - linenr 850000
+2020/08/14 09:18:25 - SR - New.0 - Linenr 850000
+2020/08/14 09:18:25 - TI - New.0 - linenr 900000
+2020/08/14 09:18:25 - SV - New.0 - linenr 900000
+2020/08/14 09:18:25 - SR - New.0 - Linenr 900000
+2020/08/14 09:18:25 - TI - New.0 - linenr 950000
+2020/08/14 09:18:25 - SV - New.0 - linenr 950000
+2020/08/14 09:18:25 - SR - New.0 - Linenr 950000
+2020/08/14 09:18:25 - TI - New.0 - linenr 1000000
+2020/08/14 09:18:25 - SV - New.0 - linenr 1000000
+2020/08/14 09:18:25 - SR - New.0 - Linenr 1000000
+2020/08/14 09:18:25 - TI - New.0 - linenr 1050000
+2020/08/14 09:18:25 - SV - New.0 - linenr 1050000
+2020/08/14 09:18:25 - SR - New.0 - Linenr 1050000
+2020/08/14 09:18:25 - TI - New.0 - linenr 1100000
+2020/08/14 09:18:25 - SV - New.0 - linenr 1100000
+2020/08/14 09:18:25 - SR - New.0 - Linenr 1100000
+2020/08/14 09:18:25 - TI - New.0 - linenr 1150000
+2020/08/14 09:18:25 - SV - New.0 - linenr 1150000
+2020/08/14 09:18:25 - SR - New.0 - Linenr 1150000
+2020/08/14 09:18:25 - TI - New.0 - linenr 1200000
+2020/08/14 09:18:25 - SV - New.0 - linenr 1200000
+2020/08/14 09:18:25 - SR - New.0 - Linenr 1200000
+2020/08/14 09:18:25 - TI - New.0 - linenr 1250000
+2020/08/14 09:18:25 - SV - New.0 - linenr 1250000
+2020/08/14 09:18:25 - SR - New.0 - Linenr 1250000
+2020/08/14 09:18:25 - TI - New.0 - linenr 1300000
+2020/08/14 09:18:25 - SV - New.0 - linenr 1300000
+2020/08/14 09:18:26 - SR - New.0 - Linenr 1300000
+2020/08/14 09:18:26 - TI - New.0 - linenr 1350000
+2020/08/14 09:18:26 - SV - New.0 - linenr 1350000
+2020/08/14 09:18:26 - SR - New.0 - Linenr 1350000
+2020/08/14 09:18:26 - TI - New.0 - linenr 1400000
+2020/08/14 09:18:26 - SV - New.0 - linenr 1400000
+2020/08/14 09:18:26 - SR - New.0 - Linenr 1400000
+2020/08/14 09:18:26 - TI - New.0 - linenr 1450000
+2020/08/14 09:18:26 - SV - New.0 - linenr 1450000
+2020/08/14 09:18:26 - SR - New.0 - Linenr 1450000
+2020/08/14 09:18:26 - TI - New.0 - linenr 1500000
+2020/08/14 09:18:26 - SV - New.0 - linenr 1500000
+2020/08/14 09:18:26 - SR - New.0 - Linenr 1500000
+2020/08/14 09:18:26 - TI - New.0 - linenr 1550000
+2020/08/14 09:18:26 - SV - New.0 - linenr 1550000
+2020/08/14 09:18:26 - SR - New.0 - Linenr 1550000
+2020/08/14 09:18:26 - TI - New.0 - linenr 1600000
+2020/08/14 09:18:26 - SV - New.0 - linenr 1600000
+2020/08/14 09:18:26 - SR - New.0 - Linenr 1600000
+2020/08/14 09:18:26 - TI - New.0 - linenr 1650000
+2020/08/14 09:18:26 - SV - New.0 - linenr 1650000
+2020/08/14 09:18:26 - SR - New.0 - Linenr 1650000
+2020/08/14 09:18:26 - TI - New.0 - linenr 1700000
+2020/08/14 09:18:26 - SV - New.0 - linenr 1700000
+2020/08/14 09:18:26 - SR - New.0 - Linenr 1700000
+2020/08/14 09:18:26 - TI - New.0 - linenr 1750000
+2020/08/14 09:18:26 - SV - New.0 - linenr 1750000
+2020/08/14 09:18:26 - SR - New.0 - Linenr 1750000
+2020/08/14 09:18:27 - TI - New.0 - linenr 1800000
+2020/08/14 09:18:27 - SV - New.0 - linenr 1800000
+2020/08/14 09:18:27 - SR - New.0 - Linenr 1800000
+2020/08/14 09:18:27 - TI - New.0 - linenr 1850000
+2020/08/14 09:18:27 - SV - New.0 - linenr 1850000
+2020/08/14 09:18:27 - SR - New.0 - Linenr 1850000
+2020/08/14 09:18:27 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:18:27 - TI - New.0 - Finished processing (I=1882781, O=0, R=0, W=1882781, U=0, E=0)
+2020/08/14 09:18:27 - SV - New.0 - Finished processing (I=0, O=0, R=1882781, W=1882781, U=0, E=0)
+2020/08/14 09:18:27 - SR - New.0 - Opening 377 tmp-files...
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 50000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 100000
+2020/08/14 09:18:27 - FR - Identical.0 - linenr 50000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 150000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 200000
+2020/08/14 09:18:27 - FR - Identical.0 - linenr 100000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 250000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 300000
+2020/08/14 09:18:27 - FR - Identical.0 - linenr 150000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 350000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 400000
+2020/08/14 09:18:27 - FR - Identical.0 - linenr 200000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 450000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 500000
+2020/08/14 09:18:27 - FR - Identical.0 - linenr 250000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 550000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 600000
+2020/08/14 09:18:27 - FR - Identical.0 - linenr 300000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 650000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 700000
+2020/08/14 09:18:27 - FR - Identical.0 - linenr 350000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 750000
+2020/08/14 09:18:27 - MR - Merge.0 - linenr 800000
+2020/08/14 09:18:27 - FR - Identical.0 - linenr 400000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 850000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 900000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 450000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 950000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1000000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 500000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1050000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1100000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 550000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1150000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1200000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 600000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1250000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1300000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 650000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1350000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1400000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 700000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1450000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1500000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 750000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1550000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1600000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 800000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1650000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1700000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 850000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1750000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1800000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 900000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1850000
+2020/08/14 09:18:28 - MR - Merge.0 - linenr 1900000
+2020/08/14 09:18:28 - FR - Identical.0 - linenr 950000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 1950000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2000000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1000000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2050000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2100000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1050000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2150000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2200000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1100000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2250000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2300000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1150000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2350000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2400000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1200000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2450000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2500000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1250000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2550000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2600000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1300000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2650000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2700000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1350000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2750000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2800000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1400000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2850000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2900000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1450000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 2950000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 3000000
+2020/08/14 09:18:29 - FR - Identical.0 - linenr 1500000
+2020/08/14 09:18:29 - MR - Merge.0 - linenr 3050000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3100000
+2020/08/14 09:18:30 - FR - Identical.0 - linenr 1550000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3150000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3200000
+2020/08/14 09:18:30 - FR - Identical.0 - linenr 1600000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3250000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3300000
+2020/08/14 09:18:30 - FR - Identical.0 - linenr 1650000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3350000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3400000
+2020/08/14 09:18:30 - FR - Identical.0 - linenr 1700000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3450000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3500000
+2020/08/14 09:18:30 - FR - Identical.0 - linenr 1750000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3550000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3600000
+2020/08/14 09:18:30 - FR - Identical.0 - linenr 1800000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3650000
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3700000
+2020/08/14 09:18:30 - FR - Identical.0 - linenr 1850000
+2020/08/14 09:18:30 - SR - Existing.0 - Finished processing (I=0, O=0, R=1882781, W=1882781, U=0, E=0)
+2020/08/14 09:18:30 - MR - Merge.0 - linenr 3750000
+2020/08/14 09:18:30 - SR - New.0 - Finished processing (I=0, O=0, R=1882781, W=1882781, U=0, E=0)
+2020/08/14 09:18:31 - MR - Merge.0 - Finished processing (I=0, O=0, R=3765562, W=1882781, U=0, E=0)
+2020/08/14 09:18:31 - FR - Identical.0 - Finished processing (I=0, O=0, R=1882781, W=0, U=0, E=0)
+2020/08/14 09:18:32 -  - ********** Opening ETL transformation for OpenOrder_Internal_Comments / 108.
+2020/08/14 09:18:32 - Template_ETLInjection_Basic - Loading transformation from repository [Template_ETLInjection_Basic] in directory [/public/sales_import]
+2020/08/14 09:18:32 - Template_ETLInjection_Basic - Using run configuration [Pentaho local]
+2020/08/14 09:18:32 - Template_ETLInjection_Basic - Using legacy execution engine
+2020/08/14 09:18:33 - TI - SAM_OutputKeyFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SAM_OutputKeyFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SAM_OutputUpdateFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SAM_OutputUpdateFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SV_New_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SV_New_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SV_Existing_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SV_Existing_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SV_Existing_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SV_New_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SAM_OutputKeyFields_Table.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:33 - TI - SV_Existing_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:33 - TI - SAM_OutputKeyFields_Stream.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:33 - TI - SAM_OutputUpdateFields_Stream.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:18:33 - TI - SV_New_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:33 - TI - MR_CompareFields.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SAM_OutputUpdateFields_Table.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:18:33 - TI - MR_CompareFields.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:18:33 - TI - MR_KeyFields.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SR_New.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - MR_KeyFields.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:33 - TI - SR_New.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:33 - TI - SR_Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - ETLPumps.0 - Finished reading query, closing connection.
+2020/08/14 09:18:33 - TI - SR_Existing.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:33 - TI - ETLPumps.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:36 - TI - Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:18:36 - TI - Existing.0 - Finished processing (I=820, O=0, R=0, W=820, U=0, E=0)
+2020/08/14 09:18:36 - SV - Existing.0 - Finished processing (I=0, O=0, R=820, W=820, U=0, E=0)
+2020/08/14 09:18:36 - SR - Existing.0 - Finished processing (I=0, O=0, R=820, W=820, U=0, E=0)
+2020/08/14 09:18:36 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:18:36 - TI - New.0 - Finished processing (I=834, O=0, R=0, W=834, U=0, E=0)
+2020/08/14 09:18:36 - SV - New.0 - Finished processing (I=0, O=0, R=834, W=834, U=0, E=0)
+2020/08/14 09:18:36 - SR - New.0 - Finished processing (I=0, O=0, R=834, W=834, U=0, E=0)
+2020/08/14 09:18:36 - MR - Merge.0 - Finished processing (I=0, O=0, R=1654, W=835, U=0, E=0)
+2020/08/14 09:18:36 - FR - Identical.0 - Finished processing (I=0, O=0, R=835, W=32, U=0, E=0)
+2020/08/14 09:18:36 - DUM - Output.0 - Finished processing (I=0, O=0, R=32, W=32, U=0, E=0)
+2020/08/14 09:18:36 - SAM - Output.0 - Finished processing (I=0, O=15, R=32, W=32, U=17, E=0)
+2020/08/14 09:18:37 - ETL Injection Basic Job - Starting entry [Write To Log]
+2020/08/14 09:18:37 -  - ********** Opening ETL transformation for OpenOrder_Order_Comments / 110.
+2020/08/14 09:18:37 - ETL Injection Basic Job - Starting entry [Template_ETLInjection_Basic]
+2020/08/14 09:18:37 - Template_ETLInjection_Basic - Loading transformation from repository [Template_ETLInjection_Basic] in directory [/public/sales_import]
+2020/08/14 09:18:37 - Template_ETLInjection_Basic - Using run configuration [Pentaho local]
+2020/08/14 09:18:37 - Template_ETLInjection_Basic - Using legacy execution engine
+2020/08/14 09:18:38 - TI - SAM_OutputKeyFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SV_Existing_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SAM_OutputUpdateFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SAM_OutputKeyFields_Table.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:38 - TI - SV_Existing_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:38 - TI - SAM_OutputUpdateFields_Stream.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:18:38 - TI - MR_CompareFields.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SV_New_Meta.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SV_New_Meta.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:38 - TI - MR_CompareFields.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:18:38 - TI - SR_New.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SV_New_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SR_New.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:38 - TI - ETLPumps.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SR_Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - MR_KeyFields.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - ETLPumps.0 - Finished processing (I=1, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:38 - TI - MR_KeyFields.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:38 - TI - SR_Existing.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:38 - TI - SV_Existing_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SV_Existing_Select.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SAM_OutputUpdateFields_Table.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SAM_OutputKeyFields_Stream.0 - Finished reading query, closing connection.
+2020/08/14 09:18:38 - TI - SAM_OutputUpdateFields_Table.0 - Finished processing (I=4, O=0, R=0, W=4, U=0, E=0)
+2020/08/14 09:18:38 - TI - SAM_OutputKeyFields_Stream.0 - Finished processing (I=2, O=0, R=0, W=2, U=0, E=0)
+2020/08/14 09:18:38 - TI - SV_New_Remove.0 - Finished reading query, closing connection.
+2020/08/14 09:18:41 - TI - Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:18:41 - TI - Existing.0 - Finished processing (I=3535, O=0, R=0, W=3535, U=0, E=0)
+2020/08/14 09:18:41 - SV - Existing.0 - Finished processing (I=0, O=0, R=3535, W=3535, U=0, E=0)
+2020/08/14 09:18:41 - SR - Existing.0 - Finished processing (I=0, O=0, R=3535, W=3535, U=0, E=0)
+2020/08/14 09:18:42 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:18:42 - TI - New.0 - Finished processing (I=3654, O=0, R=0, W=3654, U=0, E=0)
+2020/08/14 09:18:42 - SV - New.0 - Finished processing (I=0, O=0, R=3654, W=3654, U=0, E=0)
+2020/08/14 09:18:42 - SR - New.0 - Finished processing (I=0, O=0, R=3654, W=3654, U=0, E=0)
+2020/08/14 09:18:42 - MR - Merge.0 - Finished processing (I=0, O=0, R=7189, W=3659, U=0, E=0)
+2020/08/14 09:18:42 - FR - Identical.0 - Finished processing (I=0, O=0, R=3659, W=237, U=0, E=0)
+2020/08/14 09:18:42 - DUM - Output.0 - Finished processing (I=0, O=0, R=237, W=237, U=0, E=0)
+2020/08/14 09:18:42 - SAM - Output.0 - Finished processing (I=0, O=124, R=237, W=237, U=113, E=0)
+2020/08/14 09:18:42 - ETL Injection Basic Job - Starting entry [SQL - Log Success]
+2020/08/14 09:18:42 - ETL Injection Basic Job - Starting entry [Success]
+2020/08/14 09:18:42 - ETL Injection Basic Job - Finished job entry [Success] (result=[true])
+2020/08/14 09:18:42 - ETL Injection Basic Job - Finished job entry [SQL - Log Success] (result=[true])
+2020/08/14 09:18:42 - ETL Injection Basic Job - Finished job entry [Template_ETLInjection_Basic] (result=[true])
+2020/08/14 09:18:42 - ETL Injection Basic Job - Finished job entry [Write To Log] (result=[true])
+2020/08/14 09:18:42 - ETL Injection Basic MASTER JOB Sales - Starting entry [Sales_Merge]
+2020/08/14 09:18:42 - Sales_Merge - Loading transformation from repository [Sales_Merge] in directory [/public/sales_import]
+2020/08/14 09:18:43 - Sales_Merge - Using run configuration [Pentaho local]
+2020/08/14 09:18:43 - Sales_Merge - Using legacy execution engine
+2020/08/14 09:18:43 - JS - Calc OrderOrigin.0 - Optimization level set to 9.
+2020/08/14 09:18:43 - JS - Override Part Numbers and dollar signs.0 - Optimization level set to 0.
+2020/08/14 09:18:43 - TI - RSV_ORDER detail.0 - linenr 20000
+2020/08/14 09:18:43 - DLU - ORDER_SOURCE.0 - linenr 20000
+2020/08/14 09:18:43 - JS - Calc OrderOrigin.0 - linenr 20000
+2020/08/14 09:18:43 - DLU - XRef_PLPart_TransType.0 - linenr 20000
+2020/08/14 09:18:43 - SV - Change datatypes.0 - linenr 20000
+2020/08/14 09:18:43 - Rows Now Shaped.0 - Linenr 20000
+2020/08/14 09:18:43 - freight, restock.0 - Linenr 20000
+2020/08/14 09:18:43 - non freight, non restock.0 - Linenr 20000
+2020/08/14 09:18:43 - SR - Freight Restock.0 - Linenr 20000
+2020/08/14 09:18:43 - CAL - row_ind (o).0 - Linenr 20000
+2020/08/14 09:18:43 - JS - Override Part Numbers and dollar signs.0 - linenr 20000
+2020/08/14 09:18:43 - SV - Remove Extra fields 2.0 - linenr 20000
+2020/08/14 09:18:43 - SR - New data.0 - Linenr 20000
+2020/08/14 09:18:44 - TI - RSV_ORDER detail.0 - linenr 40000
+2020/08/14 09:18:44 - DLU - ORDER_SOURCE.0 - linenr 40000
+2020/08/14 09:18:44 - JS - Calc OrderOrigin.0 - linenr 40000
+2020/08/14 09:18:44 - DLU - XRef_PLPart_TransType.0 - linenr 40000
+2020/08/14 09:18:44 - SV - Change datatypes.0 - linenr 40000
+2020/08/14 09:18:44 - Rows Now Shaped.0 - Linenr 40000
+2020/08/14 09:18:44 - freight, restock.0 - Linenr 40000
+2020/08/14 09:18:44 - non freight, non restock.0 - Linenr 40000
+2020/08/14 09:18:44 - SR - Freight Restock.0 - Linenr 40000
+2020/08/14 09:18:44 - CAL - row_ind (o).0 - Linenr 40000
+2020/08/14 09:18:44 - JS - Override Part Numbers and dollar signs.0 - linenr 40000
+2020/08/14 09:18:44 - SV - Remove Extra fields 2.0 - linenr 40000
+2020/08/14 09:18:44 - SR - New data.0 - Linenr 40000
+2020/08/14 09:18:44 - TI - RSV_ORDER detail.0 - linenr 60000
+2020/08/14 09:18:44 - DLU - ORDER_SOURCE.0 - linenr 60000
+2020/08/14 09:18:44 - JS - Calc OrderOrigin.0 - linenr 60000
+2020/08/14 09:18:44 - DLU - XRef_PLPart_TransType.0 - linenr 60000
+2020/08/14 09:18:44 - SV - Change datatypes.0 - linenr 60000
+2020/08/14 09:18:44 - Rows Now Shaped.0 - Linenr 60000
+2020/08/14 09:18:44 - freight, restock.0 - Linenr 60000
+2020/08/14 09:18:44 - non freight, non restock.0 - Linenr 60000
+2020/08/14 09:18:44 - SR - Freight Restock.0 - Linenr 60000
+2020/08/14 09:18:44 - CAL - row_ind (o).0 - Linenr 60000
+2020/08/14 09:18:44 - JS - Override Part Numbers and dollar signs.0 - linenr 60000
+2020/08/14 09:18:44 - SV - Remove Extra fields 2.0 - linenr 60000
+2020/08/14 09:18:44 - SR - New data.0 - Linenr 60000
+2020/08/14 09:18:44 - TI - RSV_ORDER detail.0 - linenr 80000
+2020/08/14 09:18:44 - DLU - ORDER_SOURCE.0 - linenr 80000
+2020/08/14 09:18:44 - JS - Calc OrderOrigin.0 - linenr 80000
+2020/08/14 09:18:44 - DLU - XRef_PLPart_TransType.0 - linenr 80000
+2020/08/14 09:18:44 - SV - Change datatypes.0 - linenr 80000
+2020/08/14 09:18:44 - Rows Now Shaped.0 - Linenr 80000
+2020/08/14 09:18:44 - freight, restock.0 - Linenr 80000
+2020/08/14 09:18:44 - non freight, non restock.0 - Linenr 80000
+2020/08/14 09:18:44 - CAL - row_ind (o).0 - Linenr 80000
+2020/08/14 09:18:45 - SR - Freight Restock.0 - Linenr 80000
+2020/08/14 09:18:45 - JS - Override Part Numbers and dollar signs.0 - linenr 80000
+2020/08/14 09:18:45 - SV - Remove Extra fields 2.0 - linenr 80000
+2020/08/14 09:18:45 - SR - New data.0 - Linenr 80000
+2020/08/14 09:18:45 - TI - RSV_ORDER detail.0 - linenr 100000
+2020/08/14 09:18:45 - DLU - ORDER_SOURCE.0 - linenr 100000
+2020/08/14 09:18:45 - JS - Calc OrderOrigin.0 - linenr 100000
+2020/08/14 09:18:45 - DLU - XRef_PLPart_TransType.0 - linenr 100000
+2020/08/14 09:18:45 - SV - Change datatypes.0 - linenr 100000
+2020/08/14 09:18:45 - Rows Now Shaped.0 - Linenr 100000
+2020/08/14 09:18:45 - freight, restock.0 - Linenr 100000
+2020/08/14 09:18:45 - non freight, non restock.0 - Linenr 100000
+2020/08/14 09:18:45 - SR - Freight Restock.0 - Linenr 100000
+2020/08/14 09:18:45 - CAL - row_ind (o).0 - Linenr 100000
+2020/08/14 09:18:45 - JS - Override Part Numbers and dollar signs.0 - linenr 100000
+2020/08/14 09:18:45 - SV - Remove Extra fields 2.0 - linenr 100000
+2020/08/14 09:18:45 - SR - New data.0 - Linenr 100000
+2020/08/14 09:18:45 - TI - RSV_ORDER detail.0 - linenr 120000
+2020/08/14 09:18:45 - DLU - ORDER_SOURCE.0 - linenr 120000
+2020/08/14 09:18:45 - JS - Calc OrderOrigin.0 - linenr 120000
+2020/08/14 09:18:45 - DLU - XRef_PLPart_TransType.0 - linenr 120000
+2020/08/14 09:18:45 - SV - Change datatypes.0 - linenr 120000
+2020/08/14 09:18:45 - Rows Now Shaped.0 - Linenr 120000
+2020/08/14 09:18:45 - non freight, non restock.0 - Linenr 120000
+2020/08/14 09:18:45 - freight, restock.0 - Linenr 120000
+2020/08/14 09:18:45 - SR - Freight Restock.0 - Linenr 120000
+2020/08/14 09:18:45 - CAL - row_ind (o).0 - Linenr 120000
+2020/08/14 09:18:46 - JS - Override Part Numbers and dollar signs.0 - linenr 120000
+2020/08/14 09:18:46 - SV - Remove Extra fields 2.0 - linenr 120000
+2020/08/14 09:18:46 - SR - New data.0 - Linenr 120000
+2020/08/14 09:18:46 - TI - RSV_ORDER detail.0 - linenr 140000
+2020/08/14 09:18:46 - DLU - ORDER_SOURCE.0 - linenr 140000
+2020/08/14 09:18:46 - JS - Calc OrderOrigin.0 - linenr 140000
+2020/08/14 09:18:46 - DLU - XRef_PLPart_TransType.0 - linenr 140000
+2020/08/14 09:18:46 - SV - Change datatypes.0 - linenr 140000
+2020/08/14 09:18:46 - Rows Now Shaped.0 - Linenr 140000
+2020/08/14 09:18:46 - non freight, non restock.0 - Linenr 140000
+2020/08/14 09:18:46 - CAL - row_ind (o).0 - Linenr 140000
+2020/08/14 09:18:46 - freight, restock.0 - Linenr 140000
+2020/08/14 09:18:46 - SR - Freight Restock.0 - Linenr 140000
+2020/08/14 09:18:46 - JS - Override Part Numbers and dollar signs.0 - linenr 140000
+2020/08/14 09:18:46 - SV - Remove Extra fields 2.0 - linenr 140000
+2020/08/14 09:18:46 - SR - New data.0 - Linenr 140000
+2020/08/14 09:18:46 - TI - Current data.0 - linenr 20000
+2020/08/14 09:18:46 - SR - Current data.0 - Linenr 20000
+2020/08/14 09:18:46 - TI - Current data.0 - linenr 40000
+2020/08/14 09:18:46 - SR - Current data.0 - Linenr 40000
+2020/08/14 09:18:47 - TI - RSV_ORDER detail.0 - linenr 160000
+2020/08/14 09:18:47 - DLU - ORDER_SOURCE.0 - linenr 160000
+2020/08/14 09:18:47 - JS - Calc OrderOrigin.0 - linenr 160000
+2020/08/14 09:18:47 - DLU - XRef_PLPart_TransType.0 - linenr 160000
+2020/08/14 09:18:47 - SV - Change datatypes.0 - linenr 160000
+2020/08/14 09:18:47 - Rows Now Shaped.0 - Linenr 160000
+2020/08/14 09:18:47 - freight, restock.0 - Linenr 160000
+2020/08/14 09:18:47 - non freight, non restock.0 - Linenr 160000
+2020/08/14 09:18:47 - SR - Freight Restock.0 - Linenr 160000
+2020/08/14 09:18:47 - CAL - row_ind (o).0 - Linenr 160000
+2020/08/14 09:18:47 - JS - Override Part Numbers and dollar signs.0 - linenr 160000
+2020/08/14 09:18:47 - SV - Remove Extra fields 2.0 - linenr 160000
+2020/08/14 09:18:47 - SR - New data.0 - Linenr 160000
+2020/08/14 09:18:47 - TI - RSV_ORDER detail.0 - Finished reading query, closing connection.
+2020/08/14 09:18:47 - TI - RSV_ORDER detail.0 - Finished processing (I=167565, O=0, R=0, W=167565, U=0, E=0)
+2020/08/14 09:18:47 - DLU - ORDER_SOURCE.0 - Finished processing (I=12, O=0, R=167565, W=167565, U=0, E=0)
+2020/08/14 09:18:47 - JS - Calc OrderOrigin.0 - Finished processing (I=0, O=0, R=167565, W=167565, U=0, E=0)
+2020/08/14 09:18:47 - DLU - XRef_PLPart_TransType.0 - Finished processing (I=27, O=0, R=167565, W=167565, U=0, E=0)
+2020/08/14 09:18:47 - SV - Change datatypes.0 - Finished processing (I=0, O=0, R=167565, W=167565, U=0, E=0)
+2020/08/14 09:18:47 - Rows Now Shaped.0 - Finished processing (I=0, O=0, R=167565, W=335130, U=0, E=0)
+2020/08/14 09:18:47 - freight, restock.0 - Finished processing (I=0, O=0, R=167565, W=167565, U=0, E=0)
+2020/08/14 09:18:47 - non freight, non restock.0 - Finished processing (I=0, O=0, R=167565, W=167565, U=0, E=0)
+2020/08/14 09:18:47 - CAL - row_ind (o).0 - Finished processing (I=0, O=0, R=167565, W=167565, U=0, E=0)
+2020/08/14 09:18:47 - TI - Current data.0 - linenr 60000
+2020/08/14 09:18:47 - SR - Current data.0 - Linenr 60000
+2020/08/14 09:18:47 - TI - Current data.0 - linenr 80000
+2020/08/14 09:18:47 - SR - Current data.0 - Linenr 80000
+2020/08/14 09:18:47 - GRP - Headers.0 - Linenr 20000
+2020/08/14 09:18:47 - GRP - Headers.0 - Linenr 40000
+2020/08/14 09:18:47 - TI - Current data.0 - linenr 100000
+2020/08/14 09:18:47 - SR - Current data.0 - Linenr 100000
+2020/08/14 09:18:47 - GRP - Headers.0 - Linenr 60000
+2020/08/14 09:18:47 - TI - Current data.0 - linenr 120000
+2020/08/14 09:18:47 - SR - Current data.0 - Linenr 120000
+2020/08/14 09:18:47 - GRP - Headers.0 - Linenr 80000
+2020/08/14 09:18:47 - TI - Current data.0 - linenr 140000
+2020/08/14 09:18:47 - SR - Current data.0 - Linenr 140000
+2020/08/14 09:18:47 - GRP - Headers.0 - Linenr 100000
+2020/08/14 09:18:47 - TI - Current data.0 - linenr 160000
+2020/08/14 09:18:47 - SR - Current data.0 - Linenr 160000
+2020/08/14 09:18:48 - FR - Restock.0 - linenr 20000
+2020/08/14 09:18:48 - FR - Freight.0 - linenr 20000
+2020/08/14 09:18:48 - FR - Return Freight.0 - linenr 20000
+2020/08/14 09:18:48 - GRP - Headers.0 - Linenr 120000
+2020/08/14 09:18:48 - TI - Current data.0 - linenr 180000
+2020/08/14 09:18:48 - SR - Current data.0 - Linenr 180000
+2020/08/14 09:18:48 - GRP - Headers.0 - Linenr 140000
+2020/08/14 09:18:48 - SR - Freight Restock.0 - Finished processing (I=0, O=0, R=167565, W=167565, U=0, E=0)
+2020/08/14 09:18:48 - TI - Current data.0 - linenr 200000
+2020/08/14 09:18:48 - SR - Current data.0 - Linenr 200000
+2020/08/14 09:18:48 - GRP - Headers.0 - Linenr 160000
+2020/08/14 09:18:48 - GRP - Headers.0 - Finished processing (I=0, O=0, R=167565, W=84093, U=0, E=0)
+2020/08/14 09:18:48 - FR - Freight.0 - Finished processing (I=0, O=0, R=28031, W=3169, U=0, E=0)
+2020/08/14 09:18:48 - FR - Restock.0 - Finished processing (I=0, O=0, R=28031, W=8, U=0, E=0)
+2020/08/14 09:18:48 - FR - Return Freight.0 - Finished processing (I=0, O=0, R=28031, W=0, U=0, E=0)
+2020/08/14 09:18:48 - CAL - row_ind (r).0 - Finished processing (I=0, O=0, R=8, W=8, U=0, E=0)
+2020/08/14 09:18:48 - CAL - row_ind (f).0 - Finished processing (I=0, O=0, R=3169, W=3169, U=0, E=0)
+2020/08/14 09:18:48 - JS - Override Part Numbers and dollar signs.0 - Finished processing (I=0, O=0, R=170742, W=170742, U=0, E=0)
+2020/08/14 09:18:48 - SV - Remove Extra fields 2.0 - Finished processing (I=0, O=0, R=170742, W=170742, U=0, E=0)
+2020/08/14 09:18:48 - TI - Current data.0 - linenr 220000
+2020/08/14 09:18:48 - SR - Current data.0 - Linenr 220000
+2020/08/14 09:18:48 - TI - Current data.0 - linenr 240000
+2020/08/14 09:18:48 - SR - Current data.0 - Linenr 240000
+2020/08/14 09:18:48 - TI - Current data.0 - linenr 260000
+2020/08/14 09:18:48 - SR - Current data.0 - Linenr 260000
+2020/08/14 09:18:48 - TI - Current data.0 - linenr 280000
+2020/08/14 09:18:48 - SR - Current data.0 - Linenr 280000
+2020/08/14 09:18:49 - TI - Current data.0 - Finished reading query, closing connection.
+2020/08/14 09:18:49 - TI - Current data.0 - Finished processing (I=295794, O=0, R=0, W=295794, U=0, E=0)
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 20000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 20000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 40000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 60000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 40000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 60000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 100000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 80000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 100000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 160000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 120000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 140000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 160000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 260000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 180000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 280000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 300000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 200000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 320000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 340000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 220000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 360000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 240000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 400000
+2020/08/14 09:18:49 - Filter rows.0 - linenr 260000
+2020/08/14 09:18:49 - SR - New data.0 - Finished processing (I=0, O=0, R=170742, W=170742, U=0, E=0)
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 420000
+2020/08/14 09:18:49 - SR - Current data.0 - Finished processing (I=0, O=0, R=295794, W=295794, U=0, E=0)
+2020/08/14 09:18:49 - Filter rows.0 - linenr 280000
+2020/08/14 09:18:49 - Merge Rows (diff).0 - linenr 460000
+2020/08/14 09:18:50 - Merge Rows (diff).0 - Finished processing (I=0, O=0, R=466536, W=295794, U=0, E=0)
+2020/08/14 09:18:50 - Filter rows.0 - Finished processing (I=0, O=0, R=295794, W=0, U=0, E=0)
+2020/08/14 09:18:50 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success1]
+2020/08/14 09:18:50 - ETL Injection Basic MASTER JOB Sales - Starting entry [Sales Validation]
+2020/08/14 09:18:50 - Sales Validation - Starting entry [SQL - Log Begin]
+2020/08/14 09:18:50 - Sales Validation - Starting entry [Delete filenames from result]
+2020/08/14 09:18:50 - Delete filenames from result - 0 file(s) found from result filenames
+2020/08/14 09:18:50 - Sales Validation - Starting entry [Sales Validation]
+2020/08/14 09:18:50 - Sales Validation - Loading transformation from repository [Sales Validation] in directory [/public/sales_import]
+2020/08/14 09:18:51 - Sales Validation - Using run configuration [Pentaho local]
+2020/08/14 09:18:51 - Sales Validation - Using legacy execution engine
+2020/08/14 09:18:51 - GR - for javascript 2.0 - Finished processing (I=0, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:51 - GR - for javascript.0 - Finished processing (I=0, O=0, R=0, W=1, U=0, E=0)
+2020/08/14 09:18:51 - JS - Header.0 - Optimization level set to 9.
+2020/08/14 09:18:51 - JS - Footer.0 - Optimization level set to 9.
+2020/08/14 09:18:51 - JS - Set email variables.0 - Optimization level set to 9.
+2020/08/14 09:18:51 - JS - Header.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2020/08/14 09:18:51 - JS - Footer.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2020/08/14 09:18:52 - TI - Sales validation results.0 - Finished reading query, closing connection.
+2020/08/14 09:18:52 - AS - Join header and body.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2020/08/14 09:18:52 - Set Variables.0 - Setting environment variables...
+2020/08/14 09:18:52 - Set Variables.0 - Set variable EMAIL_SUBJECT_OK to value [National Oak Distributors Sales Validation ERROR generated 08/14/2020]
+2020/08/14 09:18:52 - Set Variables.0 - Set variable EMAIL_FROM_NAME to value [Pentaho]
+2020/08/14 09:18:52 - Set Variables.0 - Set variable EMAIL_FROM_ADDRESS to value [donotreply@nationaloak.com]
+2020/08/14 09:18:52 - Set Variables.0 - Set variable EMAIL_TO_ADDRESS to value [dba@nationaloak.com]
+2020/08/14 09:18:52 - Set Variables.0 - Set variable EMAIL_CC_TO_ADDRESS to value []
+2020/08/14 09:18:52 - Set Variables.0 - Set variable EMAIL_BCC_TO_ADDRESS to value []
+2020/08/14 09:18:52 - Set Variables.0 - Set variable EMAIL_BODY to value [Sales Validation ERROR, please review the attached.<br><br>FROM /public/Sales_Import/SalesValidation Job<br><br>This is an automated email. Please do not reply to this email. If you have questions please contact the Help Desk at helpdesk@nationaloak.com .<br><br><em><font size=""-1""><strong>National Oak Distributors</strong> -- Generated Fri Aug 14 2020 09:18:52 GMT-0400 (EDT).</font></em>]
+2020/08/14 09:18:52 - Set Variables.0 - Set variable HasRows to value [0]
+2020/08/14 09:18:52 -  Join to footer.0 - Finished processing (I=0, O=0, R=2, W=4, U=0, E=0)
+2020/08/14 09:18:52 - SV - Remove fields 2.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2020/08/14 09:18:52 - Text file output.0 - Finished processing (I=0, O=2, R=2, W=2, U=0, E=0)
+2020/08/14 09:18:52 - JS - Set email variables.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2020/08/14 09:18:52 - AS - Add row numbers.0 - Finished processing (I=0, O=0, R=2, W=2, U=0, E=0)
+2020/08/14 09:18:52 - FR - 1st DATA row only.0 - Finished processing (I=0, O=0, R=2, W=1, U=0, E=0)
+2020/08/14 09:18:52 - Dummy.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2020/08/14 09:18:52 - Set Variables.0 - Finished after 1 rows.
+2020/08/14 09:18:52 - Set Variables.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2020/08/14 09:18:52 - Copy rows to result.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2020/08/14 09:18:52 - Sales Validation - Starting entry [EVAL - RecordCount > 0]
+2020/08/14 09:18:52 - Sales Validation - Starting entry [SQL - Log End 2]
+2020/08/14 09:18:52 - Sales Validation - Starting entry [Success]
+2020/08/14 09:18:52 - Sales Validation - Finished job entry [Success] (result=[true])
+2020/08/14 09:18:52 - Sales Validation - Finished job entry [SQL - Log End 2] (result=[true])
+2020/08/14 09:18:52 - Sales Validation - Finished job entry [EVAL - RecordCount > 0] (result=[true])
+2020/08/14 09:18:52 - Sales Validation - Finished job entry [Sales Validation] (result=[true])
+2020/08/14 09:18:52 - Sales Validation - Finished job entry [Delete filenames from result] (result=[true])
+2020/08/14 09:18:52 - Sales Validation - Finished job entry [SQL - Log Begin] (result=[true])
+2020/08/14 09:18:52 - ETL Injection Basic MASTER JOB Sales - Starting entry [MonthlySalesSummaryCustomer]
+2020/08/14 09:18:59 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success2]
+2020/08/14 09:18:59 - ETL Injection Basic MASTER JOB Sales - Starting entry [tmpPopUp_SalesSummary_Cisco]
+2020/08/14 09:19:14 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success3]
+2020/08/14 09:19:14 - ETL Injection Basic MASTER JOB Sales - Starting entry [NOD_Sales_2Years_Merge]
+2020/08/14 09:19:14 - NOD_Sales_2Years_Merge - Loading transformation from repository [NOD_Sales_2Years_Merge] in directory [/public/sales_import]
+2020/08/14 09:19:14 - NOD_Sales_2Years_Merge - Using run configuration [Pentaho local]
+2020/08/14 09:19:14 - NOD_Sales_2Years_Merge - Using legacy execution engine
+2020/08/14 09:19:15 - TI - Existing.0 - linenr 50000
+2020/08/14 09:19:15 - SV - Existing.0 - linenr 50000
+2020/08/14 09:19:15 - SR - Existing.0 - Linenr 50000
+2020/08/14 09:19:16 - TI - Existing.0 - linenr 100000
+2020/08/14 09:19:16 - SV - Existing.0 - linenr 100000
+2020/08/14 09:19:16 - SR - Existing.0 - Linenr 100000
+2020/08/14 09:19:17 - TI - Existing.0 - linenr 150000
+2020/08/14 09:19:17 - SV - Existing.0 - linenr 150000
+2020/08/14 09:19:17 - SR - Existing.0 - Linenr 150000
+2020/08/14 09:19:17 - TI - Existing.0 - linenr 200000
+2020/08/14 09:19:17 - SV - Existing.0 - linenr 200000
+2020/08/14 09:19:17 - SR - Existing.0 - Linenr 200000
+2020/08/14 09:19:18 - TI - Existing.0 - linenr 250000
+2020/08/14 09:19:18 - SV - Existing.0 - linenr 250000
+2020/08/14 09:19:18 - SR - Existing.0 - Linenr 250000
+2020/08/14 09:19:18 - TI - Existing.0 - linenr 300000
+2020/08/14 09:19:18 - SV - Existing.0 - linenr 300000
+2020/08/14 09:19:18 - SR - Existing.0 - Linenr 300000
+2020/08/14 09:19:19 - TI - Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:19:19 - TI - Existing.0 - Finished processing (I=306059, O=0, R=0, W=306059, U=0, E=0)
+2020/08/14 09:19:19 - SV - Existing.0 - Finished processing (I=0, O=0, R=306059, W=306059, U=0, E=0)
+2020/08/14 09:19:20 - TI - New.0 - linenr 50000
+2020/08/14 09:19:20 - SV - New.0 - linenr 50000
+2020/08/14 09:19:20 - SR - New.0 - Linenr 50000
+2020/08/14 09:19:20 - TI - New.0 - linenr 100000
+2020/08/14 09:19:20 - SV - New.0 - linenr 100000
+2020/08/14 09:19:20 - SR - New.0 - Linenr 100000
+2020/08/14 09:19:20 - SR - Existing.0 - Opening 30 tmp-files...
+2020/08/14 09:19:21 - TI - New.0 - linenr 150000
+2020/08/14 09:19:21 - SV - New.0 - linenr 150000
+2020/08/14 09:19:21 - SR - New.0 - Linenr 150000
+2020/08/14 09:19:21 - TI - New.0 - linenr 200000
+2020/08/14 09:19:21 - SV - New.0 - linenr 200000
+2020/08/14 09:19:21 - SR - New.0 - Linenr 200000
+2020/08/14 09:19:21 - TI - New.0 - linenr 250000
+2020/08/14 09:19:21 - SV - New.0 - linenr 250000
+2020/08/14 09:19:21 - SR - New.0 - Linenr 250000
+2020/08/14 09:19:22 - TI - New.0 - linenr 300000
+2020/08/14 09:19:22 - SV - New.0 - linenr 300000
+2020/08/14 09:19:22 - SR - New.0 - Linenr 300000
+2020/08/14 09:19:22 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:19:22 - TI - New.0 - Finished processing (I=317962, O=0, R=0, W=317962, U=0, E=0)
+2020/08/14 09:19:22 - SV - New.0 - Finished processing (I=0, O=0, R=317962, W=317962, U=0, E=0)
+2020/08/14 09:19:25 - SR - New.0 - Opening 2 tmp-files...
+2020/08/14 09:19:25 - MR - Merge.0 - linenr 50000
+2020/08/14 09:19:26 - MR - Merge.0 - linenr 100000
+2020/08/14 09:19:26 - FR - Identical.0 - linenr 50000
+2020/08/14 09:19:26 - MR - Merge.0 - linenr 150000
+2020/08/14 09:19:26 - MR - Merge.0 - linenr 200000
+2020/08/14 09:19:26 - FR - Identical.0 - linenr 100000
+2020/08/14 09:19:26 - MR - Merge.0 - linenr 250000
+2020/08/14 09:19:26 - MR - Merge.0 - linenr 300000
+2020/08/14 09:19:26 - FR - Identical.0 - linenr 150000
+2020/08/14 09:19:26 - MR - Merge.0 - linenr 350000
+2020/08/14 09:19:27 - MR - Merge.0 - linenr 400000
+2020/08/14 09:19:27 - FR - Identical.0 - linenr 200000
+2020/08/14 09:19:27 - MR - Merge.0 - linenr 450000
+2020/08/14 09:19:27 - MR - Merge.0 - linenr 500000
+2020/08/14 09:19:27 - FR - Identical.0 - linenr 250000
+2020/08/14 09:19:27 - MR - Merge.0 - linenr 550000
+2020/08/14 09:19:27 - SR - Existing.0 - Finished processing (I=0, O=0, R=306059, W=306059, U=0, E=0)
+2020/08/14 09:19:27 - MR - Merge.0 - linenr 600000
+2020/08/14 09:19:27 - FR - Identical.0 - linenr 300000
+2020/08/14 09:19:28 - SR - New.0 - Finished processing (I=0, O=0, R=317962, W=317962, U=0, E=0)
+2020/08/14 09:19:28 - MR - Merge.0 - Finished processing (I=0, O=0, R=624021, W=317962, U=0, E=0)
+2020/08/14 09:19:31 - FR - Identical.0 - Finished processing (I=0, O=0, R=317962, W=12026, U=0, E=0)
+2020/08/14 09:19:49 - Insert / Update.0 - Finished processing (I=12026, O=11903, R=12026, W=12026, U=123, E=0)
+2020/08/14 09:19:49 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success4]
+2020/08/14 09:19:49 - ETL Injection Basic MASTER JOB Sales - Starting entry [tmpSalesbyPartCategory_Customers_Parts_SOAR]
+2020/08/14 09:20:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:20:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:20:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:20:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:20:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:20:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:20:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:20:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:20:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:22:54 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success5]
+2020/08/14 09:22:54 - ETL Injection Basic MASTER JOB Sales - Starting entry [tmpSalesbyPartCategory_Customers_Parts_SOAR2]
+2020/08/14 09:25:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:25:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:25:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:29:02 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success6]
+2020/08/14 09:29:02 - ETL Injection Basic MASTER JOB Sales - Starting entry [tmpSalesbyPartCategory_Customers_Parts_SOAR2_FullMonthsOnly]
+2020/08/14 09:30:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:30:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:30:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:30:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:30:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:30:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:30:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:30:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:30:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:30:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:30:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:30:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:30:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:30:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:30:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:31:01 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:31:01 - PurRepository - Creating repository meta store interface
+2020/08/14 09:31:01 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:33:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:33:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:33:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:35:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:35:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:35:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:35:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:35:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:35:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:35:10 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success7]
+2020/08/14 09:35:10 - ETL Injection Basic MASTER JOB Sales - Starting entry [tmpSalesbyPartCategory_HighTeck_SalesGoals]
+2020/08/14 09:35:19 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success9]
+2020/08/14 09:35:19 - ETL Injection Basic MASTER JOB Sales - Starting entry [tmpSalesbyPartCategory_HighTeck]
+2020/08/14 09:35:39 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success9]
+2020/08/14 09:35:39 - ETL Injection Basic MASTER JOB Sales - Starting entry [tmpSalesbyPartCategory_KeyMasterCategory]
+2020/08/14 09:36:00 - RepositoriesMeta - Reading repositories XML file: FromInputStream
+2020/08/14 09:36:00 - PurRepository - Creating repository meta store interface
+2020/08/14 09:36:00 - PurRepository - Connected to the enterprise repository
+2020/08/14 09:36:15 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success9]
+2020/08/14 09:36:15 - ETL Injection Basic MASTER JOB Sales - Starting entry [tmpSalesbyPartCategory_PrivateBrands]
+2020/08/14 09:36:34 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success8]
+2020/08/14 09:36:34 - ETL Injection Basic MASTER JOB Sales - Starting entry [tmpLowGPP and tmpLowGPP_Acceptable]
+2020/08/14 09:36:39 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success8]
+2020/08/14 09:36:39 - ETL Injection Basic MASTER JOB Sales - Starting entry [OpenOrders_Merge]
+2020/08/14 09:36:39 - OpenOrders_Merge - Loading transformation from repository [OpenOrders_Merge] in directory [/public/sales_import]
+2020/08/14 09:36:39 - OpenOrders_Merge - Using run configuration [Pentaho local]
+2020/08/14 09:36:39 - OpenOrders_Merge - Using legacy execution engine
+2020/08/14 09:36:40 - JS - Calc OrderOrigin.0 - Optimization level set to 9.
+2020/08/14 09:36:40 - JS - Override Part Numbers and dollar signs.0 - Optimization level set to 0.
+2020/08/14 09:36:40 - TI - ORDER_OPEN detail.0 - Finished reading query, closing connection.
+2020/08/14 09:36:40 - TI - ORDER_OPEN detail.0 - Finished processing (I=14190, O=0, R=0, W=14190, U=0, E=0)
+2020/08/14 09:36:40 - DLU - ORDER_SOURCE.0 - Finished processing (I=12, O=0, R=14190, W=14190, U=0, E=0)
+2020/08/14 09:36:40 - JS - Calc OrderOrigin.0 - Finished processing (I=0, O=0, R=14190, W=14190, U=0, E=0)
+2020/08/14 09:36:40 - DLU - XRef_PLPart_TransType.0 - Finished processing (I=27, O=0, R=14190, W=14190, U=0, E=0)
+2020/08/14 09:36:40 - SV - Change datatypes.0 - Finished processing (I=0, O=0, R=14190, W=14190, U=0, E=0)
+2020/08/14 09:36:40 - Rows Now Shaped.0 - Finished processing (I=0, O=0, R=14190, W=28380, U=0, E=0)
+2020/08/14 09:36:40 - freight, restock.0 - Finished processing (I=0, O=0, R=14190, W=14190, U=0, E=0)
+2020/08/14 09:36:40 - non freight, non restock.0 - Finished processing (I=0, O=0, R=14190, W=14190, U=0, E=0)
+2020/08/14 09:36:40 - CAL - row_ind (o).0 - Finished processing (I=0, O=0, R=14190, W=14190, U=0, E=0)
+2020/08/14 09:36:40 - SR - Freight Restock.0 - Finished processing (I=0, O=0, R=14190, W=14190, U=0, E=0)
+2020/08/14 09:36:40 - TI - Current data.0 - Finished reading query, closing connection.
+2020/08/14 09:36:40 - TI - Current data.0 - Finished processing (I=13366, O=0, R=0, W=13366, U=0, E=0)
+2020/08/14 09:36:40 - SR - Current data.0 - Finished processing (I=0, O=0, R=13366, W=13366, U=0, E=0)
+2020/08/14 09:36:40 - GRP - Headers.0 - Finished processing (I=0, O=0, R=14190, W=11198, U=0, E=0)
+2020/08/14 09:36:40 - FR - Freight.0 - Finished processing (I=0, O=0, R=5599, W=60, U=0, E=0)
+2020/08/14 09:36:40 - FR - Restock.0 - Finished processing (I=0, O=0, R=5599, W=16, U=0, E=0)
+2020/08/14 09:36:40 - CAL - row_ind (r).0 - Finished processing (I=0, O=0, R=16, W=16, U=0, E=0)
+2020/08/14 09:36:40 - CAL - row_ind (f).0 - Finished processing (I=0, O=0, R=60, W=60, U=0, E=0)
+2020/08/14 09:36:40 - JS - Override Part Numbers and dollar signs.0 - Finished processing (I=0, O=0, R=14266, W=14266, U=0, E=0)
+2020/08/14 09:36:40 - SV - Remove Extra fields 2.0 - Finished processing (I=0, O=0, R=14266, W=14266, U=0, E=0)
+2020/08/14 09:36:40 - SR - New data.0 - Finished processing (I=0, O=0, R=14266, W=14266, U=0, E=0)
+2020/08/14 09:36:40 - Merge Rows (diff).0 - linenr 20000
+2020/08/14 09:36:40 - Merge Rows (diff).0 - Finished processing (I=0, O=0, R=27632, W=17506, U=0, E=0)
+2020/08/14 09:36:40 - FR - Identical.0 - Finished processing (I=0, O=0, R=17506, W=8428, U=0, E=0)
+2020/08/14 09:36:40 - FR - Deletes.0 - Finished processing (I=0, O=0, R=8428, W=8428, U=0, E=0)
+2020/08/14 09:36:40 - Split into streams.0 - Finished processing (I=0, O=0, R=5188, W=5188, U=0, E=0)
+2020/08/14 09:36:41 - Delete.0 - Finished processing (I=0, O=0, R=3240, W=3240, U=3240, E=0)
+2020/08/14 09:36:45 - Insert / Update.0 - Finished processing (I=2594, O=2068, R=2594, W=2594, U=526, E=0)
+2020/08/14 09:36:45 - Insert / Update.0 - Finished processing (I=2594, O=2072, R=2594, W=2594, U=522, E=0)
+2020/08/14 09:36:45 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success15]
+2020/08/14 09:36:45 - ETL Injection Basic MASTER JOB Sales - Starting entry [Quotes_Merge]
+2020/08/14 09:36:45 - Quotes_Merge - Loading transformation from repository [Quotes_Merge] in directory [/public/sales_import]
+2020/08/14 09:36:45 - Quotes_Merge - Using run configuration [Pentaho local]
+2020/08/14 09:36:45 - Quotes_Merge - Using legacy execution engine
+2020/08/14 09:36:45 - TI - ORDER_QUOTE detail.0 - Finished reading query, closing connection.
+2020/08/14 09:36:45 - TI - ORDER_QUOTE detail.0 - Finished processing (I=356, O=0, R=0, W=356, U=0, E=0)
+2020/08/14 09:36:45 - JS - Calc OrderOrigin.0 - Optimization level set to 9.
+2020/08/14 09:36:45 - DLU - ORDER_SOURCE.0 - Finished processing (I=12, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:45 - JS - Override Part Numbers and dollar signs.0 - Optimization level set to 0.
+2020/08/14 09:36:45 - JS - Calc OrderOrigin.0 - Finished processing (I=0, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:45 - DLU - XRef_PLPart_TransType.0 - Finished processing (I=27, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:45 - SV - Change datatypes.0 - Finished processing (I=0, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:45 - Rows Now Shaped.0 - Finished processing (I=0, O=0, R=356, W=712, U=0, E=0)
+2020/08/14 09:36:45 - non freight, non restock.0 - Finished processing (I=0, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:45 - freight, restock.0 - Finished processing (I=0, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:45 - CAL - row_ind (o).0 - Finished processing (I=0, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:45 - SR - Freight Restock.0 - Finished processing (I=0, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:45 - GRP - Headers.0 - Finished processing (I=0, O=0, R=356, W=16, U=0, E=0)
+2020/08/14 09:36:45 - FR - Freight.0 - Finished processing (I=0, O=0, R=8, W=0, U=0, E=0)
+2020/08/14 09:36:45 - FR - Restock.0 - Finished processing (I=0, O=0, R=8, W=0, U=0, E=0)
+2020/08/14 09:36:45 - JS - Override Part Numbers and dollar signs.0 - Finished processing (I=0, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:45 - SV - Remove Extra fields 2.0 - Finished processing (I=0, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:45 - SR - New data.0 - Finished processing (I=0, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:46 - TI - Current data.0 - Finished reading query, closing connection.
+2020/08/14 09:36:46 - TI - Current data.0 - Finished processing (I=14266, O=0, R=0, W=14266, U=0, E=0)
+2020/08/14 09:36:46 - SR - Current data.0 - Finished processing (I=0, O=0, R=14266, W=14266, U=0, E=0)
+2020/08/14 09:36:46 - Merge Rows (diff).0 - Finished processing (I=0, O=0, R=14622, W=14622, U=0, E=0)
+2020/08/14 09:36:46 - FR - Identical.0 - Finished processing (I=0, O=0, R=14622, W=14622, U=0, E=0)
+2020/08/14 09:36:46 - FR - Deletes.0 - Finished processing (I=0, O=0, R=14622, W=14622, U=0, E=0)
+2020/08/14 09:36:46 - Split into streams.0 - Finished processing (I=0, O=0, R=356, W=356, U=0, E=0)
+2020/08/14 09:36:46 - Insert / Update.0 - Finished processing (I=178, O=0, R=178, W=178, U=0, E=0)
+2020/08/14 09:36:46 - Insert / Update.0 - Finished processing (I=178, O=0, R=178, W=178, U=0, E=0)
+2020/08/14 09:36:51 - Delete.0 - Finished processing (I=0, O=0, R=14266, W=14266, U=14266, E=0)
+2020/08/14 09:36:51 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success13]
+2020/08/14 09:36:51 - ETL Injection Basic MASTER JOB Sales - Starting entry [OrderSummaryFields_Merge]
+2020/08/14 09:36:51 - OrderSummaryFields_Merge - Loading transformation from repository [OrderSummaryFields_Merge] in directory [/public/sales_import]
+2020/08/14 09:36:51 - OrderSummaryFields_Merge - Using run configuration [Pentaho local]
+2020/08/14 09:36:51 - OrderSummaryFields_Merge - Using legacy execution engine
+2020/08/14 09:36:54 - TI - Existing Sales.0 - linenr 50000
+2020/08/14 09:36:54 - TI - Existing Sales.0 - Finished reading query, closing connection.
+2020/08/14 09:36:54 - TI - Existing Sales.0 - Finished processing (I=97214, O=0, R=0, W=97214, U=0, E=0)
+2020/08/14 09:36:55 - JS - Update fields.0 - Optimization level set to 9.
+2020/08/14 09:36:55 - SL - Get OrderOrigin and TotalSales.0 - linenr 100000
+2020/08/14 09:36:55 - TI - New.0 - linenr 50000
+2020/08/14 09:36:55 - SV - New.0 - linenr 50000
+2020/08/14 09:36:55 - JS - Update fields.0 - linenr 50000
+2020/08/14 09:36:55 - SL - Get OrderOrigin and TotalSales.0 - linenr 150000
+2020/08/14 09:36:55 - SV - Remove unused.0 - linenr 50000
+2020/08/14 09:36:55 - SR - New.0 - Linenr 50000
+2020/08/14 09:36:55 - TI - Existing.0 - linenr 50000
+2020/08/14 09:36:55 - SV - Existing.0 - linenr 50000
+2020/08/14 09:36:55 - SR - Existing.0 - Linenr 50000
+2020/08/14 09:36:56 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:36:56 - TI - New.0 - Finished processing (I=97214, O=0, R=0, W=97214, U=0, E=0)
+2020/08/14 09:36:56 - SV - New.0 - Finished processing (I=0, O=0, R=97214, W=97214, U=0, E=0)
+2020/08/14 09:36:56 - SL - Get OrderOrigin and TotalSales.0 - Finished processing (I=0, O=0, R=194428, W=97214, U=0, E=0)
+2020/08/14 09:36:56 - JS - Update fields.0 - Finished processing (I=0, O=0, R=97214, W=97214, U=0, E=0)
+2020/08/14 09:36:56 - SV - Remove unused.0 - Finished processing (I=0, O=0, R=97214, W=97214, U=0, E=0)
+2020/08/14 09:36:56 - SR - New.0 - Opening 20 tmp-files...
+2020/08/14 09:36:57 - TI - Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:36:57 - TI - Existing.0 - Finished processing (I=95089, O=0, R=0, W=95089, U=0, E=0)
+2020/08/14 09:36:57 - SV - Existing.0 - Finished processing (I=0, O=0, R=95089, W=95089, U=0, E=0)
+2020/08/14 09:36:57 - SR - Existing.0 - Opening 20 tmp-files...
+2020/08/14 09:36:57 - MR - Merge.0 - linenr 100000
+2020/08/14 09:36:57 - FR - Identical.0 - linenr 50000
+2020/08/14 09:36:57 - SR - New.0 - Finished processing (I=0, O=0, R=97214, W=97214, U=0, E=0)
+2020/08/14 09:36:57 - SR - Existing.0 - Finished processing (I=0, O=0, R=95089, W=95089, U=0, E=0)
+2020/08/14 09:36:58 - MR - Merge.0 - Finished processing (I=0, O=0, R=192303, W=97214, U=0, E=0)
+2020/08/14 09:36:58 - FR - Identical.0 - Finished processing (I=0, O=0, R=97214, W=2138, U=0, E=0)
+2020/08/14 09:36:58 - DUM - Output.0 - Finished processing (I=0, O=0, R=2138, W=2138, U=0, E=0)
+2020/08/14 09:36:59 - Insert / Update.0 - Finished processing (I=2138, O=2123, R=2138, W=2138, U=15, E=0)
+2020/08/14 09:36:59 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success14]
+2020/08/14 09:36:59 - ETL Injection Basic MASTER JOB Sales - Starting entry [Sales_Lineitem_Comment_Merge]
+2020/08/14 09:36:59 - Sales_Lineitem_Comment_Merge - Loading transformation from repository [Sales_Lineitem_Comment_Merge] in directory [/public/sales_import]
+2020/08/14 09:36:59 - Sales_Lineitem_Comment_Merge - Using run configuration [Pentaho local]
+2020/08/14 09:36:59 - Sales_Lineitem_Comment_Merge - Using legacy execution engine
+2020/08/14 09:37:00 - TI - New.0 - linenr 50000
+2020/08/14 09:37:00 - SV - New.0 - linenr 50000
+2020/08/14 09:37:00 - SR - New.0 - Linenr 50000
+2020/08/14 09:37:00 - TI - New.0 - linenr 100000
+2020/08/14 09:37:00 - SV - New.0 - linenr 100000
+2020/08/14 09:37:00 - SR - New.0 - Linenr 100000
+2020/08/14 09:37:00 - TI - New.0 - linenr 150000
+2020/08/14 09:37:00 - SV - New.0 - linenr 150000
+2020/08/14 09:37:00 - SR - New.0 - Linenr 150000
+2020/08/14 09:37:00 - TI - New.0 - linenr 200000
+2020/08/14 09:37:00 - SV - New.0 - linenr 200000
+2020/08/14 09:37:00 - SR - New.0 - Linenr 200000
+2020/08/14 09:37:00 - TI - Existing.0 - linenr 50000
+2020/08/14 09:37:00 - SV - Existing.0 - linenr 50000
+2020/08/14 09:37:00 - SR - Existing.0 - Linenr 50000
+2020/08/14 09:37:01 - TI - Existing.0 - linenr 100000
+2020/08/14 09:37:01 - SV - Existing.0 - linenr 100000
+2020/08/14 09:37:01 - SR - Existing.0 - Linenr 100000
+2020/08/14 09:37:01 - TI - New.0 - linenr 250000
+2020/08/14 09:37:01 - SV - New.0 - linenr 250000
+2020/08/14 09:37:01 - TI - Existing.0 - linenr 150000
+2020/08/14 09:37:01 - SR - New.0 - Linenr 250000
+2020/08/14 09:37:01 - SV - Existing.0 - linenr 150000
+2020/08/14 09:37:01 - SR - Existing.0 - Linenr 150000
+2020/08/14 09:37:01 - TI - Existing.0 - linenr 200000
+2020/08/14 09:37:01 - SV - Existing.0 - linenr 200000
+2020/08/14 09:37:01 - SR - Existing.0 - Linenr 200000
+2020/08/14 09:37:01 - TI - Existing.0 - linenr 250000
+2020/08/14 09:37:01 - SV - Existing.0 - linenr 250000
+2020/08/14 09:37:01 - SR - Existing.0 - Linenr 250000
+2020/08/14 09:37:01 - TI - New.0 - linenr 300000
+2020/08/14 09:37:01 - SV - New.0 - linenr 300000
+2020/08/14 09:37:01 - SR - New.0 - Linenr 300000
+2020/08/14 09:37:01 - TI - Existing.0 - linenr 300000
+2020/08/14 09:37:01 - SV - Existing.0 - linenr 300000
+2020/08/14 09:37:01 - SR - Existing.0 - Linenr 300000
+2020/08/14 09:37:01 - TI - Existing.0 - linenr 350000
+2020/08/14 09:37:01 - SV - Existing.0 - linenr 350000
+2020/08/14 09:37:01 - SR - Existing.0 - Linenr 350000
+2020/08/14 09:37:01 - TI - New.0 - linenr 350000
+2020/08/14 09:37:01 - SV - New.0 - linenr 350000
+2020/08/14 09:37:01 - SR - New.0 - Linenr 350000
+2020/08/14 09:37:01 - TI - Existing.0 - linenr 400000
+2020/08/14 09:37:01 - SV - Existing.0 - linenr 400000
+2020/08/14 09:37:01 - SR - Existing.0 - Linenr 400000
+2020/08/14 09:37:01 - TI - Existing.0 - linenr 450000
+2020/08/14 09:37:01 - TI - Existing.0 - Finished reading query, closing connection.
+2020/08/14 09:37:01 - TI - Existing.0 - Finished processing (I=457913, O=0, R=0, W=457913, U=0, E=0)
+2020/08/14 09:37:01 - SV - Existing.0 - linenr 450000
+2020/08/14 09:37:01 - SV - Existing.0 - Finished processing (I=0, O=0, R=457913, W=457913, U=0, E=0)
+2020/08/14 09:37:01 - SR - Existing.0 - Linenr 450000
+2020/08/14 09:37:01 - SR - Existing.0 - Opening 92 tmp-files...
+2020/08/14 09:37:01 - TI - New.0 - Finished reading query, closing connection.
+2020/08/14 09:37:01 - TI - New.0 - Finished processing (I=386517, O=0, R=0, W=386517, U=0, E=0)
+2020/08/14 09:37:01 - SV - New.0 - Finished processing (I=0, O=0, R=386517, W=386517, U=0, E=0)
+2020/08/14 09:37:01 - SR - New.0 - Opening 78 tmp-files...
+2020/08/14 09:37:01 - FR - Identical.0 - linenr 50000
+2020/08/14 09:37:01 - MR - Merge.0 - linenr 150000
+2020/08/14 09:37:01 - FR - Identical.0 - linenr 100000
+2020/08/14 09:37:02 - MR - Merge.0 - linenr 200000
+2020/08/14 09:37:02 - MR - Merge.0 - linenr 250000
+2020/08/14 09:37:02 - FR - Identical.0 - linenr 150000
+2020/08/14 09:37:02 - MR - Merge.0 - linenr 300000
+2020/08/14 09:37:02 - FR - Identical.0 - linenr 200000
+2020/08/14 09:37:02 - DUM - Output.0 - Linenr 50000
+2020/08/14 09:37:02 - MR - Merge.0 - linenr 400000
+2020/08/14 09:37:02 - FR - Identical.0 - linenr 250000
+2020/08/14 09:37:02 - MR - Merge.0 - linenr 450000
+2020/08/14 09:37:02 - FR - Identical.0 - linenr 300000
+2020/08/14 09:37:02 - MR - Merge.0 - linenr 600000
+2020/08/14 09:37:02 - FR - Identical.0 - linenr 350000
+2020/08/14 09:37:02 - MR - Merge.0 - linenr 700000
+2020/08/14 09:37:02 - FR - Identical.0 - linenr 400000
+2020/08/14 09:37:02 - MR - Merge.0 - linenr 750000
+2020/08/14 09:37:02 - MR - Merge.0 - linenr 800000
+2020/08/14 09:37:02 - SR - New.0 - Finished processing (I=0, O=0, R=386517, W=386517, U=0, E=0)
+2020/08/14 09:37:02 - SR - Existing.0 - Finished processing (I=0, O=0, R=457913, W=457913, U=0, E=0)
+2020/08/14 09:37:02 - FR - Identical.0 - linenr 450000
+2020/08/14 09:37:02 - MR - Merge.0 - Finished processing (I=0, O=0, R=844430, W=458203, U=0, E=0)
+2020/08/14 09:37:02 - FR - Identical.0 - Finished processing (I=0, O=0, R=458203, W=71976, U=0, E=0)
+2020/08/14 09:37:02 - DUM - Output.0 - Finished processing (I=0, O=0, R=71976, W=71976, U=0, E=0)
+2020/08/14 09:37:02 - SAM - Output.0 - Finished processing (I=0, O=290, R=71976, W=71976, U=0, E=0)
+2020/08/14 09:37:02 - ETL Injection Basic MASTER JOB Sales - Starting entry [OpenOrder_Lineitem_Comment_Merge]
+2020/08/14 09:37:02 - OpenOrder_Lineitem_Comment_Merge - Loading transformation from repository [OpenOrders_Lineitem_Comment_Merge] in directory [/public/sales_import]
+2020/08/14 09:37:03 - OpenOrder_Lineitem_Comment_Merge - Using run configuration [Pentaho local]
+2020/08/14 09:37:03 - OpenOrder_Lineitem_Comment_Merge - Using legacy execution engine
+2020/08/14 09:37:03 - TI - Source.0 - Finished reading query, closing connection.
+2020/08/14 09:37:03 - TI - Source.0 - Finished processing (I=1312, O=0, R=0, W=1312, U=0, E=0)
+2020/08/14 09:37:03 - SV - Source.0 - Finished processing (I=0, O=0, R=1312, W=1312, U=0, E=0)
+2020/08/14 09:37:03 - SR - Source.0 - Finished processing (I=0, O=0, R=1312, W=1312, U=0, E=0)
+2020/08/14 09:37:03 - TI - Dest.0 - Finished reading query, closing connection.
+2020/08/14 09:37:03 - TI - Dest.0 - Finished processing (I=16581, O=0, R=0, W=16581, U=0, E=0)
+2020/08/14 09:37:03 - SV - Dest.0 - Finished processing (I=0, O=0, R=16581, W=16581, U=0, E=0)
+2020/08/14 09:37:03 - SR - Dest.0 - Opening 4 tmp-files...
+2020/08/14 09:37:03 - SR - Dest.0 - Finished processing (I=0, O=0, R=16581, W=16581, U=0, E=0)
+2020/08/14 09:37:03 - MR - Merge.0 - Finished processing (I=0, O=0, R=17893, W=16691, U=0, E=0)
+2020/08/14 09:37:03 - FR - Identical.0 - Finished processing (I=0, O=0, R=16691, W=15591, U=0, E=0)
+2020/08/14 09:37:03 - DUM - Output.0 - Finished processing (I=0, O=0, R=15591, W=15591, U=0, E=0)
+2020/08/14 09:37:03 - SAM - Output.0 - Finished processing (I=0, O=110, R=15591, W=15591, U=102, E=0)
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log Success15]
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Starting entry [SQL - Log End]
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Starting entry [Success]
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [Success] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log End] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success15] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [OpenOrder_Lineitem_Comment_Merge] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [Sales_Lineitem_Comment_Merge] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success14] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [OrderSummaryFields_Merge] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success13] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [Quotes_Merge] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success15] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [OpenOrders_Merge] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success8] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [tmpLowGPP and tmpLowGPP_Acceptable] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success8] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [tmpSalesbyPartCategory_PrivateBrands] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success9] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [tmpSalesbyPartCategory_KeyMasterCategory] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success9] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [tmpSalesbyPartCategory_HighTeck] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success9] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [tmpSalesbyPartCategory_HighTeck_SalesGoals] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success7] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [tmpSalesbyPartCategory_Customers_Parts_SOAR2_FullMonthsOnly] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success6] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [tmpSalesbyPartCategory_Customers_Parts_SOAR2] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success5] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [tmpSalesbyPartCategory_Customers_Parts_SOAR] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success4] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [NOD_Sales_2Years_Merge] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success3] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [tmpPopUp_SalesSummary_Cisco] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success2] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [MonthlySalesSummaryCustomer] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [Sales Validation] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Success1] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [Sales_Merge] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [ETL Injection Basic Job] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [ETL Pumps List Sales] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Finished job entry [SQL - Log Begin] (result=[true])
+2020/08/14 09:37:03 - ETL Injection Basic MASTER JOB Sales - Job execution finished
+
+END

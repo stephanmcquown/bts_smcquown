@@ -1,0 +1,35 @@
+PIES/PILS file NationalOakDistribut_---AAP_NAT_OAK_DIST---NationalOakDistributors_GEX_90003_PIES_07012020153656.xml did not pass our automated validation. Please review the attached error report. We need you to make the corrections and send us a new file as quickly as possible.
+If you have any questions regarding the attached error report or need other assistance, reply to this email and identify your questions and/or issues.
+Completing the PIES Submission process is an important goal for the PIM Team. Your questions and issues will be addressed as a priority.
+PIES Import with errors
+Import:
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPIHTS' on product 'AC_PIESItem_FBGS_6851_VP_714004' isn't valid (IllegalLOVValue: 6210100000 for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: lov_HTSCodes)
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPILIS' on product 'AC_PIESItem_FBGS_6851_VP_714004' isn't valid (IllegalLOVValue: AVAILABLE TO ORDER for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: AC_PIES_EXPILIS_LOV)
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPIHTS' on product 'AC_PIESItem_FBGS_6852_VP_714004' isn't valid (IllegalLOVValue: 6210100000 for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: lov_HTSCodes)
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPILIS' on product 'AC_PIESItem_FBGS_6852_VP_714004' isn't valid (IllegalLOVValue: AVAILABLE TO ORDER for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: AC_PIES_EXPILIS_LOV)
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPIHTS' on product 'AC_PIESItem_FBGS_6853_VP_714004' isn't valid (IllegalLOVValue: 6210100000 for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: lov_HTSCodes)
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPILIS' on product 'AC_PIESItem_FBGS_6853_VP_714004' isn't valid (IllegalLOVValue: AVAILABLE TO ORDER for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: AC_PIES_EXPILIS_LOV)
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPIHTS' on product 'AC_PIESItem_FBGS_6854_VP_714004' isn't valid (IllegalLOVValue: 6210100000 for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: lov_HTSCodes)
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPILIS' on product 'AC_PIESItem_FBGS_6854_VP_714004' isn't valid (IllegalLOVValue: AVAILABLE TO ORDER for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: AC_PIES_EXPILIS_LOV)
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPIHTS' on product 'AC_PIESItem_FBGS_6855_VP_714004' isn't valid (IllegalLOVValue: 6210100000 for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: lov_HTSCodes)
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPILIS' on product 'AC_PIESItem_FBGS_6855_VP_714004' isn't valid (IllegalLOVValue: AVAILABLE TO ORDER for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: AC_PIES_EXPILIS_LOV)
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPIHTS' on product 'AC_PIESItem_FBGS_6856_VP_714004' isn't valid (IllegalLOVValue: 6210100000 for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: lov_HTSCodes)
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPILIS' on product 'AC_PIESItem_FBGS_6856_VP_714004' isn't valid (IllegalLOVValue: AVAILABLE TO ORDER for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: AC_PIES_EXPILIS_LOV)
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: Unable to find classification link to update in the context specified
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPIHTS' on product 'AC_PIESItem_FBGS_6893_VP_714004' isn't valid (IllegalLOVValue: 6210100000 for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: lov_HTSCodes)
+•	Error in this import 09_Items.xml setting completed with errors - Error: The value for attribute 'AC_PIES_EXPILIS' on product 'AC_PIESItem_FBGS_6893_VP_714004' isn't valid (IllegalLOVValue: AVAILABLE TO ORDER for LOV: com.stibo.core.domain.impl.ListOfValuesImpl: AC_PIES_EXPILIS_LOV)
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	Error in this import 09_Items.xml setting completed with errors - Error: Attribute 'AC_PIES_EXPInull' not found
+•	File(s) was imported with error, flagging status as completed with errors.

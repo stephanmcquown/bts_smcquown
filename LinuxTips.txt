@@ -1,0 +1,24 @@
+using PowersHell
+APPARENTLY YOU HAVE TO COPY AND THEN RIGHT-CLICK PASTE THE PASSWORD
+    ssh pentaho@tahoe.nodnet.pvt
+    svr: tahoe
+    p: jSxG7x1AGcQt
+             
+       
+or via web browser    
+    https://tahoe.nodnet.pvt:9090/
+
+ls -la 
+First postion in output indicates object type
+        d is a directory
+        - is a file
+
+Text files can be read with commands
+    less FileName.txt
+    more FileName.txt
+    cat  FileName.txt
+
+mkdir -p pentaho/somefile/someotherfile filea fileb filec
+
+torino 
+y$WL2p6iy3h78z

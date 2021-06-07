@@ -1,0 +1,113 @@
+01.00   What is the difference between a table vs view
+
+
+
+
+01.01   What is a temporary table
+
+
+
+
+
+01.02   Function vs stored procedure 
+
+
+
+
+
+01.03   What is dynamic SQL
+
+
+
+
+02.  Where can you find triggers in the DB?  	
+
+
+
+
+
+03.  How would you get the row counts for all tables?  
+
+
+
+
+
+04.  How many clustered indexes per table?  
+
+
+
+
+
+05.  How many partitions per table?   
+
+
+
+
+
+06.  How do you find locks and what do you do about them?  
+
+
+
+
+
+07.  How do you debug dynamic SQL?   
+
+
+
+
+
+08.  What are CTEs? 
+
+
+
+
+
+09.  What is a schema in MSSQL? 
+
+
+
+
+
+10.  Are views updatable?
+
+
+
+
+
+11.  What is the difference between truncate and delete?  How do they effect auto-increment columns?  
+
+
+
+
+
+12.  What is collation? 
+
+
+
+
+
+13.  What is the difference between this '%' and this '_' ?  
+
+
+
+
+
+14.  What is the difference between this #Table and ##Table ?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
