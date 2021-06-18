@@ -1,3 +1,22 @@
+paul.sullivan@advance-auto.com and jacob.brown2@advance-auto.com
+
+jSxG7x1AGcQt
+
+[('CN=Domain Users,CN=Users,DC=NODNET,DC=PVT', {'objectClass': [b'top', b'group'], 'cn': [b'Domain Users'], 'description': [b'All domain users'], 'distinguishedName': [b'CN=Domain Users,CN=Users,DC=NODNET,DC=PVT'], 'instanceType': [b'4'], 
+'whenCreated': [b'20040127220856.0Z'], 'whenChanged': [b'20190628141242.0Z'], 'uSNCreated': [b'15467'], 'memberOf': [b'CN=Users,CN=Builtin,DC=NODNET,DC=PVT'], 'uSNChanged': [b'9288192'], 'name': [b'Domain Users'], 'objectGUID': [b'\xd2\xd6O\x87]\xbd!O\xb9(\x8e\xb5\xf7\xb8X|'], 'objectSid': [b'\x01\x05\x00\x00\x00\x00\x00\x05\x15\x00\x00\x00\xd91\xf8B\x1a\xe8{VC\x17\n2\x01\x02\x00\x00'], 'sAMAccountName': [b'Domain Users'], 'sAMAccountType': [b'268435456'], 'groupType': [b'-2147483646'], 'objectCategory': [b'CN=Group,CN=Schema,CN=Configuration,DC=NODNET,DC=PVT'], 'isCriticalSystemObject': [b'TRUE'], 'dSCorePropagationData': [b'20181011210338.0Z', b'20181011203641.0Z', b'20181005155401.0Z', b'20181005155241.0Z', b'16010714223649.0Z']})]
+
+
+
+
+
+mnt/nodweb9902/PIES_App_Folder/App_Data/AAP_Internal_PartNumbers
+
+
+192.168.99.40
+
+select ndp.* from nod_dba_pumpstatus ndp where ndp.PumpName in ('PartsContent_MasterJob') and ndp.HasFailed = 1; 
+
+
 echo $(date +'%a %m/%d/%Y %T.%N')
 
 cp /home/pentaho/output/GETPAID/GETPAID_PaymentsIntraday.xml /mnt/nodper9901/toGETPAID_PM/
