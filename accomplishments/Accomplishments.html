@@ -365,7 +365,7 @@ code {
           : 'default'
     });
   </script>
-<h1 id="stephan-mcquown--052021">Stephan McQuown | 05/2021</h1>
+<h1 id="stephan-mcquown--062021">Stephan McQuown | 06/2021</h1>
 <p>ignore this regex for editing .+\r\n(.+(INC|SR)-[0-9]+).+\r\n.*\r\n</p>
 <table>
 <thead>
@@ -379,7 +379,7 @@ code {
 <tr>
 <td>Pentaho ETL Tool Migration</td>
 <td>Software Upgrade Stay Current</td>
-<td>Moved 91% of jobs <br> Spent around 60 hours so far</td>
+<td>Have one job left: the Active Directory Import <br> Spent 77 hours on this so far and about 10 on this last job</td>
 </tr>
 <tr>
 <td></td>
@@ -389,7 +389,7 @@ code {
 <tr>
 <td>CARQUEST EDI</td>
 <td>Customer project</td>
-<td>Updated to return additional columns needed by EDI</td>
+<td>Proof of concept exporting data samples for Dev purposes (used Jailer tool and went over what export would be with Buddy)</td>
 </tr>
 <tr>
 <td></td>
@@ -399,7 +399,77 @@ code {
 <tr>
 <td>AAP 855</td>
 <td>Fix Part Numbers Sending AAP on Order Conf</td>
-<td>Worked w Brice and Buddy extensively to write procedures for updating table <br> Proceeding in safest possible manner since this is in production (code) <br> Brice no longer needs C# to treat AAP differently than other EDI cusotmers</td>
+<td>Rewrote SQL to get the AAP part numbers, utlimately upserting from the existing table Thomas (PIES process) writes too.  Brice and I meticulously tested this over several weeks to ensure existing processes did not break (had to be done on Prod) <br> ~ 8 hours</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Content Changes</td>
+<td>Sales David J Zara Marketing Upload New Media Docs HIT</td>
+<td>This came from Tom F.  David J asked me about this on a nearly daily basis.  He could not get images to load using &quot;Unilogs&quot; process.  <br> I ultimately pulled all this down locally and set up a testing environment to figure out what was going wrong.  <br> Updated this to support pulling images the way they load them vs Unilog; also updated  the code to standardize naming convention for the media docs. Tested tested tested.  <br> ~ 11 hours</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Shipper Service Rule Changes</td>
+<td>Added OBS Rule to Nightly Calc Job</td>
+<td>This was originally being done in Perfection.  After discussing with Scott, moved it to SQL where ALL the other Shipper Service Rules are calculated and stored.  In other words, put it with the existing source.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Documentation Customer Sources VTiger</td>
+<td>Let There Be Light</td>
+<td>Worked with Sarah to document the sources of customer info in our systems.  Also, I explained where VTiger gets and puts data.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Documentation Github Repos</td>
+<td>Process Improvements</td>
+<td><li> Made README-STANDARDS repository to explain code standards, Git naming conventions, etc </li> <li> Made Github repo for Pentaho config files and local directories for testing debug purposes.  Includes Windows Linux versions and corresponding references to the Prod Test databases </li> <li> Added database docs to the README-STANDARDS repository; useful for new hires and existing developers </li></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Crystal Reports Migration</td>
+<td>Two Reports Missed And Remigrated</td>
+<td>Price Book Excel Version <br> Customer Sales by Salesperson EOM (Period Comparison)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Training</td>
+<td>New Hire</td>
+<td>Spent a lot of time working w Roz set up, new systems, QA etc</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ETL Adds</td>
+<td>New Data Tables</td>
+<td>Legacy DW imports of ABT (GOLD) tables <br></td>
 </tr>
 </tbody>
 </table>
@@ -412,73 +482,94 @@ code {
 </thead>
 <tbody>
 <tr>
-<td>GetPaid did not update the AR open items#INC-19904</td>
+<td>Big assist w Brice to provide David Jativa w ABT report #INC-20151</td>
 </tr>
 <tr>
-<td>Perfection/Access Discrepancies#INC-19888</td>
+<td>New Export of NCS/SSI Usernames and Passwords#INC-20491</td>
 </tr>
 <tr>
-<td>Sales Data from 5/21/21 not available#INC-19883</td>
+<td>FW: [EXTERNAL] SCPSD-53345 Demand History - GER.070295, location 1#INC-20523</td>
 </tr>
 <tr>
-<td>Missing Batch #1132 from &quot;freightcosts&quot; table#INC-19829</td>
+<td>RE: Content Load Not Working#INC-19828</td>
 </tr>
 <tr>
-<td>BI launch pad - Report Run Error - Generic External under Sales#INC-19814</td>
+<td>Invoices missing from Alternate Location#INC-19511</td>
 </tr>
 <tr>
-<td>FW: Sales Data Variances 21.5.17#INC-19791</td>
+<td>MMM.1913 is obsolete#INC-19887</td>
 </tr>
 <tr>
-<td>Content Load Not Working#INC-19737</td>
+<td>We need information on the GetPaid export job#INC-20409</td>
 </tr>
 <tr>
-<td>Decarates#INC-19730</td>
+<td>Assistance On 855#INC-19809</td>
 </tr>
 <tr>
-<td>FW: Mac's Distributing 9167226227#INC-19711</td>
+<td>Weird Image appearing for some Products#INC-20407</td>
 </tr>
 <tr>
-<td>BI Ballistix Calendar#INC-19706</td>
+<td>Runaway Query BI_TEST NODRHEBIAZ#INC-20519</td>
 </tr>
 <tr>
-<td>manufacture links are gone#INC-19668</td>
+<td>RE: Request for Steve Bergman : Perfection Enhancement - Obsolete Products - Creating an automated process for updating the Shipper Service Rule (SSR)#INC-20453</td>
 </tr>
 <tr>
-<td>Ballistix Opportunities#INC-19661</td>
+<td>Missing Access on SAP#INC-19489</td>
 </tr>
 <tr>
-<td>Ballistix Opportunities#INC-19657</td>
+<td>PIES Dimensions Weight Truncating#INC-19354</td>
 </tr>
 <tr>
-<td>Part Sources is not working#INC-19648</td>
+<td>Pricing Issues - TRC.28032 - $0.00 PC43 and PC60#INC-20327</td>
 </tr>
 <tr>
-<td>GEN Products not Visible for Approved Customers#INC-19614</td>
+<td>RE: [EXTERNAL] Error in Source Bracket File#INC-20283</td>
 </tr>
 <tr>
-<td>csr power bi not working#INC-19596</td>
+<td>Standards App Team#INC-19447</td>
 </tr>
 <tr>
-<td>Parts Match Report#INC-19577</td>
+<td>FW: Ecommerce Order Issue#INC-19091</td>
 </tr>
 <tr>
-<td>Restoring a deleted dashboard#INC-19568</td>
+<td>SAP reports BI launch Pad#INC-20237</td>
 </tr>
 <tr>
-<td>Sales data Missing#INC-19565</td>
+<td>Add New Field to table &quot;bols&quot; - &quot;Lift Gate&quot;#INC-20174</td>
 </tr>
 <tr>
-<td>Excel And MS Access Help#INC-19491</td>
+<td>AAP and CARQUEST Monthly Sales Report - add recipients#INC-20209</td>
 </tr>
 <tr>
-<td>Admin Credentials Needed to Download Analyze in Excel in Power BI#INC-19458</td>
+<td>Send Obsolete and Superseded Flag in Nightly Product Import Call#INC-20214</td>
 </tr>
 <tr>
-<td>USC01G17 shows allocations message perfection shows no allocation#INC-19455</td>
+<td>FW: NOTICE: Planned Reports Application Change to be conducted by May 14, 2021#INC-20045</td>
 </tr>
 <tr>
-<td>Request for Glenn Crow : EZ Ordering Technical Setup#SR-19395</td>
+<td>IL2000 Data Missing for Week Starting 5/30 (data from prior week)#INC-20106</td>
+</tr>
+<tr>
+<td>Restomotive API Feed Issues - Inventory not updating#INC-19911</td>
+</tr>
+<tr>
+<td>Price Book Effective Dates#INC-19647</td>
+</tr>
+<tr>
+<td>Colortone Pricing on USC Showing All Zero Cost (323-661-1103)#INC-20126</td>
+</tr>
+<tr>
+<td>We have a problem with the SAP Report &quot;Open Invoices Data File AAP CQA and DC Excluded 2021-05-31&quot;#INC-20113</td>
+</tr>
+<tr>
+<td>Pentaho Production Server Down#INC-20058</td>
+</tr>
+<tr>
+<td>No Sales In BI From Tuesday 6/1#INC-20050</td>
+</tr>
+<tr>
+<td>I am receiving an error message when I am try to edit 6/1/21#INC-20052</td>
 </tr>
 </tbody>
 </table>

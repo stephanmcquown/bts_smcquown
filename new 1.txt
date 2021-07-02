@@ -1,92 +1,25 @@
-paul.sullivan@advance-auto.com and jacob.brown2@advance-auto.com
-
-jSxG7x1AGcQt
-
-[('CN=Domain Users,CN=Users,DC=NODNET,DC=PVT', {'objectClass': [b'top', b'group'], 'cn': [b'Domain Users'], 'description': [b'All domain users'], 'distinguishedName': [b'CN=Domain Users,CN=Users,DC=NODNET,DC=PVT'], 'instanceType': [b'4'], 
-'whenCreated': [b'20040127220856.0Z'], 'whenChanged': [b'20190628141242.0Z'], 'uSNCreated': [b'15467'], 'memberOf': [b'CN=Users,CN=Builtin,DC=NODNET,DC=PVT'], 'uSNChanged': [b'9288192'], 'name': [b'Domain Users'], 'objectGUID': [b'\xd2\xd6O\x87]\xbd!O\xb9(\x8e\xb5\xf7\xb8X|'], 'objectSid': [b'\x01\x05\x00\x00\x00\x00\x00\x05\x15\x00\x00\x00\xd91\xf8B\x1a\xe8{VC\x17\n2\x01\x02\x00\x00'], 'sAMAccountName': [b'Domain Users'], 'sAMAccountType': [b'268435456'], 'groupType': [b'-2147483646'], 'objectCategory': [b'CN=Group,CN=Schema,CN=Configuration,DC=NODNET,DC=PVT'], 'isCriticalSystemObject': [b'TRUE'], 'dSCorePropagationData': [b'20181011210338.0Z', b'20181011203641.0Z', b'20181005155401.0Z', b'20181005155241.0Z', b'16010714223649.0Z']})]
+To ask Buddy:  
+    wms2021modelweb or wms2021modeltest: BUDDY will pull together
+    As far as adding new EOMS customer locations, Buddy had agent jobs that did EDI (say AAP); mimic that and set an agent job
+    
 
 
 
 
-
-mnt/nodweb9902/PIES_App_Folder/App_Data/AAP_Internal_PartNumbers
-
-
-192.168.99.40
-
-select ndp.* from nod_dba_pumpstatus ndp where ndp.PumpName in ('PartsContent_MasterJob') and ndp.HasFailed = 1; 
+\\nodmagento9901\media\MFRHIT\SDS\77423 2 1 voc high solids dtm primer sealer - whiteca.pdf
 
 
-echo $(date +'%a %m/%d/%Y %T.%N')
-
-cp /home/pentaho/output/GETPAID/GETPAID_PaymentsIntraday.xml /mnt/nodper9901/toGETPAID_PM/
-http://tahoe.nodnet.pvt:8080/pentaho/kettle/status
-
-http://tahoe.nodnet.pvt:8080/pentaho/kettle/status
-
-http://tahoe.nodnet.pvt:8080/pentaho/kettle/status
-    Secs Mins Hrs DayOMonth Month DayOWeek Year
-Chron attempts: */15 6-18 * * 1-5 * (want every 15 minutes M-F 6 AM 6 PM)
-Chron attempts: * */15 6-18 * * 1-5 * (want every 15 minutes M-F 6 AM 6 PM)
-Chron attempts: ? */15 6-18 * * 1-5 * (want every 15 minutes M-F 6 AM 6 PM)
-Chron attempts: */15 * 6-18 * * 1-5 * (want every 15 minutes M-F 6 AM 6 PM)
-Chron attempts: ? 15 * 6-18 * * 1-5 * (want every 15 minutes M-F 6 AM 6 PM)
-Chron attempts: * 15 6-18 * * 1-5 * (want every 15 minutes M-F 6 AM 6 PM)....this gives every hour at 15 past hour from 6 AM - 6 PM
-Chron attempts: 0 */15 6-18 * * 1-5 * (want every 15 minutes M-F 6 AM 6 PM)....this gives an error
-Chron attempts: * *\/15 6-18 * * 1-5 * (want every 15 minutes M-F 6 AM 6 PM)....this gives an error
-Chron attempts: * 0,15,30,45 6-18 * * 1-5 * (want every 15 minutes M-F 6 AM 6 PM)....this gives an error
-Chron attempts: 0 0,15,30,45 6-18 ? * 1-5 *
+drwxrwx---   2 pick pick 4.0K Oct 11  2019 archives/
+lrwxrwxrwx   1 root root   19 Jun 14  2018 conversion -> /network/conversion/
+-rwxrwxrwx   1 pick pick 1.6G Jun 28 01:12 CustPartSlsHist*
+-rw-r--r--   1 pick pick  32G Jun 28 04:05 fs
+drwxrwx--x   4 root pick 4.0K Jun 25  2020 getpaid/
+drwxrwx--x   4 root pick 4.0K Mar  3  2020 lockbox/
+drwxrwxrwx   5 pick root 4.0K Apr 22 02:11 sqltables/
+-rw-rw-r--   1 pick pick  24G Nov 15  2020 test.as
+drwxrwxrwx   3 pick root 4.0K Jun  1 11:46 ToPerfection/
+-rwxrwxrwx   1 pick pick  16G Jun 26 08:03 TrackingFilesDump*
 
 
-0 0,15,30,45 6-20 ? * * *
-
--rwxr--r--  1 root root 7847 Jun 29  2020 getpaid-file-transfer.sh*
--rwxr--r--  1 root root 6986 Mar  9 15:50 il2000-file-transfer.sh*
--rwxr--r--  1 root root 2056 Apr 21 19:03 magento_convert_images_tif2jpg.sh*
--rwxr--r--  1 root root 2684 Apr 21 19:58 magento_create_thumbnail_images.sh*
--rwxr--r--  1 root root 5300 Apr 23 14:54 magento_import_vendor_media_files.sh*
--rwxr--r--. 1 root root 4662 Dec 23  2019 rar_archive_perfection_data.sh*
--rwxr--r--. 1 root root 4334 Apr 20  2019 tar_archive_perfection_data.sh*
--rwxr--r--  1 root root 5520 Apr 30  2020 tranzact-file-transfer.sh*
--rwxr--r--  1 root root 6791 Feb 23 09:33 unilog-file-transfer.sh*
-
-
-2021/05/17 08:30:00 - LegacyDW_Imports - Starting entry [DBA Dash - Begin]
-2021/05/17 08:30:00 - LegacyDW_Imports - Starting entry [ContactAccountMarketingInfo]
-2021/05/17 08:30:00 - ContactAccountMarketingInfo - Using run configuration [Pentaho local]
-2021/05/17 08:30:00 - ContactAccountMarketingInfo - Running transformation using the Kettle execution engine
-2021/05/17 08:30:01 - TI - Dest.0 - Finished reading query, closing connection.
-2021/05/17 08:30:01 - TI - Dest.0 - Finished processing (I=5119, O=0, R=0, W=5119, U=0, E=0)
-2021/05/17 08:30:01 - SV - Dest.0 - Finished processing (I=0, O=0, R=5119, W=5119, U=0, E=0)
-2021/05/17 08:30:01 - SR - Dest.0 - Finished processing (I=0, O=0, R=5119, W=5119, U=0, E=0)
-2021/05/17 08:30:01 - TI - Src.0 - Finished reading query, closing connection.
-2021/05/17 08:30:01 - TI - Src.0 - Finished processing (I=5123, O=0, R=0, W=5123, U=0, E=0)
-2021/05/17 08:30:01 - SV - Src.0 - Finished processing (I=0, O=0, R=5123, W=5123, U=0, E=0)
-2021/05/17 08:30:01 - MR - Merge.0 - ERROR (version 9.1.0.7-567, build 9.1.0.7-567 from 2021-04-16 04.18.42 by buildguy) : Unexpected error
-2021/05/17 08:30:01 - MR - Merge.0 - ERROR (version 9.1.0.7-567, build 9.1.0.7-567 from 2021-04-16 04.18.42 by buildguy) : org.pentaho.di.core.exception.KettleException: 
-2021/05/17 08:30:01 - MR - Merge.0 - Invalid layout detected in input streams, keys and values to merge have to be of identical structure and be in the same place in the rows
-2021/05/17 08:30:01 - MR - Merge.0 - 
-2021/05/17 08:30:01 - MR - Merge.0 - We detected rows with varying number of fields, this is not allowed in a transformation.  The first row contained 29 fields, another one contained 30 : [Perfection_IDOrLead_ID String(30)], [IsClosed Boolean], [DateABTimesActivation Timestamp], [FreeBundles Integer(9)], [CustomerOrLead String(1)], [CustomerType String(50)], [CustomerSegment String(50)], [CustomerGroup String(50)], [CustomerCorpOwnerShipOverride Boolean], [CustomerMarketMaker Boolean], [CustomerERP String(50)], [CustomerHitProspect Boolean], [CustomerHitPartner Boolean], [CustomerHitSignatureDate Timestamp], [EZOrderingCandidate Boolean], [NumberEmployees Integer(9)], [AnnualRevenue Integer(9)], [NAICS String(5)], [PrimaryLanguage String(10)], [PaintBESA Boolean], [PaintGoalBESA Integer(9)], [PaintDateContractBESA Timestamp], [PaintWAN Boolean], [PaintGoalWAN Integer(9)], [PaintDateContractWAN Timestamp], [PaintPRP Boolean], [PaintGoalPRP Integer(9)], [PaintDateContractPRP Timestamp], [DateUpdated Timestamp], [UpdatedBy String(50)]
-2021/05/17 08:30:01 - MR - Merge.0 - 
-2021/05/17 08:30:01 - MR - Merge.0 - 
-2021/05/17 08:30:01 - MR - Merge.0 - 	at org.pentaho.di.trans.steps.mergerows.MergeRows.processRow(MergeRows.java:101)
-2021/05/17 08:30:01 - MR - Merge.0 - 	at org.pentaho.di.trans.step.RunThread.run(RunThread.java:62)
-2021/05/17 08:30:01 - MR - Merge.0 - 	at java.lang.Thread.run(Thread.java:748)
-2021/05/17 08:30:01 - MR - Merge.0 - Caused by: org.pentaho.di.core.exception.KettleRowException: 
-2021/05/17 08:30:01 - MR - Merge.0 - We detected rows with varying number of fields, this is not allowed in a transformation.  The first row contained 29 fields, another one contained 30 : [Perfection_IDOrLead_ID String(30)], [IsClosed Boolean], [DateABTimesActivation Timestamp], [FreeBundles Integer(9)], [CustomerOrLead String(1)], [CustomerType String(50)], [CustomerSegment String(50)], [CustomerGroup String(50)], [CustomerCorpOwnerShipOverride Boolean], [CustomerMarketMaker Boolean], [CustomerERP String(50)], [CustomerHitProspect Boolean], [CustomerHitPartner Boolean], [CustomerHitSignatureDate Timestamp], [EZOrderingCandidate Boolean], [NumberEmployees Integer(9)], [AnnualRevenue Integer(9)], [NAICS String(5)], [PrimaryLanguage String(10)], [PaintBESA Boolean], [PaintGoalBESA Integer(9)], [PaintDateContractBESA Timestamp], [PaintWAN Boolean], [PaintGoalWAN Integer(9)], [PaintDateContractWAN Timestamp], [PaintPRP Boolean], [PaintGoalPRP Integer(9)], [PaintDateContractPRP Timestamp], [DateUpdated Timestamp], [UpdatedBy String(50)]
-2021/05/17 08:30:01 - MR - Merge.0 - 
-2021/05/17 08:30:01 - MR - Merge.0 - 	at org.pentaho.di.trans.step.BaseStep.safeModeChecking(BaseStep.java:2174)
-2021/05/17 08:30:01 - MR - Merge.0 - 	at org.pentaho.di.trans.steps.mergerows.MergeRows.checkInputLayoutValid(MergeRows.java:265)
-2021/05/17 08:30:01 - MR - Merge.0 - 	at org.pentaho.di.trans.steps.mergerows.MergeRows.processRow(MergeRows.java:99)
-2021/05/17 08:30:01 - MR - Merge.0 - 	... 2 more
-2021/05/17 08:30:01 - MR - Merge.0 - Finished processing (I=0, O=0, R=2, W=0, U=0, E=1)
-2021/05/17 08:30:01 - ContactAccountMarketingInfo_MERGE - Transformation detected one or more steps with errors.
-2021/05/17 08:30:01 - ContactAccountMarketingInfo_MERGE - Transformation is killing the other steps!
-2021/05/17 08:30:01 - ContactAccountMarketingInfo_MERGE - ERROR (version 9.1.0.7-567, build 9.1.0.7-567 from 2021-04-16 04.18.42 by buildguy) : Errors detected!
-2021/05/17 08:30:01 - SR - Src.0 - Finished processing (I=0, O=0, R=5123, W=4983, U=0, E=0)
-2021/05/17 08:30:01 - ContactAccountMarketingInfo_MERGE - ERROR (version 9.1.0.7-567, build 9.1.0.7-567 from 2021-04-16 04.18.42 by buildguy) : Errors detected!
-2021/05/17 08:30:01 - LegacyDW_Imports - Starting entry [DBA Dash - Fail]
-2021/05/17 08:30:01 - LegacyDW_Imports - Finished job entry [DBA Dash - Fail] (result=[true])
-2021/05/17 08:30:01 - LegacyDW_Imports - Finished job entry [ContactAccountMarketingInfo] (result=[true])
-2021/05/17 08:30:01 - LegacyDW_Imports - Finished job entry [DBA Dash - Begin] (result=[true])
-2021/05/17 08:30:01 - LegacyDW_Imports - Job execution finished
+06/25/2021,06/25/2021#General Paint (GenRock GenVerde Gen2o),06/25/2021,https://nodonline.nationaloak.com/manufacturer/MFRGEN|Genstar/Genwheel Products,06/25/2021,https://nodonline.nationaloak.com/manufacturer/MFRGSW|GENTEC AND GREENTEC,06/25/2021,https://nodonline.nationaloak.com/manufacturer/MFRGTC|NORTH STAR,06/25/2021,https://nodonline.nationaloak.com/manufacturer/MFRNOS
+06/21/2021,06/21/2021#General Paint (GenRock GenVerde Gen2o),06/21/2021,https://nodonline.nationaloak.com/manufacturer/MFRGEN|GLOBALSTAR,06/21/2021,https://nodonline.nationaloak.com/manufacturer/MFRGLO|GENTEC AND GREENTEC,06/21/2021,https://nodonline.nationaloak.com/manufacturer/MFRGTC|NORTH STAR,06/21/2021,https://nodonline.nationaloak.com/manufacturer/MFRNOS

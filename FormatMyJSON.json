@@ -1,44 +1,97 @@
 {
-    [("CN=Domain Users,CN=Users,DC=NODNET,DC=PVT",
-        {
-            "objectClass": [b"top", b"group"
-            ],
-            "cn": [b"Domain Users"
-            ],
-            "description": [b"All domain users"
-            ],
-            "distinguishedName": [b"CN=Domain Users,CN=Users,DC=NODNET,DC=PVT"
-            ],
-            "instanceType": [b"4"
-            ],
-            "whenCreated": [b"20040127220856.0Z"
-            ],
-            "whenChanged": [b"20190628141242.0Z"
-            ],
-            "uSNCreated": [b"15467"
-            ],
-            "memberOf": [b"CN=Users,CN=Builtin,DC=NODNET,DC=PVT"
-            ],
-            "uSNChanged": [b"9288192"
-            ],
-            "name": [b"Domain Users"
-            ],
-            "objectGUID": [b"\xd2\xd6O\x87]\xbd!O\xb9(\x8e\xb5\xf7\xb8X|"
-            ],
-            "objectSid": [b"\x01\x05\x00\x00\x00\x00\x00\x05\x15\x00\x00\x00\xd91\xf8B\x1a\xe8{VC\x17\n2\x01\x02\x00\x00"
-            ],
-            "sAMAccountName": [b"Domain Users"
-            ],
-            "sAMAccountType": [b"268435456"
-            ],
-            "groupType": [b"-2147483646"
-            ],
-            "objectCategory": [b"CN=Group,CN=Schema,CN=Configuration,DC=NODNET,DC=PVT"
-            ],
-            "isCriticalSystemObject": [b"TRUE"
-            ],
-            "dSCorePropagationData": [b"20181011210338.0Z", b"20181011203641.0Z", b"20181005155401.0Z", b"20181005155241.0Z", b"16010714223649.0Z"
-            ]
-        })
-    ]
+    "upc": "",
+    "brand": "",
+    "media": {
+        "docs": [
+            {
+                "name": "77423 2 1 voc high solids dtm primer sealer - whiteca.pdf",
+                "path": "MFRHIT/SDS",
+                "type": "SDS"
+            },
+            {
+                "name": "77423-1.pdf",
+                "path": "MFRHIT/Tech",
+                "type": "Technical Data Sheet (TDS)"
+            },
+            {
+                "name": "77423-1.pdf",
+                "path": "MFRHIT/Tech",
+                "type": "Technical Data Sheet (TDS)"
+            }
+        ],
+        "urls": [
+            {
+                "path": "",
+                "type": "mfr url"
+            },
+            {
+                "path": "",
+                "type": "videourl"
+            }
+        ],
+        "images": [
+            {
+                "name": "hit_77423-1.jpg",
+                "path": "MFRHIT/Images",
+                "type": "productimage"
+            },
+            {
+                "name": "hit77423-12.jpg",
+                "path": "MFRHIT/Images",
+                "type": "alternateimage1"
+            },
+            {
+                "name": "hit7424-14.jpg",
+                "path": "MFRHIT/Images",
+                "type": "alternateimage2"
+            }
+        ]
+    },
+    "mfr_id": "MFRHIT",
+    "weight": "14.7500",
+    "includes": "",
+    "item type": "Standard",
+    "plpartuom": {
+        "uom": "GL",
+        "partnumber": "77423-1",
+        "productline_id": "HIT"
+    },
+    "pricelist": "155.46",
+    "vendor_id": "SEM",
+    "attributes": {},
+    "partstatus": "A",
+    "trade mark": "",
+    "application": "",
+    "dateupdated": "2021-05-13 23:43:19",
+    "pricejobber": "93.28",
+    "product name": "",
+    "productgroup": "",
+    "scoregeneral": "3",
+    "scoreprecise": "5.00",
+    "dategenerated": "2021-06-24 17:46:17",
+    "hashazmatcode": "1",
+    "shippingrules": "",
+    "featurebullets": "",
+    "freightexclude": "0",
+    "soar2category1": "Aftermarket CPH",
+    "partcategory_id1": "Coatings & Paint Systems",
+    "partcategory_id2": "Aftermarket Clears, Primers, Hardeners",
+    "partcategory_id3": "Primers",
+    "partcategory_id4": "",
+    "titledescription": "2.1 VOC HS DTM PRIMER/SEALER, WHITE, GL",
+    "manufacturer name": "",
+    "marketingkeywords": ",11345861,HIT.77423-1,HIT77423-1,NO-77423-1",
+    "showhazardouslogo": "0",
+    "standard/approvals": "",
+    "prop65warningmessage": "<a href=\"http://www.p65warnings.ca.gov\"><b>WARNING:</b> Cancer</a>",
+    "upsellitempartnumber": "",
+    "marketing description": "",
+    "relateditempartnumber": "",
+    "configurableattributes": [
+        ""
+    ],
+    "productgroupparentname": "",
+    "alternate part number-1": "",
+    "manufacturer part number": "",
+    "standard packaging information": ""
 }
