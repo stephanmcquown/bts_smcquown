@@ -1,0 +1,41 @@
+# Order Processing 
+
+## ABOUT 
+
+Rules for processing CQ EDI orders  
+
+## REQUIREMENTS 
+
+### Shipments
+
+Orders going to same destination should be combined into shipment IF possible
+
+- Shipper service (shipping method) must be the same  
+- Prompt user for combining orders with same destination (needs to go to Ops mang I think?)
+
+### ASNs and SSCCs
+
+***SSCC Rules*** 
+
+- One SSCC per handling unit.  Handling units can be pallets, cartons, or NA (whole order treated as handling unit)  
+- Two copies of SSCC for handling unit == PALLET
+
+***Ship Via ASN Rules*** 
+
+Send 856 (ASN) before customer has goods on doc AND before 810 (Invoice)
+
+- PD == 1 ASN per handling unit (already have 1 SSCCS per above
+- OT CC == 1 ASN per shipment 
+- WC == 1 ASN per shipment EACH ORDER IS SEPARATE SHIPMENT
+
+Timing of ASNs 
+
+Check for orders created prior day and run every X hours between earliest cutoff and latest cutoff, say 12 AM and 12 PM discriminating on ship via...something like that
+Ontario's OT ship by cutoff and its 8AM PST
+
+### Packing
+
+- > 1 handling unit requires SKUs scanned individually to handling unit 
+
+
+

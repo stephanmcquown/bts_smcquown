@@ -1,25 +1,9 @@
-To ask Buddy:  
-    wms2021modelweb or wms2021modeltest: BUDDY will pull together
-    As far as adding new EOMS customer locations, Buddy had agent jobs that did EDI (say AAP); mimic that and set an agent job
-    
+# Search email for category items starting after Nov 1st 2020
+Category: 3430 Start:>1/11/2020 
+from: duane AND (body: https://help.pentaho.com OR body: https://support.pentaho)
+jSxG7x1AGcQt
+
+\1;\r\ngo\r\ncreate procedure \2\r\nas\r\n/*\r\n# \2\r\n\r\n## TEST\r\n\r\nexec \2;\r\n\r\n## ABOUT\r\n\r\n\r\n\r\n## REQUIREMENTS\r\n\r\n\r\n\r\n## PROGRAM\r\n\r\n\r\n\r\n## DEVELOPMENT\r\n\r\n7/22/2021 smcquown init\r\n*/\r\n\r\n\r\n\r\n;\r\ngo\r\n    
 
 
-
-
-\\nodmagento9901\media\MFRHIT\SDS\77423 2 1 voc high solids dtm primer sealer - whiteca.pdf
-
-
-drwxrwx---   2 pick pick 4.0K Oct 11  2019 archives/
-lrwxrwxrwx   1 root root   19 Jun 14  2018 conversion -> /network/conversion/
--rwxrwxrwx   1 pick pick 1.6G Jun 28 01:12 CustPartSlsHist*
--rw-r--r--   1 pick pick  32G Jun 28 04:05 fs
-drwxrwx--x   4 root pick 4.0K Jun 25  2020 getpaid/
-drwxrwx--x   4 root pick 4.0K Mar  3  2020 lockbox/
-drwxrwxrwx   5 pick root 4.0K Apr 22 02:11 sqltables/
--rw-rw-r--   1 pick pick  24G Nov 15  2020 test.as
-drwxrwxrwx   3 pick root 4.0K Jun  1 11:46 ToPerfection/
--rwxrwxrwx   1 pick pick  16G Jun 26 08:03 TrackingFilesDump*
-
-
-06/25/2021,06/25/2021#General Paint (GenRock GenVerde Gen2o),06/25/2021,https://nodonline.nationaloak.com/manufacturer/MFRGEN|Genstar/Genwheel Products,06/25/2021,https://nodonline.nationaloak.com/manufacturer/MFRGSW|GENTEC AND GREENTEC,06/25/2021,https://nodonline.nationaloak.com/manufacturer/MFRGTC|NORTH STAR,06/25/2021,https://nodonline.nationaloak.com/manufacturer/MFRNOS
-06/21/2021,06/21/2021#General Paint (GenRock GenVerde Gen2o),06/21/2021,https://nodonline.nationaloak.com/manufacturer/MFRGEN|GLOBALSTAR,06/21/2021,https://nodonline.nationaloak.com/manufacturer/MFRGLO|GENTEC AND GREENTEC,06/21/2021,https://nodonline.nationaloak.com/manufacturer/MFRGTC|NORTH STAR,06/21/2021,https://nodonline.nationaloak.com/manufacturer/MFRNOS
+set @OrderID_Int = (select WMS.dbo.ufl_SplitOrderIDOrderNo(@OrderID)); 
